@@ -31,15 +31,12 @@ class Graph:
             self.rank[node] = 0
 
     def sortEdges(self):
-        def getKey(item):
-            return item[2]
-        sorted(self.edges, key = getKey)
+        # def getKey(item):
+        #     return item[2]
+        self.edges.sort(key = lambda x: x[2])
+
 
     #####################################################################
-    def make_set(self, vertex):
-        self.parent[vertex] = vertex
-        self.rank[vertex] = 0
-
     def find(self, vertex):
         c = vertex
         while c != self.parent[c]:
@@ -67,6 +64,9 @@ class Graph:
     def KruskalMST(self):
         '''To use Kruskal MST, the sortEdges'''
         self.sortEdges()
+
+        print(self.edges)
+
         mst = set()
         for edge in self.edges:
             v1, v2, weight = edge
@@ -74,7 +74,7 @@ class Graph:
                 self.join(v1, v2)
                 mst.add(edge)
 
-        return sorted(mst)
+        return mst
 
 
 '''
@@ -115,10 +115,8 @@ def build_knn_graph(knn_object):
 knn = find_neighbors(image, 3)
 g = build_knn_graph(knn)
 
-print(g.vertices)
-g.sortEdges()
-print(g.edges)
-
+#g.sortEdges()
+print(g.KruskalMST())
 
 # graph = Graph([], [])
 #knn = find_neighbors(image, 5)
