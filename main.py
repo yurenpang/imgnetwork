@@ -1,5 +1,5 @@
 from Graph import *
-from MST import *
+# from MST import *
 from sklearn.neighbors import NearestNeighbors
 import cv2
 image = './phot.jpg'
@@ -45,6 +45,5 @@ k = 20
 
 g = Graph([1,2,3,4,5], [(1,2,5), (2,3,8), (4,5,12), (1,5,20), (2,5,25), (3,4,30)])
 
-mst = MST(g)
-print(mst.KruskalMST())
+print(g.HFSegmentation(100))
 
