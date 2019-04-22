@@ -16,19 +16,19 @@ def find_neighbors(image, k):
 
     for i in range(h):
         for j in range(w):
-            R = img[i][j][0]
-            G = img[i][j][1]
-            B = img[i][j][2]
+            R, G, B = img[i][j]
             feature_space.append([i, j, R, G, B])
 
     nbrs = NearestNeighbors(n_neighbors=k, algorithm='ball_tree').fit(feature_space)
     distances, indices = nbrs.kneighbors(feature_space)
 
-    return [indices, distances, k]
+    return [indices, distances, k, h, w, img]
 
 
-def build_knn_graph(knn_object):
-    graph = Graph([], [])
+def build_knn_graph(image,k,c):
+    knn_object=find_neighbors(image,k)
+    print('got knn')
+    graph = Graph(knn_object[5],knn_object[3],knn_object[4],c)
     edges = knn_object[0]
     weights = knn_object[1]
     k = knn_object[2]
@@ -38,12 +38,18 @@ def build_knn_graph(knn_object):
         for j in range(1, k):
             graph.addNode(edges[i][j])
             graph.addEdge(edges[i, 0], edges[i, j], weights[i, j])
-
-    return graph.sortEdges()
+    graph.edges.sort(key=lambda x: x[2])
+    print('built graph')
+    return graph
 
 k = 20
 
-g = Graph([1,2,3,4,5], [(1,2,5), (2,3,8), (4,5,12), (1,5,20), (2,5,25), (3,4,30)])
+# g = Graph([1,2,3,4,5], [(1,2,5), (2,3,8), (4,5,12), (1,5,20), (2,5,25), (3,4,30)])
+#
 
-print(g.HFSegmentation(100))
+
+g=build_knn_graph(image,10,100)
+g.HFSegmentation()
+g.color()
+
 

@@ -46,9 +46,7 @@ class Graph:
             self.parent[vertex] = c
             vertex = p
         return c
-        # if parent[vertex] != vertex:
-        #     parent[vertex] = self.find(parent[vertex])
-        # return parent[vertex]
+
 
     def join(self, x, y):
         rootX, rootY = self.find(x), self.find(y)
@@ -88,9 +86,7 @@ def find_neighbors(image,k):
 
     for i in range(h):
         for j in range(w):
-            R = img[i][j][0]
-            G = img[i][j][1]
-            B = img[i][j][2]
+            R,G,B = img[i][j]
             feature_space.append([i, j, R, G, B])
 
     nbrs = NearestNeighbors(n_neighbors=k, algorithm='ball_tree').fit(feature_space)
