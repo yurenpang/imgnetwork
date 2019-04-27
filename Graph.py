@@ -94,16 +94,14 @@ class Graph:
             y = self.find_root(v2)
 
             if x != y:
-                # print("Pair", x, y)
-                # print(threshold[x], "and", threshold[y])
                 if weight < min(self.threshold[x],self.threshold[y]):
                     xroot=self.union_tree_set(y, x)
                     self.threshold[xroot] = weight + self.calc_threshold(self.c,self.size[xroot])
                    # result.setdefault(x, []).append(edge)
         print('segmented')
+
     def color(self):
         c={}
-        print('start color')
         for v in self.vertices:
             root=self.find_root(v)
             if root not in c:

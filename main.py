@@ -2,7 +2,7 @@ from Graph import *
 # from MST import *
 from sklearn.neighbors import NearestNeighbors
 import cv2
-image = './phot.jpg'
+image = 'phot.jpg'
 
 
 def find_neighbors(image, k):
@@ -17,7 +17,7 @@ def find_neighbors(image, k):
     for i in range(h):
         for j in range(w):
             R, G, B = img[i][j]
-            feature_space.append([i, j, R, G, B])
+            feature_space.append([i/h, j/w, R/256, G/256, B/256])
 
     nbrs = NearestNeighbors(n_neighbors=k, algorithm='ball_tree').fit(feature_space)
     distances, indices = nbrs.kneighbors(feature_space)
@@ -32,12 +32,13 @@ def build_knn_graph(image,k,c):
     edges = knn_object[0]
     weights = knn_object[1]
     k = knn_object[2]
-
+    print('to for')
     for i in range(len(edges)):
         graph.addNode(edges[i][0])
         for j in range(1, k):
             graph.addNode(edges[i][j])
             graph.addEdge(edges[i, 0], edges[i, j], weights[i, j])
+    print('after for')
     graph.edges.sort(key=lambda x: x[2])
     print('built graph')
     return graph
@@ -48,7 +49,7 @@ k = 20
 #
 
 
-g=build_knn_graph(image,10,100)
+g=build_knn_graph(image,10,10)
 g.HFSegmentation()
 g.color()
 
