@@ -1,9 +1,8 @@
-import random
 import numpy as np
 import networkx as nx
 import pandas as pd
-from numpy import linalg as LA
 import math
+from sklearn.cluster import KMeans
 
 s='sample.csv'
 sn='sampleNode.CSV'
@@ -67,24 +66,55 @@ class ANCA:
 
 
 
-    def anca_calc(self):
+    def anca_calc(self,k=None):
         self.G=self.build_graph()
         self.seeds=self.detect_seed(self.G)
         topM=self.build_memberMatrix()
-        a=np.linalg.svd(topM)
+        attM=self.build_attriMaxtrix()
 
-        print(a)
+        l1=self.svd(topM)
+        l2=self.svd(attM)
+        print(len(l1))
+        print(len(l1[0]))
+        print(len(l2))
+        print(len(l2[0]))
 
-        # vv,vc=np.linalg.eig(svd)
-        # print(vv)
-        # print(vc)
-        # attM=self.build_attriMaxtrix()
-        # atVec=np.linalg.eig(attM)
-        # print(atVec[0])
-        # print(atVec[1])
+        featureSpaceX=np.column_stack((l1,l2))
+        featureSpaceY=self.featureY(featureSpaceX)
+        if k == None:
+            k=int(math.sqrt(self.vcount/2))
 
+        cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
+        return self.cluster(cluster)
+
+    def cluster(self,cluster):
+        ans={}
+        for index,cat in enumerate(cluster):
+            if cat not in ans:
+                ans[cat]=set()
+            ans[cat].add(index)
+        return ans
+
+
+    def svd(self,M,k=2):
+        u, z, v = np.linalg.svd(M, full_matrices=False)
+        z=np.diag(z)
+        v=np.dot(z,v)
+        l=np.dot(u[:,:k],v[:k,:])
+        return l
+
+    def featureY(self,featureSpaceX):
+        featureSpaceY=[]
+        for row in featureSpaceX:
+            newRow=[]
+            sm=sum(row)
+            for i in row:
+                newRow.append(i/sm)
+            featureSpaceY.append(newRow)
+        return featureSpaceY
 
 
 
 a=ANCA(s,sn,2,0.2,0.1)
-a.anca_calc()
+cluster=a.anca_calc()
+print(cluster)
