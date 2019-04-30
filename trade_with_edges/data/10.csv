@@ -1,0 +1,740 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44831142874,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31044991243,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119104,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4340,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,437343,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,737822,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1283,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1637828,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2311192,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,551695,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,213152,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40027,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1718598,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1019,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,642897,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10644,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90340,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,510921271,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,176212111,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45476079,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47576769,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,141544079,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1530710,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11605782,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,303044326,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5123026,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,772648,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36292636,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,223046,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29092,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59309,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,335361,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7320725,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,201877447,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,450954366,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92865,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22846,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,534156168,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,148687492,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1037550,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2117351105,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,994850410,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2100,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1964125,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76887,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51658,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50877,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,367447,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19591,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53905,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7593102,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4785011,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,554245,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66910,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7845,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5144,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10933078,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,394958,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18095340,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1643646,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13281,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,938772,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,760170771,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,387533570,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,196,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,346431,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,764543,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11001,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17576049,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,366243,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3383,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6932,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,721052130,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,670048012,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8631419857,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1127139682,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2770,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,324188,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2289,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1137298,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1069466,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1456,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,83607019,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,229553759,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5111550,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13140863,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3501139,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33516837,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91078,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,165156,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59268491,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4879690,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2418250,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,676092,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111965012,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34735702,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,203311,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,986115,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38204198,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,283799113,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,804784490,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1199721004,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13838087,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,83825772,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,896,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,167313,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21562,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,533254,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,523,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1992693,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5708721,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3714,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,216738,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91171339,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69937832,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,828751115,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170894373,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35932,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12173,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,357977,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9877388,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2214090,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2712273,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9833,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11059,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,361776,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1707682450,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,475869035,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,285597,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48710951,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1115,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,167098488,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13858074,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24381407,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7436,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,374674,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91657,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60929921,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,303393244,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5118661,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1583091,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9507644,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,229647,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42469701,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25490423,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78831877,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49692064,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99767993,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65164732,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1293825,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,616615,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,470394,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181258251,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6630288,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1017864,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2355497,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,288542,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26286747,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151883750,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70231844,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142670994,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,275511080,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,761287560,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,439125834,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2582168,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104469273,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1579916,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55356595,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1115630175,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,427631108,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2460398,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1039858,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2699905,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25440739,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1780441,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,480897,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1693773,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103445,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,888903888,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,402061675,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92528,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3287183,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9690,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53873,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1355,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1129282,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17947731,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2805789,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,768801,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6164737,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,734990,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1114184,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6946865,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1988238,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6353116,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22180,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105593,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89121,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,406520,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,309591,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84121,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,162554676,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95434037,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5737,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8638,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24735,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,152119,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,851025,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17333117,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,369047,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,158416,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3410737364,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,936877803,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,432825753,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41406197,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3072,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,449864,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21333,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44868,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,290,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38969989,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5793810,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4737238,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,504238,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1392494,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1668947,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15609,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4120,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19292,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3860,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,311301732,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1206369572,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13675718,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26886992,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17789054,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,339077850,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,231893457,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,136,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178439,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60255,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64835,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8600145,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14435826,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8532548,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13985326,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11213,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,137924,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,208024,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4086031,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1623,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,981269,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33910326,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42753510,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,630,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,157074,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16319,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41840824,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1471462,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31367181,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1912105169,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33065,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27364675,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22437637,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,682253489,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1050798348,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39499748,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12441174,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78265816,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67726210,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90570643,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,213562089,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28697,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87161,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11559441,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,874073,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102937847,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8429221,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,252156680,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73081399,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,140030,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6110,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,444827,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2839,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31578698,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70894930,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17558,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1881872,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,981355,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39421,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22505,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35149405,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8530791,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4116987,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,130215,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1751658,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88219,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31525,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33646,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,220350,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,453739,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,945901082,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,225635127,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95579814,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66127578,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19792988,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,651363,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,470731845,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9525171,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19633704,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23239339,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5105,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29534084,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41384599,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,184100,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,918493809,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1159380592,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,348604,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84199,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,173955,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7423344,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,748,Swaziland,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124088,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,131902609,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44062157,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,387037181,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,376208484,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,271742,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1850365,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4333,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103737,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,291248174,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48236849,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33253865,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,97162,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,131524,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120202792,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84471155,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11965277,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33267421,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4309494,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2352673,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,237162745,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,761325820,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20775,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7878,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28224,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44839,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1263,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1596,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98324,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48205802,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7274925,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,362788,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,204,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9925300,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5858364,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,415617755,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,481856736,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,663195,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2062501,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,905361298,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,518617000,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11954209370,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10206881962,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,265320,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104327695,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19438161,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2902962,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29396,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189875299,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,613933202,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13782,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2543647,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2805635,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8864,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119363,,,0
+H4,2016,2016,2016,0,0,1,Import,170,Colombia,COL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,603935239,,,0
+H4,2016,2016,2016,0,0,2,Export,170,Colombia,COL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,239530101,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15321512292,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9907873818,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2923,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39604,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,121267,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,193,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16001,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41787,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46958,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12106,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,495345,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13619,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62233560,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7625719,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8465781,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24131666,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21966623,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,549368,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8879721,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6692706,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59014,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40868,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11793642,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98150,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92100,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80693,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9044067,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66388337,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,532214175,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7433,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,335673,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1111275,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2231916,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,81642,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13747,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1481,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1171,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,330051746,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34430925,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,223239,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10840560,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7580,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,479860,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2176,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1962473,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,184606,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,209841,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,123336,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5193,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1908431,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3901476,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10225,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3400419,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,154103624,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85472277,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1912605,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,520593,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1781,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3714642,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,267803,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2984,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,282376334,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34574082,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2082231063,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45501509,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,866,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,292704329,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70226654,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79572,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,464,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2864493,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48566,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,331224,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,318844,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32397216,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,130208,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84880,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5683080,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29688,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2637,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37445061,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4450212,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49904,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1043843,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37906053,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,258907565,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27843618,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36152117,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,236078685,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,274153745,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1142,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3300,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1137443,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61983,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181094,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105483,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10936445,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38076720,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,113777811,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82691259,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28879,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10392,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,682,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72012,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,756,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124139,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,988672,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71371,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19405,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3683,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,388285759,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,130848070,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,909523,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4232,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1837,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1878303,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11778405,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39968,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,399,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1077985,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,174,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27666,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,416693417,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,516339788,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1650,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,319583,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14979374,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178322,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16346516,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2486,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5987,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6786,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106064670,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,334816183,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,186732757,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32103718,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41439153,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85269,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65356,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69659687,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4912505,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3226,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88707,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,668,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4464542,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54599620,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87218776,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36657549,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8218166,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,198979980,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,207836033,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12143,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,296629,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1379932,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51131184,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,415049859,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112861956,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9222,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,546620,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,330129,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65797,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29279,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1421106,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11260,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,256938899,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33572477,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7146,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,620267,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,418,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15411,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36500,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89911,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29875,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1923389,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17947,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5262794,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,584113,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,202,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,285589,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1613376,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11363181,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9904679,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3740,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142991,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14025,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108341,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1000,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,134419,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36767844,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1007762,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,548,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,222805,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,434389,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3878,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6470,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50261,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,480,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1067139860,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,257203621,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110632078,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16851631,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,679,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1798589,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,736,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5411662,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2634019,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,288036,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7950,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90152,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71662,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8708,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1607,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7697,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96605203,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,575437869,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,556643,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3154197,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1589,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19426234,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11516,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1301,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70758,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4835,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9392498,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18874468,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,141682638,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,517296834,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2939,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,363515,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7784484,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20463271,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,368,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9103,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,567,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4517,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,237,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8457053,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,305915,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,290874521,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,561017178,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23032301,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1725814,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61111003,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19438242,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9675367,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3311120,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8098,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12402335,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6073414,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13483657,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24643611,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,986,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6974842,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39308,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2512736,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,558630,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48838550,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23482540,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2648,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,204839,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3600,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29762,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2070396,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1167275,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,344,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4003949,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6373282,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28845,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1262130,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,542,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18715,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2138,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,179396192,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19693327,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32212553,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17454546,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7119369,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,285277,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71687078,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6212674,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2291336,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5784252,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1854,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6528413,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1986181,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1075,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,222736740,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153625597,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4390,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1568,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8049189,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,748,Swaziland,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,465,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39158214,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21758955,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145244634,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5485740,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1998,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23840,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17444,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15411,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,184056633,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2700259,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38135,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15889637,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59390724,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3595682,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2297226,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,977599,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,795324,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56348235,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53415104,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41429,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1552,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13002,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6061,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62287,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14840686,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6238340,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62370,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1922536,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,636710,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124463353,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,180904418,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21904,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,369151,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5711167765,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4058038120,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104783,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30841024,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1239113,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18942356,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32540557,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3523,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,383963,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40528,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43112,,,0
+H4,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,485098323,,,0
+H4,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84484,,,0

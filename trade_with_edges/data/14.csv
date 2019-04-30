@@ -1,0 +1,1022 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9829302034,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5419576524,,,4
+H4,2016,2016,2016,0,0,4,Re-Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4147413,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5148,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16800,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178225,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66913,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22174,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27189918,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418497,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24356246,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5910652,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11970982,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244692,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4809,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269218,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19692,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8257227,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282288,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21603,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26913,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467472,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20748632,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7553844,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1209,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3056455,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,740726,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152134,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175260334,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4856211,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1783040,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11378601,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2933,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35971,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11180,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,547264,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1009,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81626,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3906359,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25937,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4421865,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19797,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81705562,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22509129,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2989,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29370,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1483,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54039,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2525,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3407781,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3685,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71047157,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7083919,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1401879924,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6084566,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1729,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122790825,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13208279,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2069,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242819403,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248252979,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149155,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418072,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10875587,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5134,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18353453,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247794,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14880343,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181218,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49730,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10191850,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82224722,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42122047,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5514548,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4147413,,,0
+H4,2016,2016,2016,0,0,4,Re-Import,222,El Salvador,SLV,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4147413,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057177,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17118,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1011782,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19534,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4957,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8423768,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1959859,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56680481,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7376031,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33975,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,835,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20983,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,800,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,926,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113791,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180793844,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22856134,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10865,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1788899,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328401,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4612,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25304,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1498,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,995583537,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,743291049,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17237,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2852457,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37693,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6523150,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,497823978,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766061811,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21796697,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4056772,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3024078,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28232,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19846,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31213848,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23260735,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56750,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2941,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21801072,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281024,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14096931,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59302,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93013703,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28926072,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2939,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3745826,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59918,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19998274,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226660920,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15703435,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27029,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320342,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2869303,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5888,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32023,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500666,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9028,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171679846,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9966278,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25210,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,641,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50771,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131107,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179881,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18547,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4793,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311328,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121166,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80126,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411270,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17698,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23444,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13075,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,672,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11180,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25581044,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1356873,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4341,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275006,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29014,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7764,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157650,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,739649353,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69080412,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136923890,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36354164,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1515,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3206943,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240537,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1609930,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41626,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2312,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1617,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359995,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23388536,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24202041,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57780287,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532530,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2517289,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,673746,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5679,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16827274,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,796597,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254293179,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,388939634,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1806,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430058,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3696,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,884819,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1140509,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5708,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5200189,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103271,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39680642,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125409439,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272645,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2559946,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287455,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50589198,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5362306,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6180831,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111195,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16578,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7741754,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44313,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14663604,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1636454,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22523,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451208,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79562,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1241876,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5894,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14634345,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52597,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1510,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,886,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5720,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124566,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145476,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10026,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6576502,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189428,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36176,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35037,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14648,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4450,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2056,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108620511,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4217878,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7906179,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325127,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1500298,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184330,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59102896,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3088099,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1919083,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16216,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3440,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863383,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2292748,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,755,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10350,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98648493,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40464729,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59994,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221424,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,748,Swaziland,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1325569,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,748,Swaziland,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1000,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20039357,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175970,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38025702,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509635,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26073,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98942825,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185454,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,887724,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19304,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11110841,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4486390,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10974995,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200026,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213827,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64292,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13620560,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409917,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31922,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,484,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,530678,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122586,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7530,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3780,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471667,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8332,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46591069,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27307822,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4693,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3173325090,,,4
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2572181335,,,4
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30482778,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194494,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13822,,,0
+H4,2016,2016,2016,0,0,1,Import,222,El Salvador,SLV,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70796245,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11369722,,,0
+H4,2016,2016,2016,0,0,2,Export,222,El Salvador,SLV,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54625,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15682263347,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13967429425,,,4
+H4,2016,2016,2016,0,0,4,Re-Import,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16497756,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2931,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247935,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4004702,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423470,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13006,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6081218,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8964,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5837674,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37057,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,794976,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7438367,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10347760,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1443848,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7029020,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36410639,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121169189,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46925821,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49093,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1366247,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297980,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1106668,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28061197,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526079,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,706045,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3082644,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278478,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242973494,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230855132,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7542,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231645,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,848730,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880640,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1045660,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22168390,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25659944,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1701,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520346,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2036,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58133,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179429,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43465,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5427,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1608,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9826345,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21872420,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1332728,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74659584,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94096686,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8492714,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53578,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236523,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,617692,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35097752,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100062735,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2699,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6479536,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5749725,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12274049,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4614209,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1300507299,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189099907,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4282427,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4149660,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,567,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1691,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99347,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411596,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220937,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10444,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11797715,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144234,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3147279,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2105780,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,492973,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5307882,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3193791,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17338319,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197937276,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71257884,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,643454,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240740819,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414991051,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56985,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111638,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,564213,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99290,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13106601,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341754,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117172,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15856,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235256,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247966,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1159,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16497756,,,4
+H4,2016,2016,2016,0,0,4,Re-Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16497756,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,895000,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,681305,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1520,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5589,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1452116101,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2111022753,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406505890,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219811633,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282711,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206848,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3005185,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23134,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5375435,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7075871,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136929,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13223,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1649460150,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766536444,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73478349,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,531702,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14008,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12810596,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9723641,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1019131,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43517,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2869,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,874674,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81066,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3228880,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3578,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14301,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219417,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20038,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441816,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240809,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11621978,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23697439,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325412956,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48029387,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3007554,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23947713,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55328102,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2490672,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1827189,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14268870,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568621,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58360932,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19614498,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12962826,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19487906,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442793056,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123213638,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47779717,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259096,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1855634,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41602,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232843300,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81141146,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48042324,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38075881,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292516,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3535053,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,649013,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9877227,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361506,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15662,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79691374,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51318877,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6163,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,638733,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61094,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2830581,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69145,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1645,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8160,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2200469,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17708,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,675342809,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1208646188,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105656,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1347146,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998856528,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,788834174,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10960814,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299694,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283816,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104997,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1179864,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20047,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340398,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64446494,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4138701,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41484,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15756,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31154,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,777927,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15484644,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24267,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6197,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467914,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406822,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42155968,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205361813,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101873630,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5022500,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2199,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2324089,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4008604,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5657348,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19880,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119767,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7764063,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17103326,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4979,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24213,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36137,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,856425,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209066,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6694570,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96999,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6352,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,777212597,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357465108,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1233,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98216,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154869,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69777,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21209058,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49425,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5748296,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1655299,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80723,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411390,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3022,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11901621,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49127598,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,697415189,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70052,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106674344,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532805092,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4729,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12512,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19937958,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4444002,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357625,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210290,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4017,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716477,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133338,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11913972,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2610864,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12390189,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4537907,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,861199267,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280862807,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21645223,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13100912,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205397,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495692,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68018106,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88215570,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1162873831,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303652161,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16138,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48872,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4118,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1600,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89481,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107663,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57478,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13270458,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43012798,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437294,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1036346,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5382876,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9897976,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11445,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250859,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352428,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347917,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69924323,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101002111,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7661075,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26684115,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102191953,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27961468,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48148115,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6358777,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27599495,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10153766,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29704204,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7775516,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460556,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153973,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212544539,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119978741,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3910,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766593,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,712594,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171392,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,748,Swaziland,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15766,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863915692,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2357983854,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,182074142,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74479452,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,651470,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166770,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56316,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1167319,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57738511,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17305514,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1316592,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82879705,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47396,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104661,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17869,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4163681,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39289023,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4180419,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4596229,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182111405,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137690144,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9520,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14710429,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26533,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7443,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38345,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92277496,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143138015,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1444418,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1737825,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5429001,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15149338,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472995634,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318498782,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94200,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,914795,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92326379,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314205836,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451296413,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4186,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,831073,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2243069,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2310445,,,4
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29763693,,,4
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,728125,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130082,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46588,,,0
+H4,2016,2016,2016,0,0,1,Import,233,Estonia,EST,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60481,,,0
+H4,2016,2016,2016,0,0,2,Export,233,Estonia,EST,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12761374,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58052631649,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22507388693,,,0
+H4,2016,2016,2016,0,0,4,Re-Import,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,744871,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,275032,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3925536,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2382301,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6014996,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,303038385,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,465635923,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2565,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21005,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118279,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15533269,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4205,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1449,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,406437,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1222506,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1425526529,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7709535,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,278235944,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23093968,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,225892772,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11941657,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87063662,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59432134,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24890044,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64307160,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1323414,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58420,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,709142682,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,312786878,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6992,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,155963,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30417,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18534360,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,708120,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17867,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21596,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1730149958,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95453432,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1701573,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,159185,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11142,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,884248,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,899706,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,172386996,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56784214,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7873357,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28007926,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3688975,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1217838,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,417330,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1749397,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28510397,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,252713577,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51478255,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1361527,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52155,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,411093,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29159066,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23511722,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,305209,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5376078,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13830351,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5654599,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7554202562,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,495031169,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7085920,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7451580,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,390209,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,855749,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2314812,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18833286,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1834257,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8855833,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,691231,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1057762,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80774002,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17108953,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110695,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,236965,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80319703,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57793564,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,559811082,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76393987,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14452810,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7610647,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,188266189,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11106203,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2072504,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,516821,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1499329,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3434530,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11849344,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1401805,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12488,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,220603,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32356929,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8831454,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107104155,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3781869,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68573012,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17122092,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3338011,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,420342608,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15594208,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1324083102,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,504047139,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68542,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27640047,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,575841,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13305250,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9398003,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3977424,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1113243,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2210791,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4934,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132217235,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5073452778,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,539811017,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15259267,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69425344,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26978,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,679944733,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,183601279,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52639,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58980,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45785078,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6736297,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5494,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8014209,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8042,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2057983,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,148600,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,169535,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45223476,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28146297,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,242180446,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27093573,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8024823,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1153432,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,589152539,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63762070,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15703437,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10082037,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,520937157,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,389742756,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,168865295,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25645933,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40097282,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50851045,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2643529367,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1467709099,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2329557,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34042058,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3355,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,816517,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1123432361,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48831450,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45678593,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3914076,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70368959,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,522854611,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,273107736,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,267468928,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4822761,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,422613,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2153958005,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23053968,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1117456199,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,378169937,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94744694,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,801200766,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,986,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53911439,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4304708,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2276556,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68397241,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,581758864,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64782302,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10175076,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6271711,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,169162,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99724,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6853775,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3615236,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,322024889,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52735142,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111092,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3412739,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24906,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18683409,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,532818323,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88837137,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,473,"LAIA, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,213594,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1946369,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10369201,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2557124,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21232204,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59211748,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56566159,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,359102089,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5981423,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102868,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74967,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4221493,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1012355,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2887103,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,530627,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170396,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,374735839,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,328309781,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2147,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10789536,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48481340,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,159032193,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1173102,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,356859,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46176,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14640608,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,527,"Oceania, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111830,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,819123950,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,331199389,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26235,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,293575558,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4686689,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28788,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,881,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100631,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7865322,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,322784132,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88264891,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3517904,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,155012394,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10264115,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7550848,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92565840,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122497123,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68951,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3206971,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48470,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15494,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20900763,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,712918,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5289539,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4428061,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15206961,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5978132,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,286781569,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98838112,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110696690,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89277270,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95720,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,378984,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1553436377,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,280367414,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,557843368,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,114475590,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2209803416,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,266341817,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105481,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18087568,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13749,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1389,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,290924,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2410958421,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1754531366,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1027712,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47291544,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38411975,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2088271,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17603,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3829576,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104037,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2168963,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1830064079,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,630502345,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,129624239,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128907597,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,141641,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,234448393,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23751303,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34969425,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47952783,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1243282,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45798948,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93351714,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,213193537,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,238526,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16043007,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1947090039,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,654677749,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45535914,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,545327878,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75805,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30325,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,748,Swaziland,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93996,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,748,Swaziland,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4021642,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,618606299,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23949861,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,611503823,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,492675468,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,121548287,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181708253,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25973,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99990,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,751830470,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48943597,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21789636,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,184514024,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,921376,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,765342992,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2832087189,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84808731,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170582868,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2505486974,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1437501214,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1602778,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2067328,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2571421,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42875676,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2157128443,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27618331,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,470859,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,387111,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,744871,,,0
+H4,2016,2016,2016,0,0,4,Re-Import,818,Egypt,EGY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,744871,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1187467281,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1047933244,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3143647,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28516062,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98956,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124193910,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3095177615,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1013524747,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24637910,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9521321,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14355063,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9638784,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1164147,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,295279,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26785679,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,569191,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14693,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28692067,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,214582497,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,114742702,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11766125,,,0
+H4,2016,2016,2016,0,0,1,Import,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12839082,,,0
+H4,2016,2016,2016,0,0,2,Export,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24943588,,,0

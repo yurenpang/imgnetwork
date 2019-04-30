@@ -1,0 +1,624 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153508450,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6539681,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,199863,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90100,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3481,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1717608,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,214,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,455,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14375,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,216932,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10861,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,412,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,429,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,203,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2500,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2556,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,537372,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,185,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7994217,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7660,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36776,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,560,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26161,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3640,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45637,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,384,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,385,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2133,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,161049,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37418,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,135476,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61199,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20155,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,233336,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27615,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1500,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7310972,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,253629,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2593,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2971463,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,155,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39745,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,630739,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5550,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153341,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66643,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27055,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19964673,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112512,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13074,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11107944,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2784,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1995,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3951,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28867,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,172629,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28410,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68161,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7674065,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,123963,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2294,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92572,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3029,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3064,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68207,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,743995,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,592,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33088,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4529,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,202381,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46073,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47518,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17528,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,352,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1174,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11815,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6718379,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7630,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11480,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,395,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27824,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,468,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,206,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4663,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,244,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46102,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17465526,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31625,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17118,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,182995,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10157,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15281,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5293,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,114,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,355828,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,350,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,767598,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5339,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24537,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,545,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34626,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,486202,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64445290,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,575562,,,0
+H4,2016,2016,2016,0,0,1,Import,585,Palau,PLW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19527,,,0
+H4,2016,2016,2016,0,0,2,Export,585,Palau,PLW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5150346,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9238038728,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11194931374,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1278123,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,252680,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7188854,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9881,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44585808,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43964176,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4797039,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6400963,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5820881,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31710,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7661,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34189522,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1701,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17175057,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3996,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1092561,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46487411,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,224220262,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5415952,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8512058,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2164,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44619749,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,136791978,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64972652,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1419124,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38607074,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,184027,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,429313,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2000,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18117625,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7964,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3828,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15361017,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10993165,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27030,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7600152,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,130852,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23978421,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,253703470,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2894238038,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36987518,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98756226,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1063778400,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23059118,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,752971343,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,998233,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,264841276,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58724,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4910,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39379,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24168,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,468212,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18689478,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13152632,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1858581,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18038426,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,541661880,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18431356,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,327578943,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12118790,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,342976791,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,422340,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6205,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5850,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91427,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3726759,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86986,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,210241533,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13915151,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35423,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60267,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12750,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,147489628,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19162799,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33595,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1214360,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2511449,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5189687,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30754788,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,479104901,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,261838,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45341471,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59475104,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2441837,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,392981146,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,290854738,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6075065,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65921,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86085531,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2149311,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3000,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9083207,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,717686,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2068068,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5086375,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,139087304,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17405584,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,365385,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,133286216,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,125056171,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89007760,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6460196,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2883620,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4951,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1825,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91920472,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53205554,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28341,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,950,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,686360,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,262914,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,989178,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,115121,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12603,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10927837,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2376,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,313534,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14400,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57174733,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3069826,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128100,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,473,"LAIA, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1374,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,473,"LAIA, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12538053,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3050137,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3276,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,481362579,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120939645,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89210230,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27975817,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7685,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,269753,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1117,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,137046,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19443,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76751876,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,270284442,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10899382,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66696787,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1263266,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51899288,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1261672,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112628,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,583489,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2669271,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,362039965,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145452,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,779,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1760431,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8715784,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,115769,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1553200,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60590825,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20050528,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,288525126,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11246255,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,167951,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8762724,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1425929,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1011967,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9326403,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1864,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,97553,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95927,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3118902,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,987952,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,935,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2781955,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16961,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9372491,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4719243,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2553,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,271003,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1000,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120506,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65439,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80663371,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24332490,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1748889077,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9407352,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,201883,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,314241651,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23790240,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7307946,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,185159,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3543581,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,946824,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107487831,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24713177,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,541218,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26678265,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9433934,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,309675,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,109810981,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20312091,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88629194,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20078709,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1313207,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,187963331,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10874326,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14861625,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52183,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27167810,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6213489,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25490,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42107,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4341040,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95920,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145630565,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14371701,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145873,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,133549771,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33695444,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,175944489,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,880418203,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2307907929,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56041784,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68504709,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21449736,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,602271296,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,916864,,,0
+H4,2016,2016,2016,0,0,1,Import,591,Panama,PAN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63014976,,,0
+H4,2016,2016,2016,0,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,991332127,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9752559414,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8501839047,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15127,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225502,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28970,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,477948,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12982089,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,644,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6442882,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210932,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1070006771,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,855442748,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2188176,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2835703,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15478237,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,869806,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239890,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2952402,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2077732,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137024028,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151805,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35922272,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9186383,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21844,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20912,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47644537,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53589498,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9313,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264491,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2344402335,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3011179043,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6159,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,932812,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68466,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5094506,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224291,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50898,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8091657,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24225329,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157730,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133293,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32921920,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3326483,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,819033,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404574,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1606,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138346766,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520410194,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2645338133,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20879115,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58473348,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19889256,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190206,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1585354,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,560945,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1674009,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7376358,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2532,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,620338,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266676,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5435,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264717,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4227089,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589256,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6602139,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47907895,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,933742,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145470,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,962094,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6748788,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5082216,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36686025,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305225,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2770265,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,849,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342317,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282572,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113000,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1485275,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11760208,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119055978,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8134342,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1894,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510840,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,942,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5399393,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,979,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2753357,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16532,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3682756,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3260605,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223294915,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198989235,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542708,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15705,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9750175,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28043937,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2500777,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2317803,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32207,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10000,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2336,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48288,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259387,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,758025,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47314642,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28168405,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6833279,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4154,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46130,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6700,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10852988,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46037309,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124444,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27737495,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126039,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16020148,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3579248,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125631,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12710833,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157555381,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76038427,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309370849,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82421,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241954,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,584,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239924521,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39792784,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9766,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4700084,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1137235,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1640376,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,594,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208089487,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60235515,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3813561,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16790429,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2752,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,853269,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22175374,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,831138,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23656,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20579,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115609,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5187983,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1032103,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28594,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217256,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16102,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12288,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124507,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,768910,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21982228,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14155104,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3083,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10144,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23868,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2900507,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135328843,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110034072,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30110148,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15391220,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13562,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257398,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1032,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9814620,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4536041,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,562144,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21586818,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8979557,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3701,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5801173,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420460171,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77849551,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37076,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3021066,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7938010,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6684,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3915061,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300660,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78681,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6664517,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1560,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2105687,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9475,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9557593,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7302048,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84834337,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2086576,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9891793,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97775442,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2187019,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190600,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8075827,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151844606,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13192190,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70108757,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,765356,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,919766,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1792190,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,631373,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541697,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94452833,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658105721,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25473,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3834,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6256256,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1821442,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213798,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34322,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3537367,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57734,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2282462,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142363053,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194064795,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21031717,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1973197,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4776417,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96962,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30696303,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152174959,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2024887,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253750,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4151,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210467,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4684871,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100204511,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6078477,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113238,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108514007,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181513209,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8055,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100152,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47316,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,748,Swaziland,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,653,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29365322,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12159455,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30352287,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12934512,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383938,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127305,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41441863,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61018075,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107256,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11754,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,992259,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41979993,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24575205,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,814203,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29101849,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26316342,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215706782,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195561,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413793,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34400,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120357,,,0
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44358,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,902445,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31790372,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42596691,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123369917,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1879669,,,0
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,798812150,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146053398,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109799902,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164374261,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780641,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26204794,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272,,,4
+H4,2016,2016,2016,0,0,1,Import,600,Paraguay,PRY,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2957725,,,4
+H4,2016,2016,2016,0,0,2,Export,600,Paraguay,PRY,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1288435,,,4
