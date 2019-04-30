@@ -6,16 +6,18 @@ from sklearn.cluster import KMeans
 
 s='sample.csv'
 sn='sampleNode.CSV'
+
 class ANCA:
-    def __init__(self,edgeData,nodeData,k,upper,lower):
+    def __init__(self,edgeData,nodeData,upper,lower):
         self.edgeData=edgeData
         self.nodeData=nodeData
-        self.k=k
         self.upper=upper
         self.lower=lower
 
 
     def build_graph(self):
+        '''take two data sets as input, set node attribute,
+            return G'''
         df= pd.read_csv(self.edgeData, sep=',')
         G = nx.from_pandas_edgelist(df,'s','t')
         df2=pd.read_csv(self.nodeData,sep=',')
@@ -25,6 +27,8 @@ class ANCA:
         return G
 
     def detect_seed(self,G):
+        '''return a set of nodes that include self.upper fraction of largest centrality, and self.lower faction of
+            the smallest centrality'''
         seeds=set()
         top=int(self.vcount- self.vcount*self.upper)
         low=int(self.vcount*self.lower)
@@ -37,6 +41,8 @@ class ANCA:
         return seeds
 
     def build_memberMatrix(self):
+        '''characterize each node according to its relation(shortest path) to every seed node,
+            return a R^(V*S) matrix'''
         member_m=[]
         for v in self.G.nodes:
             row=[]
@@ -46,6 +52,8 @@ class ANCA:
         return np.array(member_m)
 
     def  build_attriMaxtrix(self):
+        '''characterize each node according to its attribute relation to every other node,
+            return a R^(V*V) matrix'''
         attri_m=[]
         for i in self.G.nodes:
             row=[]
@@ -56,6 +64,7 @@ class ANCA:
         return np.array(attri_m)
 
     def euler(self,a,b):
+        '''Eucledian Difference'''
         a=self.G.nodes[a]
         b=self.G.nodes[b]
         attList=list(a)
@@ -67,27 +76,27 @@ class ANCA:
 
 
     def anca_calc(self,k=None):
-        self.G=self.build_graph()
-        self.seeds=self.detect_seed(self.G)
-        topM=self.build_memberMatrix()
-        attM=self.build_attriMaxtrix()
+        '''main calc'''
+        self.G=self.build_graph() #build Graph
+        self.seeds=self.detect_seed(self.G)#build seeds set
 
-        l1=self.svd(topM)
+        topM=self.build_memberMatrix()#topM = topological information
+        attM=self.build_attriMaxtrix()#attM = attribute information
+
+        l1=self.svd(topM) #svd both matrices
         l2=self.svd(attM)
-        print(len(l1))
-        print(len(l1[0]))
-        print(len(l2))
-        print(len(l2[0]))
 
-        featureSpaceX=np.column_stack((l1,l2))
+        featureSpaceX=np.column_stack((l1,l2)) #stack the feature space together
         featureSpaceY=self.featureY(featureSpaceX)
-        if k == None:
+
+        if k == None: #recommended k for kMeans cluster
             k=int(math.sqrt(self.vcount/2))
 
         cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
         return self.cluster(cluster)
 
     def cluster(self,cluster):
+        '''assign each node to a set'''
         ans={}
         for index,cat in enumerate(cluster):
             if cat not in ans:
@@ -97,6 +106,7 @@ class ANCA:
 
 
     def svd(self,M,k=2):
+        '''svd a given matrix, k = top k largest eigenvectors'''
         u, z, v = np.linalg.svd(M, full_matrices=False)
         z=np.diag(z)
         v=np.dot(z,v)
@@ -104,6 +114,7 @@ class ANCA:
         return l
 
     def featureY(self,featureSpaceX):
+        '''normalize the attribute of each node'''
         featureSpaceY=[]
         for row in featureSpaceX:
             newRow=[]
@@ -115,6 +126,6 @@ class ANCA:
 
 
 
-a=ANCA(s,sn,2,0.2,0.1)
+a=ANCA(s,sn,0.2,0.1)
 cluster=a.anca_calc()
 print(cluster)
