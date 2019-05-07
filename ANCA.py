@@ -4,11 +4,12 @@ import pandas as pd
 import math
 from sklearn.cluster import KMeans
 
-s='sample.csv'
-sn='sampleNode.CSV'
+s='edges_with_id.csv'
+sn='attributes.csv'
 
 class ANCA:
     def __init__(self,edgeData,nodeData,upper,lower):
+        self.pairDic = {}
         self.edgeData=edgeData
         self.nodeData=nodeData
         self.upper=upper
@@ -19,12 +20,19 @@ class ANCA:
         '''take two data sets as input, set node attribute,
             return G'''
         df= pd.read_csv(self.edgeData, sep=',')
-        G = nx.from_pandas_edgelist(df,'s','t')
+        G = nx.from_pandas_edgelist(df,'sourceID','targetID',['weights'])
         df2=pd.read_csv(self.nodeData,sep=',')
         self.vcount=df2.shape[0]
-        for i,attr in enumerate(list(df2.columns)):
+        self.realName_dic=df2['Country']
+        for i,attr in enumerate(list(df2.columns[1:])):
             nx.set_node_attributes(G,df2[attr],'attr'+str(i))
+        # G=nx.relabel_nodes(G,self.realName_dic)
+        # print(G.nodes(data=True))
+        # print(G.edges(data=True))
         return G
+
+    def get_realName(self):
+        return self.realName_dic
 
     def detect_seed(self,G):
         '''return a set of nodes that include self.upper fraction of largest centrality, and self.lower faction of
@@ -47,7 +55,7 @@ class ANCA:
         for v in self.G.nodes:
             row=[]
             for s in self.seeds:
-                row.append(nx.shortest_path_length(self.G,v,s))
+                row.append(nx.dijkstra_path_length(self.G, v, s, 'w'))
             member_m.append(row)
         return np.array(member_m)
 
@@ -58,20 +66,37 @@ class ANCA:
         for i in self.G.nodes:
             row=[]
             for j in self.G.nodes:
-                row.append(self.euler(i,j))
+                row.append(self.hamming(i,j))
             attri_m.append(row)
 
         return np.array(attri_m)
 
     def euler(self,a,b):
         '''Eucledian Difference'''
+        pair = tuple(sorted([a, b]))
+        if pair in self.pairDic:
+            return self.pairDic[pair]
         a=self.G.nodes[a]
         b=self.G.nodes[b]
         attList=list(a)
         sum=0
         for att in attList:
             sum+=(a[att]-b[att])**2
+        self.pairDic[pair]=math.sqrt(sum)
         return math.sqrt(sum)
+
+    def hamming(self,a,b):
+        pair=tuple(sorted([a,b]))
+        if pair in self.pairDic:
+            return self.pairDic[pair]
+        a=self.G.nodes[a]
+        b=self.G.nodes[b]
+        dif=0
+        for att1,attr in zip(a,b):
+            if att1 !=attr:
+                dif+=1
+        self.pairDic[pair]=dif
+        return dif
 
 
 
@@ -85,6 +110,8 @@ class ANCA:
 
         l1=self.svd(topM) #svd both matrices
         l2=self.svd(attM)
+        print('l1:',len(l1[0]))
+        print('l2:', len(l2[0]))
 
         featureSpaceX=np.column_stack((l1,l2)) #stack the feature space together
         featureSpaceY=self.featureY(featureSpaceX)
@@ -92,8 +119,9 @@ class ANCA:
         if k == None: #recommended k for kMeans cluster
             k=int(math.sqrt(self.vcount/2))
 
-        cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
-        return self.cluster(cluster)
+        #cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
+        #return self.cluster(cluster)
+        return featureSpaceY
 
     def cluster(self,cluster):
         '''assign each node to a set'''
@@ -107,10 +135,17 @@ class ANCA:
 
     def svd(self,M,k=2):
         '''svd a given matrix, k = top k largest eigenvectors'''
+        #print(M)
         u, z, v = np.linalg.svd(M, full_matrices=False)
+        # print('__________________')
+        # print(u)
+        # print('__________________')
+        # print(v)
         z=np.diag(z)
         v=np.dot(z,v)
         l=np.dot(u[:,:k],v[:k,:])
+        # print('__________________')
+        # print(l)
         return l
 
     def featureY(self,featureSpaceX):
@@ -126,6 +161,6 @@ class ANCA:
 
 
 
-a=ANCA(s,sn,0.2,0.1)
-cluster=a.anca_calc()
-print(cluster)
+# a=ANCA(s,sn,0.2,0.1)
+# cluster=a.anca_calc()
+# print(cluster)

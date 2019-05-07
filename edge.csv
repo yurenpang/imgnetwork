@@ -1,0 +1,773 @@
+source,target,weights
+Israel,Brazil,6
+Netherlands,Turkey,4.75
+Chile,Uruguay,0.42
+Russia,Angola,62.7
+Spain,Saudi Arabia,43
+Russia,China,275
+Spain,Saudi Arabia,27
+South Korea,Thailand,71.2
+United States,Singapore,34
+France,Argentina,3.2
+Spain,United States,159.6
+United States,Jordan,3.96
+France,Norway,3.8
+Russia,Iraq,292
+India,Sri Lanka,37
+Ukraine,Thailand,52
+France,Nigeria,13.6
+United Kingdom,Oman,230
+Japan,Philippines,3.3
+Ukraine,Thailand,3
+Italy,Australia,16
+United States,Australia,3
+Italy,Norway,4.65
+United States,Egypt,140
+Netherlands,Finland,40
+United States,Indonesia,75
+Turkey,Senegal,4.25
+United States,Senegal,2
+United States,Afghanistan,115.83
+Russia,Viet Nam,15
+Ukraine,Viet Nam,10
+United States,Philippines,0.24
+Russia,Nigeria,23
+Belgium,France,5.2
+Czechia,Ukraine,17.82
+Israel,Philippines,4.2
+Pakistan,Azerbaijan,2.2
+United States,Indonesia,6
+Belarus,Serbia,45.6
+Russia,Belarus,26
+United Kingdom,South Korea,12
+United States,South Korea,7.5
+South Korea,Indonesia,159.52
+Germany,United Kingdom,3.2
+Netherlands,Libya HoR,10
+Israel,Azerbaijan,125
+Germany,Algeria,48
+Germany,Serbia,3.25
+United States,Chile,43.5
+United States,Montenegro,15
+Italy,Norway,30.2
+United States,France,3
+United States,Saudi Arabia,1950
+Australia,Japan,0.8
+United States,Japan,0.2
+Sweden,Norway,13.5
+United States,Iraq,34
+Russia,Azerbaijan,28.5
+Germany,Qatar,35
+United Kingdom,Finland,0.288
+Brazil,Afghanistan,26.4
+Canada,Afghanistan,3.6
+Canada,Lebanon,3
+Indonesia,Viet Nam,7.6
+Italy,Angola,12
+Germany,Netherlands,25
+United States,Taiwan,87
+Switzerland,Brazil,3
+United States,Saudi Arabia,4
+United States,UAE,20
+United States,Saudi Arabia,27
+Netherlands,Canada,12.5
+United States,Canada,72
+UAE,Egypt,42
+Russia,Egypt,294.5
+United States,Philippines,7.5
+United States,Morocco,3
+United States,Morocco,4
+United States,Jordan,11
+United States,Saudi Arabia,9
+Brazil,Mali,17.6
+Germany,Netherlands,2.21
+China,Pakistan,37.5
+South Korea,India,43.2
+Canada,Mali,2.4
+United States,Italy,55
+Italy,France,2.75
+Germany,France,8
+France,Singapore,55
+Germany,South Korea,550
+United States,Norway,330
+Netherlands,Estonia,28.8
+Germany,Saudi Arabia,72
+Germany,Lithuania,16.8
+United States,Israel,330
+United States,Saudi Arabia,160
+United States,Saudi Arabia,26
+Denmark,France,2
+France,India,4
+Germany,India,4
+Bulgaria,Cote d'Ivoire,6.8
+Italy,Qatar,20
+United States,Jordan,5.5
+United States,Jordan,3.52
+United States,Afghanistan,16.5
+United States,Denmark,32.2
+United States,Japan,68
+United States,Australia,20
+United States,Australia,12
+United States,Australia,5
+Russia,Burkina Faso,13.5
+United States,Jamaica,5.4
+Ukraine,China,60
+Germany,China,14.4
+China,Bolivia,1.4
+Czechia,Ukraine,11.88
+United States,Turkey,80
+Germany,Turkey,1.8
+United Kingdom,Singapore,24
+Cote d'Ivoire,France,1.26
+Ukraine,China,48
+Germany,United Kingdom,9
+China,Central African Republic,1.44
+Germany,Singapore,8
+France,Singapore,16
+United States,Saudi Arabia,90
+France,Kuwait,3.3
+United States,Ukraine,7.44
+Turkey,UAE,84
+United States,South Korea,80
+United States,Saudi Arabia,20
+United Kingdom,Saudi Arabia,16
+China,Kazakhstan,23
+France,Tanzania,15
+Netherlands,United States,61.6
+Russia,China,600
+United States,Australia,250
+Switzerland,France,73.5
+Germany,Australia,27
+United States,Turkey,13
+United States,Belgium,0.72
+Netherlands,Singapore,16
+France,Saudi Arabia,20
+Germany,Thailand,4.2
+Turkey,Qatar,8.5
+Portugal,Colombia,2.6
+Netherlands,Jordan,0.48
+UAE,Lebanon,2.4
+Germany,United Kingdom,2.25
+Sweden,South Korea,2.5
+United States,Germany,2
+United States,Turkey,21.6
+United States,South Korea,12.96
+Turkey,Oman,78
+Turkey,Malaysia,8.75
+Turkey,Malaysia,5.2
+Turkey,Malaysia,14
+Norway,Poland,19.8
+Norway,Netherlands,0.75
+Sweden,Denmark,1.5
+Italy,Nepal,6
+Italy,Bangladesh,12
+France,Lesotho,0.9
+Israel,Viet Nam,90
+Israel,Viet Nam,32
+Israel,African Union**,0.3
+Israel,Italy,1.5
+Canada,Qatar,2.5
+China,Belarus,0.7
+United Kingdom,Latvia,2.16
+Italy,Portugal,2.25
+South Africa,Malaysia,1.5
+Austria,Latvia,4
+United States,Bahrain,10
+United States,Israel,45
+United States,Mexico,14
+United States,Argentina,1.2
+Ecuador,Uruguay,2.16
+United States,Saudi Arabia,350
+Italy,Slovakia,16
+Italy,Turkey,178.2
+Turkey,Pakistan,16
+United States,Guatemala,1.8
+Unknown supplier(s),Guyana,2
+Italy,Pakistan,5.056
+Italy,Indonesia,21.6
+Italy,Thailand,35
+Switzerland,Jordan,9.8
+Russia,Kazakhstan,46
+United States,France,2.75
+Sweden,Pakistan,2
+Sweden,Switzerland,10
+Denmark,Malaysia,4.75
+Denmark,Latvia,1.6
+China,Pakistan,35
+United States,Brazil,18
+France,Saudi Arabia,8
+France,Egypt,330
+Switzerland,Denmark,9.9
+United Kingdom,France,20
+Ukraine,Russia,26
+China,Pakistan,227.5
+United States,Slovakia,14.5
+France,Indonesia,21
+Sweden,Austria,2.3
+Netherlands,Finland,2.8
+Netherlands,Finland,2.24
+Finland,Poland,31.2
+South Africa,United States,96
+Australia,United States,30
+Germany,South Korea,13.5
+United States,Egypt,6.8
+Russia,UAE,80
+France,Brazil,9
+Germany,United States,10
+Sweden,United States,7.5
+France,Hungary,9.2
+Russia,Qatar,4
+China,Pakistan,7
+United States,Taiwan,20
+France,Lebanon,0.784
+United Kingdom,Singapore,20
+Netherlands,Turkey,12.5
+Russia,Egypt,12
+Russia,Syria,93.06
+Russia,Syria,88
+Russia,Iran,1
+Russia,India,42
+United States,New Zealand,5.5
+United States,South Korea,7
+France,Greece,5.5
+Brazil,India,10.4
+United States,Colombia,3.1
+China,Algeria,20
+China,Algeria,7.5
+South Korea,Thailand,220.75
+United States,Israel,35
+Russia,Jordan,60
+Russia,Laos,40
+Russia,Thailand,13.5
+Germany,Egypt,6
+Germany,Thailand,10
+Russia,Kazakhstan,220
+China,Pakistan,5
+South Korea,Saudi Arabia,3
+United States,Saudi Arabia,26
+New Zealand,Peru,6
+France,Mexico,7.5
+United States,Kuwait,55
+Sweden,Kenya,0.24
+United States,Lebanon,9.924
+Switzerland,Kuwait,15
+Belgium,Indonesia,7.92
+Turkey,Uzbekistan,4.08
+France,Australia,20
+United States,Australia,20
+South Africa,UAE,7.4
+United States,UAE,1.6
+Italy,UAE,12.5
+United States,UAE,30
+France,Morocco,50
+United States,Romania,1.8
+United States,Taiwan,3.6
+United States,Netherlands,3
+Israel,Singapore,4
+China,Indonesia,18
+United States,Egypt,18
+France,Egypt,5
+Russia,Algeria,44
+Russia,Algeria,44
+United States,Japan,36
+Italy,Thailand,2.75
+United States,Taiwan,8
+United States,Thailand,20
+United States,Italy,7
+United States,Italy,10.8
+Sweden,Thailand,12.5
+United States,Brazil,3.6
+United States,Portugal,4
+United States,Thailand,7
+United States,Qatar,4
+United States,Romania,11
+United Kingdom,Pakistan,5.4
+United Kingdom,Pakistan,2.7
+United States,Netherlands,3.06
+United States,Australia,10.8
+United States,UAE,35.08
+United States,UAE,200
+United States,Algeria,3.2
+Israel,Azerbaijan,15
+Poland,Unknown recipient(s),6
+United States,Georgia,4.1
+Russia,India,243.75
+Russia,India,28
+Israel,India,8
+China,Pakistan,11
+United States,India,13.2
+United States,Lebanon,60
+United States,Turkey,14
+France,Saudi Arabia,9.5
+France,Denmark,3.8
+France,United States,47.5
+Netherlands,Malaysia,3
+UAE,Unknown recipient(s),14
+Switzerland,Denmark,2.52
+Spain,United Kingdom,6.42
+Russia,Belarus,40
+France,Malaysia,0.4
+Israel,Thailand,0.5
+South Korea,Finland,9
+Germany,Lithuania,5.94
+China,Algeria,0.5
+Russia,Nigeria,1
+Russia,Iran,1
+Germany,Oman,6.5
+United States,Czechia,1
+France,Nigeria,7.2
+United States,Japan,7.5
+United States,Japan,14
+United Kingdom,Ireland,33.25
+Italy,Ireland,2.75
+Finland,Ireland,4
+Israel,Brazil,4
+Sweden,Japan,8
+China,Qatar,7.2
+China,Qatar,81
+Israel,Thailand,7.5
+Russia,Algeria,65
+China,Rwanda,2.1
+China,Egypt,15
+China,Pakistan,25
+Canada,Saudi Arabia,1.85
+Italy,Indonesia,0.99
+Russia,Iran,2
+United States,NATO**,8.4
+United States,Qatar,3.3
+United Kingdom,Poland,12.5
+United States,Finland,43.75
+United States,Poland,55
+United States,UAE,3.1
+Russia,India,440
+France,Qatar,10
+France,Qatar,16
+China,Pakistan,1.5
+China,Pakistan,1.5
+Turkey,Burkina Faso,4.5
+Israel,Azerbaijan,3
+United Kingdom,South Korea,12
+Russia,Myanmar,60
+China,Laos,11.4
+China,Laos,2.1
+Ukraine,Qatar,20
+South Korea,Poland,8.56
+Germany,Poland,1.44
+Germany,United Kingdom,0.78
+France,China,16
+Russia,China,17.5
+China,Tajikistan,1.4
+Russia,Iraq,10
+Switzerland,China,25
+Switzerland,China,7.5
+Czechia,Azerbaijan,5.1
+France,Qatar,0.9
+United States,Saudi Arabia,35
+United States,Jordan,1
+United States,Bahrain,4.42
+Turkey,Azerbaijan,5.5
+United States,Saudi Arabia,24.82
+France,China,16.25
+France,China,9.5
+Germany,Israel,18
+Italy,Libya GNC,9.108
+Switzerland,Argentina,5
+United Kingdom,China,20
+China,Laos,30
+Russia,Iraq,154
+United States,Afghanistan,62.832
+United States,Thailand,2.5
+United States,Taiwan,10
+France,Tanzania,0.9
+Russia,Cote d'Ivoire,0.08
+Belarus,Cote d'Ivoire,0.396
+Sweden,United States,20
+Germany,China,3
+United Kingdom,Japan,12.5
+United States,Guatemala,0.28
+United States,Croatia,2
+United States,Honduras,0.9
+Germany,Netherlands,59.4
+Germany,Turkey,4
+Italy,Turkey,2.75
+Netherlands,Turkey,12.5
+United States,Turkey,7
+United States,Latvia,11
+Russia,Pakistan,46
+United Kingdom,Bahrain,28
+United States,Italy,40
+Canada,Saudi Arabia,4
+Czechia,Hungary,0.34
+United States,Italy,60
+United States,Thailand,8.8
+France,Argentina,20
+United Kingdom,Germany,10
+United States,Israel,26
+Russia,China,260
+United States,Greece,55.2
+Israel,Germany,1.5
+United States,Australia,20
+United States,Spain,3.6
+United Kingdom,Brazil,136
+United States,Italy,2.5
+United States,Cameroon,1.8
+United States,Afghanistan,0.8
+United States,Canada,7.5
+United States,Brazil,4.8
+South Korea,Malaysia,37
+Denmark,Malaysia,3
+France,Sri Lanka,8
+United States,Mexico,0.9
+United States,Albania,0.84
+Italy,Norway,14
+United States,Australia,440
+Russia,Viet Nam,175
+Russia,Viet Nam,16.5
+United States,Australia,39.9
+Netherlands,Tunisia,134
+Spain,Singapore,196
+Canada,Saudi Arabia,8
+United States,Ukraine,4.2
+United States,Indonesia,3.5
+United States,Indonesia,2.7
+Germany,South Korea,4
+Germany,Indonesia,0.48
+Germany,Indonesia,20
+Brazil,United Kingdom,4.6
+Canada,United Kingdom,6
+China,Sudan,30
+United States,Turkey,110
+Israel,Thailand,8
+Spain,Turkey,146
+Australia,Papua New Guinea,7
+United States,South Korea,330
+Germany,United States,84.5
+Russia,Algeria,520
+Germany,Turkey,24
+United States,United Kingdom,14
+United States,France,37.5
+South Africa,Kazakhstan,5.7
+Czechia,United States,28
+United States,Jordan,15
+United States,UAE,62
+United States,Italy,40
+Russia,Azerbaijan,4.4
+Russia,Azerbaijan,14
+Germany,Qatar,2.1
+United States,Japan,14.4
+United States,Japan,6
+Brazil,Lebanon,17.6
+Israel,Azerbaijan,3
+United States,Ethiopia,9.6
+South Korea,Peru,86.15
+Germany,Austria,4
+Belarus,Azerbaijan,9
+Israel,Azerbaijan,3.6
+Israel,Azerbaijan,85
+Netherlands,France,12.5
+United States,UAE,20
+Netherlands,Canada,2.5
+Sweden,Canada,5
+United States,Japan,220
+Germany,Norway,4.5
+United States,Morocco,320
+United States,Lebanon,5.12
+United States,Iraq,6.12
+Indonesia,Philippines,7.6
+Russia,Algeria,16
+Sweden,United Kingdom,15
+India,Seychelles,3.3
+United States,Italy,12
+United States,Netherlands,8
+United States,Saudi Arabia,80.5
+Austria,Australia,0.2
+France,Ecuador,1.8
+United Kingdom,India,4
+France,Nepal,0.9
+Germany,Jordan,28.05
+Germany,Saudi Arabia,42.25
+United States,France,7
+Israel,Canada,62.5
+Germany,Canada,11.25
+Russia,Egypt,450
+UAE,Kuwait,15
+United States,United Kingdom,180
+United States,Bahrain,0.32
+Italy,Jordan,50.4
+United States,Jordan,8
+United States,Saudi Arabia,48
+Canada,Afghanistan,3.6
+Spain,Australia,499
+United States,Australia,30
+United States,Australia,3.5
+United States,Australia,7.5
+United States,Australia,14
+United States,Sri Lanka,54
+China,Thailand,2
+Brazil,Chile,26.4
+Germany,Jordan,0.8
+Unknown supplier(s),Azerbaijan,4
+South Korea,Turkey,5.7
+Israel,Philippines,2.5
+Sweden,Cote d'Ivoire,0.18
+United States,Afghanistan,2
+South Africa,Uganda,0.75
+United States,Brazil,24
+United States,Qatar,165
+Italy,Singapore,5.5
+France,Singapore,10
+Italy,Uruguay,4
+Poland,Ecuador,2.75
+Israel,Poland,9
+United States,Tunisia,1.26
+United Kingdom,Saudi Arabia,45
+United States,Saudi Arabia,32.5
+France,Thailand,15
+Belarus,Cote d'Ivoire,1.28
+South Korea,United Kingdom,266
+United States,UAE,251.2
+United States,Qatar,250
+United States,Saudi Arabia,110
+United States,Saudi Arabia,125
+United States,Saudi Arabia,25
+United States,UAE,60
+France,Georgia,18
+France,Georgia,13
+Brazil,Guyana,0.48
+South Africa,Jordan,3.2
+United States,Jordan,0.8
+Russia,Algeria,186
+France,Egypt,24
+Germany,Hungary,26.4
+United States,Japan,58
+United States,Saudi Arabia,72.5
+United States,South Korea,44.4
+United States,Saudi Arabia,55
+United States,South Korea,110
+Turkey,Oman,1.75
+Turkey,UAE,41
+United States,UAE,4
+United Kingdom,Italy,24
+Italy,Bangladesh,12.5
+France,Spain,92
+UAE,Kenya,2.88
+Israel,Viet Nam,20
+Italy,Greece,1.08
+UAE,Cameroon,0.28
+Turkey,Pakistan,88
+China,Bangladesh,75
+China,Pakistan,57.15
+United Kingdom,Latvia,1.66
+United Kingdom,Australia,10
+Israel,India,135
+China,Myanmar,105
+Italy,Brazil,2.4
+Sweden,Pakistan,12
+United States,Panama,11
+United States,Czechia,0.8
+United States,Brazil,9.6
+United States,Slovakia,3
+Switzerland,Jordan,9.8
+Canada,Jordan,1.2
+Canada,Jordan,1.2
+South Korea,Viet Nam,60
+United States,Argentina,5.6
+United Kingdom,France,12
+Israel,Italy,35
+United States,Canada,38.85
+Israel,Romania,9
+Russia,Equatorial Guinea,6.75
+United States,Finland,7.2
+Denmark,Portugal,16
+United States,Afghanistan,6.3
+United States,Saudi Arabia,30
+France,Egypt,40
+France,India,155
+United States,Japan,200
+France,Qatar,165
+France,Spain,14.5
+Finland,Poland,11.6
+United States,Poland,12
+United States,Poland,5.4
+Sweden,Poland,4.2
+Norway,United States,43.8
+United States,South Korea,4
+Germany,South Korea,9.6
+Germany,South Korea,4
+Spain,NATO**,13
+Germany,Spain,8
+United States,Japan,0.72
+Germany,United Kingdom,8
+France,Tanzania,14.5
+Russia,India,140
+United States,Norway,16.2
+Italy,Bahrain,5
+United States,Jamaica,7.5
+Brazil,Uruguay,7.2
+France,Botswana,2.5
+France,Estonia,3
+France,Lebanon,3.6
+Czechia,Brazil,0.8
+Sweden,Thailand,5
+United States,Egypt,12
+United States,Turkey,2.1
+United States,Turkey,14
+Russia,Egypt,11.25
+Russia,Pakistan,35.2
+Russia,India,30
+Russia,Egypt,30
+Russia,Egypt,15
+United Kingdom,Colombia,10.2
+Russia,Algeria,330
+France,Brazil,30
+Russia,Laos,20.592
+UAE,Algeria,6.5
+Qatar,Mali,2.88
+China,Laos,7
+Germany,Thailand,7.5
+Italy,Pakistan,31.68
+China,Pakistan,10
+United States,Pakistan,1.28
+China,Pakistan,10
+Canada,UAE,25
+United Kingdom,UAE,7.5
+Germany,UAE,5
+South Korea,Norway,113
+Switzerland,Australia,73.5
+Canada,Australia,9
+France,Spain,28
+Russia,Belarus,50
+Russia,Belarus,25
+France,Saudi Arabia,40
+France,Saudi Arabia,40
+Sweden,Thailand,7.5
+Switzerland,Romania,3.48
+United States,Romania,0.48
+Switzerland,Romania,4.5
+France,Kenya,1.68
+United States,Botswana,1.52
+France,Kazakhstan,13
+United States,Tunisia,29
+Russia,Viet Nam,120
+China,Thailand,45
+France,Brazil,21
+United States,Uzbekistan,1.92
+United States,Greece,3.6
+United States,Singapore,21
+France,Singapore,100
+Belgium,Indonesia,2.3
+China,Algeria,5.4
+United States,Thailand,7
+United States,Singapore,0.8
+United States,Japan,4
+United States,Canada,3.04
+United States,India,2.6
+United States,Israel,4
+United States,South Korea,8
+Canada,France,9
+United Kingdom,Pakistan,2
+Canada,Argentina,2.4
+United States,Portugal,2
+United States,Indonesia,2.52
+United States,Belgium,0.54
+United States,UAE,30
+United States,Saudi Arabia,52.9
+United States,Turkey,28.8
+France,Saudi Arabia,37.5
+Poland,Ukraine,6
+Poland,Unknown recipient(s),6
+Israel,Myanmar,10.5
+South Africa,India,22
+Russia,India,3
+France,India,40
+Germany,India,1.8
+United States,India,8.8
+United States,Israel,40
+China,Pakistan,20
+Israel,Azerbaijan,5.25
+United States,Netherlands,4
+United States,Australia,14
+Netherlands,Egypt,12.5
+France,Italy,10
+China,Thailand,3
+Finland,Norway,7
+Finland,United Kingdom,14
+Russia,China,65
+Russia,China,15
+United States,Afghanistan,1.8
+South Africa,Malaysia,12
+United States,Japan,14
+United States,Japan,20
+Sweden,Argentina,5
+Russia,Myanmar,13.2
+United States,Austria,0.3
+China,Rwanda,1
+UAE,Yemen,3.2
+UAE,Yemen,5.5
+Ukraine,Pakistan,4.75
+China,Indonesia,12
+China,Saudi Arabia,40
+China,UAE,40
+India,Myanmar,3
+United States,South Korea,5.8
+United States,Turkey,2
+United States,Egypt,10.8
+United States,UAE,12.8
+United States,Mexico,2.8
+Canada,Mexico,1.2
+United States,South Korea,2.2
+United States,Australia,20
+Austria,Uganda,0.35
+UAE,Algeria,1.5
+India,Seychelles,2.5
+United States,Tunisia,16
+France,Qatar,20
+United States,Guatemala,0.9
+Pakistan,Nigeria,0.22
+United Kingdom,Morocco,4
+United States,Morocco,5.5
+United States,Nigeria,3.6
+United Kingdom,United States,24
+Spain,South Korea,98
+UAE,Algeria,20
+Germany,Malaysia,4.9
+France,China,14
+Russia,China,10
+Russia,China,5
+Russia,China,18
+France,China,28
+Russia,China,2.5
+China,Tajikistan,1.5
+France,Ukraine,3
+Russia,Iraq,72.5
+Germany,United Kingdom,3.5
+Israel,Kazakhstan,1.4
+Italy,Pakistan,66
+Slovakia,Azerbaijan,11.88
+Israel,Azerbaijan,3
+Israel,Azerbaijan,2.8
+United States,Italy,13.3
+United States,Jordan,1.5
+United States,UAE,50
+United States,Lebanon,10
+United States,Thailand,1
+United States,Egypt,9
+Belgium,Indonesia,0.48
+France,Georgia,2.5
+Russia,India,160
+Russia,Iraq,27
+United States,Pakistan,11
+Italy,Brazil,26.25
+Israel,Brazil,6
+Israel,Thailand,2
+Israel,Thailand,1
+United States,Thailand,2.8
+United States,Spain,10
+United States,UAE,19.2
+United States,Australia,8
+Russia,Belarus,0.28
+United States,Qatar,1
+Russia,China,36
+United States,Japan,7.25
+United States,Japan,5
+China,Sudan,2.2

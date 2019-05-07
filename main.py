@@ -1,8 +1,9 @@
 from Graph import *
+from ANCA import *
 # from MST import *
 from sklearn.neighbors import NearestNeighbors
 import cv2
-image = 'phot.jpg'
+image = 'phot.png'
 
 
 def find_neighbors(image, k):
@@ -17,7 +18,7 @@ def find_neighbors(image, k):
     for i in range(h):
         for j in range(w):
             R, G, B = img[i][j]
-            feature_space.append([i/h, j/w, R/256, G/256, B/256])
+            feature_space.append([i, j, R, G, B])
 
     nbrs = NearestNeighbors(n_neighbors=k, algorithm='ball_tree').fit(feature_space)
     distances, indices = nbrs.kneighbors(feature_space)
@@ -25,10 +26,33 @@ def find_neighbors(image, k):
     return [indices, distances, k, h, w, img]
 
 
+def find_neighbor_for_trade(feature_space,k):
+    nbrs = NearestNeighbors(n_neighbors=k, algorithm='ball_tree').fit(feature_space)
+    distances, indices = nbrs.kneighbors(feature_space)
+    return indices,distances
+
+def build_knn_for_trade(featureSpace,c,k):
+    graph=Graph(c)
+    edges,weights=find_neighbor_for_trade(featureSpace,k)
+
+    print('edge: ',edges)
+    print('weight: ',weights)
+    for i in range(len(edges)):
+        graph.addNode(edges[i][0])
+        for j in range(1,k):
+            graph.addNode(edges[i][j])
+            graph.addEdge(edges[i,0],edges[i,j],weights[i,j])
+
+    graph.edges.sort(key=lambda  x:x[2])
+    return graph
+
+
 def build_knn_graph(image,k,c):
+
     knn_object=find_neighbors(image,k)
+
     print('got knn')
-    graph = Graph(knn_object[5],knn_object[3],knn_object[4],c)
+    graph = Graph(c, knn_object[5],knn_object[3],knn_object[4])
     edges = knn_object[0]
     weights = knn_object[1]
     k = knn_object[2]
@@ -38,6 +62,7 @@ def build_knn_graph(image,k,c):
         for j in range(1, k):
             graph.addNode(edges[i][j])
             graph.addEdge(edges[i, 0], edges[i, j], weights[i, j])
+
     print('after for')
     graph.edges.sort(key=lambda x: x[2])
     print('built graph')
@@ -49,8 +74,26 @@ k = 20
 #
 
 
-g=build_knn_graph(image,10,10)
-g.HFSegmentation()
-g.color()
+# g=build_knn_graph(image,7,300)
+# g.HFSegmentation()
+# g.color()
+
+s='edges_with_id.csv'
+sn='attributes.csv'
+
+out='./tradeNode.csv'
+
+anca=ANCA(s,sn,0.2,0.1)
+featureSpace=anca.anca_calc()
+print('# coun ',len(featureSpace))
+print('feature', len(featureSpace[0]))
+nameDic=anca.get_realName()
+graph=build_knn_for_trade(featureSpace,2,3)
+
+graph.HFSegmentation()
+graph.cluster_community(nameDic,out)
+
+
+
 
 

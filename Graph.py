@@ -6,7 +6,7 @@ import random
 import cv2
 
 class Graph:
-    def __init__(self,image, h,w,c):
+    def __init__(self,c,image=None, h=None,w=None):
         self.image=image
         self.h=h
         self.w=w
@@ -15,6 +15,7 @@ class Graph:
         self.edges = []
 
         self.parent = {}
+        self.root=set()
         self.rank = {}
         self.size = {}
         self.threshold= {}
@@ -30,6 +31,7 @@ class Graph:
             self.vertices.append(node)
 
             self.parent[node] = node
+            self.root.add(node)
             self.rank[node] = 0
             self.size[node] = 1
             self.threshold[node]=self.c
@@ -54,32 +56,12 @@ class Graph:
             xroot,yroot=yroot,xroot
 
         self.parent[yroot]=xroot
+        self.root.remove(yroot)
         self.size[xroot]+=self.size[yroot]
         if self.rank[xroot]==self.rank[yroot]:
             self.rank[xroot]+=1
         return xroot
 
-    # def KruskalMST(self):
-    #     """Find the MST based on the Kruskal's Algorithm"""
-    #     mst = []
-    #     e = 0
-    #     i = 0
-    #
-    #     self.init_parent_and_rank()
-    #
-    #     while e < len(self.vertices) - 1:
-    #         v1, v2, weight = self.edges[e]
-    #         i = i + 1 #i for what
-    #         x = self.find_root(v1)
-    #         y = self.find_root(v2)
-    #
-    #         if x != y:
-    #             e = e + 1 #for what
-    #             mst.append((v1, v2, weight))
-    #             self.union_tree_set(x, y)
-    #
-    #     # Return the edge with the highest weight in the component
-    #     return mst
 
     def calc_threshold(self, c, size):
         return c/size
@@ -100,6 +82,7 @@ class Graph:
                    # result.setdefault(x, []).append(edge)
         print('segmented')
 
+
     def color(self):
         c={}
         for v in self.vertices:
@@ -115,5 +98,18 @@ class Graph:
         cv2.imshow('title', self.image)
         cv2.waitKey(0)
         cv2.destroyAllWindows()
+
+    def cluster_community(self,nameDic,node_file_name):
+        print('writing data')
+        out_node = open(node_file_name, 'w')
+        out_node.write('Id,RealName,Community\n')
+        self.vertices=sorted(self.vertices)
+        for v in self.vertices:
+            root=self.find_root(v)
+            out_node.write(','.join([str(v),nameDic[v],str(root)]))
+            out_node.write('\n')
+        print('finish')
+
+
 
 
