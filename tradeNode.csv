@@ -1,117 +1,118 @@
 Id,RealName,Community
-0,Afghanistan,76
-1,African Union**,54
-2,Albania,38
-3,Algeria,75
-4,Angola,115
-5,Argentina,64
-6,Australia,38
-7,Austria,76
-8,Azerbaijan,115
-9,Bahrain,64
-10,Bangladesh,106
-11,Belarus,44
+0,Afghanistan,0
+1,African Union**,1
+2,Albania,2
+3,Algeria,3
+4,Angola,4
+5,Argentina,5
+6,Australia,50
+7,Austria,97
+8,Azerbaijan,112
+9,Bahrain,23
+10,Bangladesh,52
+11,Belarus,55
 12,Belgium,66
 13,Bolivia,20
 14,Botswana,35
-15,Brazil,61
-16,Bulgaria,115
-17,Burkina Faso,115
-18,Cameroon,61
-19,Canada,61
+15,Brazil,113
+16,Bulgaria,24
+17,Burkina Faso,72
+18,Cameroon,106
+19,Canada,19
 20,Central African Republic,20
-21,Chile,76
+21,Chile,57
 22,China,20
-23,Colombia,64
-24,Cote d'Ivoire,115
+23,Colombia,23
+24,Cote d'Ivoire,24
 25,Croatia,38
-26,Czechia,54
-27,Denmark,66
-28,Ecuador,61
-29,Egypt,106
-30,Equatorial Guinea,44
-31,Estonia,54
-32,Ethiopia,38
-33,Finland,76
-34,France,61
+26,Czechia,59
+27,Denmark,50
+28,Ecuador,28
+29,Egypt,29
+30,Equatorial Guinea,99
+31,Estonia,31
+32,Ethiopia,32
+33,Finland,33
+34,France,34
 35,Georgia,35
-36,Germany,35
-37,Greece,64
+36,Germany,86
+37,Greece,37
 38,Guatemala,38
-39,Guyana,54
+39,Guyana,113
 40,Honduras,38
-41,Hungary,54
-42,India,54
-43,Indonesia,54
-44,Iran,44
-45,Iraq,54
-46,Ireland,61
-47,Israel,61
-48,Italy,61
-49,Jamaica,76
-50,Japan,76
-51,Jordan,54
-52,Kazakhstan,115
-53,Kenya,54
+41,Hungary,41
+42,India,42
+43,Indonesia,43
+44,Iran,99
+45,Iraq,72
+46,Ireland,74
+47,Israel,83
+48,Italy,59
+49,Jamaica,32
+50,Japan,50
+51,Jordan,51
+52,Kazakhstan,52
+53,Kenya,24
 54,Kuwait,54
-55,Laos,44
-56,Latvia,64
-57,Lebanon,95
-58,Lesotho,54
-59,Libya GNC,61
-60,Libya HoR,61
-61,Lithuania,61
-62,Malaysia,61
-63,Mali,54
-64,Mexico,64
+55,Laos,55
+56,Latvia,56
+57,Lebanon,57
+58,Lesotho,102
+59,Libya GNC,59
+60,Libya HoR,70
+61,Lithuania,86
+62,Malaysia,93
+63,Mali,52
+64,Mexico,35
 65,Montenegro,76
 66,Morocco,66
-67,Myanmar,20
-68,NATO**,76
-69,Nepal,54
-70,Netherlands,61
-71,New Zealand,76
-72,Nigeria,54
-73,Norway,38
-74,Oman,61
+67,Myanmar,112
+68,NATO**,68
+69,Nepal,69
+70,Netherlands,70
+71,New Zealand,33
+72,Nigeria,72
+73,Norway,97
+74,Oman,74
 75,Pakistan,75
 76,Panama,76
-77,Papua New Guinea,64
-78,Peru,61
-79,Philippines,64
-80,Poland,61
-81,Portugal,76
-82,Qatar,106
-83,Romania,35
-84,Russia,44
-85,Rwanda,85
-86,Saudi Arabia,95
-87,Senegal,76
-88,Serbia,54
-89,Seychelles,54
-90,Singapore,76
-91,Slovakia,61
-92,South Africa,61
-93,South Korea,61
-94,Spain,38
+77,Papua New Guinea,50
+78,Peru,93
+79,Philippines,83
+80,Poland,80
+81,Portugal,23
+82,Qatar,108
+83,Romania,83
+84,Russia,75
+85,Rwanda,96
+86,Saudi Arabia,86
+87,Senegal,114
+88,Serbia,88
+89,Seychelles,89
+90,Singapore,74
+91,Slovakia,57
+92,South Africa,92
+93,South Korea,93
+94,Spain,93
 95,Sri Lanka,95
-96,Sudan,85
-97,Sweden,61
-98,Switzerland,54
-99,Syria,44
-101,Tajikistan,85
-102,Tanzania,54
-103,Thailand,106
-104,Tunisia,76
-105,Turkey,61
+96,Sudan,96
+97,Sweden,97
+98,Switzerland,98
+99,Syria,99
+100,Taiwan,76
+101,Tajikistan,96
+102,Tanzania,102
+103,Thailand,75
+104,Tunisia,104
+105,Turkey,106
 106,UAE,106
-107,Uganda,54
-108,Ukraine,75
-109,United Kingdom,61
-110,United States,38
-111,Unknown recipient(s),54
-112,Unknown supplier(s),115
-113,Uruguay,61
-114,Uzbekistan,76
-115,Viet Nam,115
-116,Yemen,106
+107,Uganda,70
+108,Ukraine,108
+109,United Kingdom,109
+110,United States,110
+111,Unknown recipient(s),111
+112,Unknown supplier(s),112
+113,Uruguay,113
+114,Uzbekistan,114
+115,Viet Nam,75
+116,Yemen,108
