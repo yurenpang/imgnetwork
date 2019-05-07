@@ -133,20 +133,16 @@ class ANCA:
         return ans
 
 
-    def svd(self,M,k=2):
+    def svd(self,M,k=30):
         '''svd a given matrix, k = top k largest eigenvectors'''
         #print(M)
         u, z, v = np.linalg.svd(M, full_matrices=False)
-        # print('__________________')
-        # print(u)
-        # print('__________________')
-        # print(v)
-        z=np.diag(z)
-        v=np.dot(z,v)
-        l=np.dot(u[:,:k],v[:k,:])
-        # print('__________________')
-        # print(l)
-        return l
+
+        # z=np.diag(z)
+        # v=np.dot(z,v)
+        # l=np.dot(u[:,:k],v[:k,:])
+
+        return u[:,:k]
 
     def featureY(self,featureSpaceX):
         '''normalize the attribute of each node'''

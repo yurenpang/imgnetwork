@@ -4,6 +4,7 @@ from ANCA import *
 from sklearn.neighbors import NearestNeighbors
 import cv2
 image = 'phot.png'
+import pandas as pd
 
 
 def find_neighbors(image, k):
@@ -27,23 +28,32 @@ def find_neighbors(image, k):
 
 
 def find_neighbor_for_trade(feature_space,k):
+
     nbrs = NearestNeighbors(n_neighbors=k, algorithm='ball_tree').fit(feature_space)
     distances, indices = nbrs.kneighbors(feature_space)
+
+    feature_space=pd.DataFrame(feature_space)
+    print(feature_space)
     return indices,distances
 
 def build_knn_for_trade(featureSpace,c,k):
     graph=Graph(c)
     edges,weights=find_neighbor_for_trade(featureSpace,k)
 
-    print('edge: ',edges)
-    print('weight: ',weights)
+    print('edges', edges)
+    print('117: ',len(edges))
+    print('k+1: ',len(edges[0]))
+
+
     for i in range(len(edges)):
         graph.addNode(edges[i][0])
+        print(edges[i][0])
         for j in range(1,k):
             graph.addNode(edges[i][j])
             graph.addEdge(edges[i,0],edges[i,j],weights[i,j])
 
     graph.edges.sort(key=lambda  x:x[2])
+
     return graph
 
 
@@ -85,13 +95,14 @@ out='./tradeNode.csv'
 
 anca=ANCA(s,sn,0.2,0.1)
 featureSpace=anca.anca_calc()
+
 print('# coun ',len(featureSpace))
 print('feature', len(featureSpace[0]))
 nameDic=anca.get_realName()
 graph=build_knn_for_trade(featureSpace,2,3)
 
 graph.HFSegmentation()
-graph.cluster_community(nameDic,out)
+#graph.cluster_community(nameDic,out)
 
 
 
