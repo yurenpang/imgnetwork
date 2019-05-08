@@ -19,13 +19,19 @@ class ANCA:
     def build_graph(self):
         '''take two data sets as input, set node attribute,
             return G'''
-        df= pd.read_csv(self.edgeData, sep=',')
-        G = nx.from_pandas_edgelist(df,'sourceID','targetID',['weights'])
-        df2=pd.read_csv(self.nodeData,sep=',')
+        df = pd.read_csv(self.edgeData, sep=',')
+        G = nx.from_pandas_edgelist(df, source='sourceID', target='targetID', edge_attr = ['weights'])
+        print(G.nodes())
+
+        df2 = pd.read_csv(self.nodeData, sep=',')
+        #
+
         self.vcount=df2.shape[0]
         self.realName_dic=df2['Country']
-        for i,attr in enumerate(list(df2.columns[1:])):
-            nx.set_node_attributes(G,df2[attr],'attr'+str(i))
+
+
+        for i, attr in enumerate(list(df2.columns[2:])):
+            nx.set_node_attributes(G, df2[attr],'attr'+str(i))
         # G=nx.relabel_nodes(G,self.realName_dic)
         # print(G.nodes(data=True))
         # print(G.edges(data=True))
@@ -59,7 +65,7 @@ class ANCA:
             member_m.append(row)
         return np.array(member_m)
 
-    def  build_attriMaxtrix(self):
+    def build_attriMaxtrix(self):
         '''characterize each node according to its attribute relation to every other node,
             return a R^(V*V) matrix'''
         attri_m=[]
@@ -85,45 +91,43 @@ class ANCA:
         self.pairDic[pair]=math.sqrt(sum)
         return math.sqrt(sum)
 
-    def hamming(self,a,b):
-        pair=tuple(sorted([a,b]))
+    def hamming(self, a, b):
+        pair = tuple(sorted([a, b]))
         if pair in self.pairDic:
             return self.pairDic[pair]
-        a=self.G.nodes[a]
-        b=self.G.nodes[b]
-        dif=0
-        for att1,attr in zip(a,b):
-            if att1 !=attr:
-                dif+=1
-        self.pairDic[pair]=dif
-        return dif
+        value_a = self.G.nodes[a]
+        value_b = self.G.nodes[b]
 
-
+        diff = 0
+        for att1, att2 in zip(value_a, value_b):
+            diff += abs(value_a[att1]-value_a[att2])
+        self.pairDic[pair] = diff
+        return diff
 
     def anca_calc(self,k=None):
         '''main calc'''
-        self.G=self.build_graph() #build Graph
-        self.seeds=self.detect_seed(self.G)#build seeds set
+        self.G=self.build_graph()  # build Graph
+        self.seeds=self.detect_seed(self.G)  # build seeds set
 
-        topM=self.build_memberMatrix()#topM = topological information
-        attM=self.build_attriMaxtrix()#attM = attribute information
+        topM=self.build_memberMatrix()  # topM = topological information
+        attM=self.build_attriMaxtrix()  # attM = attribute information
 
-        l1=self.svd(topM) #svd both matrices
+        l1=self.svd(topM)  # svd both matrices
         l2=self.svd(attM)
-        print('l1:',len(l1[0]))
+        print('l1:', len(l1[0]))
         print('l2:', len(l2[0]))
 
-        featureSpaceX=np.column_stack((l1,l2)) #stack the feature space together
-        featureSpaceY=self.featureY(featureSpaceX)
+        featureSpaceX = np.column_stack((l1,l2))  # stack the feature space together
+        featureSpaceY = self.featureY(featureSpaceX)
 
-        if k == None: #recommended k for kMeans cluster
-            k=int(math.sqrt(self.vcount/2))
+        if k == None:  # recommended k for kMeans cluster
+            k = int(math.sqrt(self.vcount/2))
 
-        #cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
-        #return self.cluster(cluster)
-        return featureSpaceY
+        # cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
+        # return self.cluster(cluster)
+        return featureSpaceX
 
-    def cluster(self,cluster):
+    def cluster(self, cluster):
         '''assign each node to a set'''
         ans={}
         for index,cat in enumerate(cluster):
@@ -133,7 +137,7 @@ class ANCA:
         return ans
 
 
-    def svd(self,M,k=30):
+    def svd(self,M,k=7):
         '''svd a given matrix, k = top k largest eigenvectors'''
         #print(M)
         u, z, v = np.linalg.svd(M, full_matrices=False)
