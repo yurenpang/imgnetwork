@@ -22,13 +22,17 @@ class ANCA:
         df= pd.read_csv(self.edgeData, sep=',')
         G = nx.from_pandas_edgelist(df,'sourceID','targetID',['weights'])
         df2=pd.read_csv(self.nodeData,sep=',')
+        # print(pd.DataFrame(df))
+        # print(pd.DataFrame(df2))
+
         self.vcount=df2.shape[0]
         self.realName_dic=df2['Country']
-        for i,attr in enumerate(list(df2.columns[1:])):
+
+        for i, attr in enumerate(list(df2.columns[2:])):
             nx.set_node_attributes(G,df2[attr],'attr'+str(i))
         # G=nx.relabel_nodes(G,self.realName_dic)
-        # print(G.nodes(data=True))
-        # print(G.edges(data=True))
+        print(G.nodes(data=True))
+        print(G.edges(data=True))
         return G
 
     def get_realName(self):
@@ -59,7 +63,7 @@ class ANCA:
             member_m.append(row)
         return np.array(member_m)
 
-    def  build_attriMaxtrix(self):
+    def build_attriMaxtrix(self):
         '''characterize each node according to its attribute relation to every other node,
             return a R^(V*V) matrix'''
         attri_m=[]
@@ -119,9 +123,9 @@ class ANCA:
         if k == None: #recommended k for kMeans cluster
             k=int(math.sqrt(self.vcount/2))
 
-        #cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
-        #return self.cluster(cluster)
-        return featureSpaceY
+        cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
+        return self.cluster(cluster)
+        #return featureSpaceY
 
     def cluster(self,cluster):
         '''assign each node to a set'''
@@ -133,7 +137,7 @@ class ANCA:
         return ans
 
 
-    def svd(self,M,k=30):
+    def svd(self,M,k=8):
         '''svd a given matrix, k = top k largest eigenvectors'''
         #print(M)
         u, z, v = np.linalg.svd(M, full_matrices=False)

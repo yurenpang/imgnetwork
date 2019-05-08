@@ -67,7 +67,7 @@ def find_neighbor_for_trade(feature_space, k):
 
     # Find neighbors and distances for each node
     for x in range(feature_length):
-        neighbors_list_and_distance = find_k_neighbors(feature_space, x, 5)  # k override
+        neighbors_list_and_distance = find_k_neighbors(feature_space, x, k)  # k override
         neighbors = neighbors_list_and_distance[0]
         distances = neighbors_list_and_distance[1]
 
@@ -160,16 +160,27 @@ sn='attributes.csv'
 
 out='./tradeNode.csv'
 
-anca=ANCA(s,sn,0.2,0.1)
+anca=ANCA(s, sn, 0.2, 0.1)
 featureSpace=anca.anca_calc()
+print(featureSpace)
+country_dic = anca.realName_dic
+print(len(featureSpace))
 
-print('# coun ',len(featureSpace))
-print('feature', len(featureSpace[0]))
-nameDic=anca.get_realName()
-graph=build_knn_for_trade(featureSpace,2,5)  # k = 5 override
+for i in range(len(featureSpace)):
+    print("######################## Cluster ", i + 1)
+    str = ""
+    for j in (featureSpace[i]):
+        country = country_dic[j]
+        str += country + ", "
+    print(str)
 
-graph.HFSegmentation()
-graph.cluster_community(nameDic,out)
+# print('# coun ',len(featureSpace))
+# print('feature', len(featureSpace[0]))
+# nameDic=anca.get_realName()
+# graph=build_knn_for_trade(featureSpace,10,10)  # k = 5 override
+#
+# graph.HFSegmentation()
+# graph.cluster_community(nameDic,out)
 
 
 
