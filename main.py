@@ -111,11 +111,10 @@ def build_knn_for_trade(featureSpace,c,k):
     # print('117: ',len(edges))
     # print('k+1: ',len(edges[0]))
 
-
     for i in range(len(edges)):
         graph.addNode(edges[i][0])
         print(edges[i][0])
-        for j in range(1,k):
+        for j in range(1, len(edges[i])):
             graph.addNode(edges[i][j])
             graph.addEdge(edges[i,0],edges[i,j],weights[i,j])
 
@@ -165,22 +164,22 @@ featureSpace=anca.anca_calc()
 print(featureSpace)
 country_dic = anca.realName_dic
 print(len(featureSpace))
-
-for i in range(len(featureSpace)):
-    print("######################## Cluster ", i + 1)
-    str = ""
-    for j in (featureSpace[i]):
-        country = country_dic[j]
-        str += country + ", "
-    print(str)
-
-# print('# coun ',len(featureSpace))
-# print('feature', len(featureSpace[0]))
-# nameDic=anca.get_realName()
-# graph=build_knn_for_trade(featureSpace,10,10)  # k = 5 override
 #
-# graph.HFSegmentation()
-# graph.cluster_community(nameDic,out)
+# for i in range(len(featureSpace)):
+#     print("######################## Cluster ", i + 1)
+#     str = ""
+#     for j in (featureSpace[i]):
+#         country = country_dic[j]
+#         str += country + ", "
+#     print(str)
+
+print('# coun ',len(featureSpace))
+print('feature', len(featureSpace[0]))
+nameDic=anca.get_realName()
+graph=build_knn_for_trade(featureSpace, 20, 10)  # k = 5 override
+#
+graph.HFSegmentation()
+graph.cluster_community(nameDic,out)
 
 
 
