@@ -1,0 +1,763 @@
+"source","target","weights","sourceID","targetID"
+"Israel","Brazil",6,46,14
+"Netherlands","Turkey",4.75,68,103
+"Chile","Uruguay",0.42,20,109
+"Russia","Angola",62.7,82,3
+"Spain","Saudi Arabia",43,92,84
+"Russia","China",275,82,21
+"Spain","Saudi Arabia",27,92,84
+"South Korea","Thailand",71.2,91,101
+"United States","Singapore",34,108,88
+"France","Argentina",3.2,33,4
+"Spain","United States",159.6,92,108
+"United States","Jordan",3.96,108,50
+"France","Norway",3.8,33,71
+"Russia","Iraq",292,82,44
+"India","Sri Lanka",37,41,93
+"Ukraine","Thailand",52,106,101
+"France","Nigeria",13.6,33,70
+"United Kingdom","Oman",230,107,72
+"Japan","Philippines",3.3,49,77
+"Ukraine","Thailand",3,106,101
+"Italy","Australia",16,47,5
+"United States","Australia",3,108,5
+"Italy","Norway",4.65,47,71
+"United States","Egypt",140,108,28
+"Netherlands","Finland",40,68,32
+"United States","Indonesia",75,108,42
+"Turkey","Senegal",4.25,103,85
+"United States","Senegal",2,108,85
+"United States","Afghanistan",115.83,108,0
+"Russia","Viet Nam",15,82,111
+"Ukraine","Viet Nam",10,106,111
+"United States","Philippines",0.24,108,77
+"Russia","Nigeria",23,82,70
+"Belgium","France",5.2,11,33
+"Czechia","Ukraine",17.82,25,106
+"Israel","Philippines",4.2,46,77
+"Pakistan","Azerbaijan",2.2,73,7
+"United States","Indonesia",6,108,42
+"Belarus","Serbia",45.6,10,86
+"Russia","Belarus",26,82,10
+"United Kingdom","South Korea",12,107,91
+"United States","South Korea",7.5,108,91
+"South Korea","Indonesia",159.52,91,42
+"Germany","United Kingdom",3.2,35,107
+"Netherlands","Libya HoR",10,68,59
+"Israel","Azerbaijan",125,46,7
+"Germany","Algeria",48,35,2
+"Germany","Serbia",3.25,35,86
+"United States","Chile",43.5,108,20
+"United States","Montenegro",15,108,64
+"Italy","Norway",30.2,47,71
+"United States","France",3,108,33
+"United States","Saudi Arabia",1950,108,84
+"Australia","Japan",0.8,5,49
+"United States","Japan",0.2,108,49
+"Sweden","Norway",13.5,95,71
+"United States","Iraq",34,108,44
+"Russia","Azerbaijan",28.5,82,7
+"Germany","Qatar",35,35,80
+"United Kingdom","Finland",0.288,107,32
+"Brazil","Afghanistan",26.4,14,0
+"Canada","Afghanistan",3.6,18,0
+"Canada","Lebanon",3,18,56
+"Indonesia","Viet Nam",7.6,42,111
+"Italy","Angola",12,47,3
+"Germany","Netherlands",25,35,68
+"United States","Taiwan",87,108,98
+"Switzerland","Brazil",3,96,14
+"United States","Saudi Arabia",4,108,84
+"United States","UAE",20,108,104
+"United States","Saudi Arabia",27,108,84
+"Netherlands","Canada",12.5,68,18
+"United States","Canada",72,108,18
+"UAE","Egypt",42,104,28
+"Russia","Egypt",294.5,82,28
+"United States","Philippines",7.5,108,77
+"United States","Morocco",3,108,65
+"United States","Morocco",4,108,65
+"United States","Jordan",11,108,50
+"United States","Saudi Arabia",9,108,84
+"Brazil","Mali",17.6,14,62
+"Germany","Netherlands",2.21,35,68
+"China","Pakistan",37.5,21,73
+"South Korea","India",43.2,91,41
+"Canada","Mali",2.4,18,62
+"United States","Italy",55,108,47
+"Italy","France",2.75,47,33
+"Germany","France",8,35,33
+"France","Singapore",55,33,88
+"Germany","South Korea",550,35,91
+"United States","Norway",330,108,71
+"Netherlands","Estonia",28.8,68,30
+"Germany","Saudi Arabia",72,35,84
+"Germany","Lithuania",16.8,35,60
+"United States","Israel",330,108,46
+"United States","Saudi Arabia",160,108,84
+"United States","Saudi Arabia",26,108,84
+"Denmark","France",2,26,33
+"France","India",4,33,41
+"Germany","India",4,35,41
+"Bulgaria","Cote d'Ivoire",6.8,15,23
+"Italy","Qatar",20,47,80
+"United States","Jordan",5.5,108,50
+"United States","Jordan",3.52,108,50
+"United States","Afghanistan",16.5,108,0
+"United States","Denmark",32.2,108,26
+"United States","Japan",68,108,49
+"United States","Australia",20,108,5
+"United States","Australia",12,108,5
+"United States","Australia",5,108,5
+"Russia","Burkina Faso",13.5,82,16
+"United States","Jamaica",5.4,108,48
+"Ukraine","China",60,106,21
+"Germany","China",14.4,35,21
+"China","Bolivia",1.4,21,12
+"Czechia","Ukraine",11.88,25,106
+"United States","Turkey",80,108,103
+"Germany","Turkey",1.8,35,103
+"United Kingdom","Singapore",24,107,88
+"Cote d'Ivoire","France",1.26,23,33
+"Ukraine","China",48,106,21
+"Germany","United Kingdom",9,35,107
+"China","Central African Republic",1.44,21,19
+"Germany","Singapore",8,35,88
+"France","Singapore",16,33,88
+"United States","Saudi Arabia",90,108,84
+"France","Kuwait",3.3,33,53
+"United States","Ukraine",7.44,108,106
+"Turkey","UAE",84,103,104
+"United States","South Korea",80,108,91
+"United States","Saudi Arabia",20,108,84
+"United Kingdom","Saudi Arabia",16,107,84
+"China","Kazakhstan",23,21,51
+"France","Tanzania",15,33,100
+"Netherlands","United States",61.6,68,108
+"Russia","China",600,82,21
+"United States","Australia",250,108,5
+"Switzerland","France",73.5,96,33
+"Germany","Australia",27,35,5
+"United States","Turkey",13,108,103
+"United States","Belgium",0.72,108,11
+"Netherlands","Singapore",16,68,88
+"France","Saudi Arabia",20,33,84
+"Germany","Thailand",4.2,35,101
+"Turkey","Qatar",8.5,103,80
+"Portugal","Colombia",2.6,79,22
+"Netherlands","Jordan",0.48,68,50
+"UAE","Lebanon",2.4,104,56
+"Germany","United Kingdom",2.25,35,107
+"Sweden","South Korea",2.5,95,91
+"United States","Germany",2,108,35
+"United States","Turkey",21.6,108,103
+"United States","South Korea",12.96,108,91
+"Turkey","Oman",78,103,72
+"Turkey","Malaysia",8.75,103,61
+"Turkey","Malaysia",5.2,103,61
+"Turkey","Malaysia",14,103,61
+"Norway","Poland",19.8,71,78
+"Norway","Netherlands",0.75,71,68
+"Sweden","Denmark",1.5,95,26
+"Italy","Nepal",6,47,67
+"Italy","Bangladesh",12,47,9
+"France","Lesotho",0.9,33,57
+"Israel","Viet Nam",90,46,111
+"Israel","Viet Nam",32,46,111
+"Israel","Italy",1.5,46,47
+"Canada","Qatar",2.5,18,80
+"China","Belarus",0.7,21,10
+"United Kingdom","Latvia",2.16,107,55
+"Italy","Portugal",2.25,47,79
+"South Africa","Malaysia",1.5,90,61
+"Austria","Latvia",4,6,55
+"United States","Bahrain",10,108,8
+"United States","Israel",45,108,46
+"United States","Mexico",14,108,63
+"United States","Argentina",1.2,108,4
+"Ecuador","Uruguay",2.16,27,109
+"United States","Saudi Arabia",350,108,84
+"Italy","Slovakia",16,47,89
+"Italy","Turkey",178.2,47,103
+"Turkey","Pakistan",16,103,73
+"United States","Guatemala",1.8,108,37
+"Italy","Pakistan",5.056,47,73
+"Italy","Indonesia",21.6,47,42
+"Italy","Thailand",35,47,101
+"Switzerland","Jordan",9.8,96,50
+"Russia","Kazakhstan",46,82,51
+"United States","France",2.75,108,33
+"Sweden","Pakistan",2,95,73
+"Sweden","Switzerland",10,95,96
+"Denmark","Malaysia",4.75,26,61
+"Denmark","Latvia",1.6,26,55
+"China","Pakistan",35,21,73
+"United States","Brazil",18,108,14
+"France","Saudi Arabia",8,33,84
+"France","Egypt",330,33,28
+"Switzerland","Denmark",9.9,96,26
+"United Kingdom","France",20,107,33
+"Ukraine","Russia",26,106,82
+"China","Pakistan",227.5,21,73
+"United States","Slovakia",14.5,108,89
+"France","Indonesia",21,33,42
+"Sweden","Austria",2.3,95,6
+"Netherlands","Finland",2.8,68,32
+"Netherlands","Finland",2.24,68,32
+"Finland","Poland",31.2,32,78
+"South Africa","United States",96,90,108
+"Australia","United States",30,5,108
+"Germany","South Korea",13.5,35,91
+"United States","Egypt",6.8,108,28
+"Russia","UAE",80,82,104
+"France","Brazil",9,33,14
+"Germany","United States",10,35,108
+"Sweden","United States",7.5,95,108
+"France","Hungary",9.2,33,40
+"Russia","Qatar",4,82,80
+"China","Pakistan",7,21,73
+"United States","Taiwan",20,108,98
+"France","Lebanon",0.784,33,56
+"United Kingdom","Singapore",20,107,88
+"Netherlands","Turkey",12.5,68,103
+"Russia","Egypt",12,82,28
+"Russia","Syria",93.06,82,97
+"Russia","Syria",88,82,97
+"Russia","Iran",1,82,43
+"Russia","India",42,82,41
+"United States","New Zealand",5.5,108,69
+"United States","South Korea",7,108,91
+"France","Greece",5.5,33,36
+"Brazil","India",10.4,14,41
+"United States","Colombia",3.1,108,22
+"China","Algeria",20,21,2
+"China","Algeria",7.5,21,2
+"South Korea","Thailand",220.75,91,101
+"United States","Israel",35,108,46
+"Russia","Jordan",60,82,50
+"Russia","Laos",40,82,54
+"Russia","Thailand",13.5,82,101
+"Germany","Egypt",6,35,28
+"Germany","Thailand",10,35,101
+"Russia","Kazakhstan",220,82,51
+"China","Pakistan",5,21,73
+"South Korea","Saudi Arabia",3,91,84
+"United States","Saudi Arabia",26,108,84
+"New Zealand","Peru",6,69,76
+"France","Mexico",7.5,33,63
+"United States","Kuwait",55,108,53
+"Sweden","Kenya",0.24,95,52
+"United States","Lebanon",9.924,108,56
+"Switzerland","Kuwait",15,96,53
+"Belgium","Indonesia",7.92,11,42
+"Turkey","Uzbekistan",4.08,103,110
+"France","Australia",20,33,5
+"United States","Australia",20,108,5
+"South Africa","UAE",7.4,90,104
+"United States","UAE",1.6,108,104
+"Italy","UAE",12.5,47,104
+"United States","UAE",30,108,104
+"France","Morocco",50,33,65
+"United States","Romania",1.8,108,81
+"United States","Taiwan",3.6,108,98
+"United States","Netherlands",3,108,68
+"Israel","Singapore",4,46,88
+"China","Indonesia",18,21,42
+"United States","Egypt",18,108,28
+"France","Egypt",5,33,28
+"Russia","Algeria",44,82,2
+"Russia","Algeria",44,82,2
+"United States","Japan",36,108,49
+"Italy","Thailand",2.75,47,101
+"United States","Taiwan",8,108,98
+"United States","Thailand",20,108,101
+"United States","Italy",7,108,47
+"United States","Italy",10.8,108,47
+"Sweden","Thailand",12.5,95,101
+"United States","Brazil",3.6,108,14
+"United States","Portugal",4,108,79
+"United States","Thailand",7,108,101
+"United States","Qatar",4,108,80
+"United States","Romania",11,108,81
+"United Kingdom","Pakistan",5.4,107,73
+"United Kingdom","Pakistan",2.7,107,73
+"United States","Netherlands",3.06,108,68
+"United States","Australia",10.8,108,5
+"United States","UAE",35.08,108,104
+"United States","UAE",200,108,104
+"United States","Algeria",3.2,108,2
+"Israel","Azerbaijan",15,46,7
+"United States","Georgia",4.1,108,34
+"Russia","India",243.75,82,41
+"Russia","India",28,82,41
+"Israel","India",8,46,41
+"China","Pakistan",11,21,73
+"United States","India",13.2,108,41
+"United States","Lebanon",60,108,56
+"United States","Turkey",14,108,103
+"France","Saudi Arabia",9.5,33,84
+"France","Denmark",3.8,33,26
+"France","United States",47.5,33,108
+"Netherlands","Malaysia",3,68,61
+"Switzerland","Denmark",2.52,96,26
+"Spain","United Kingdom",6.42,92,107
+"Russia","Belarus",40,82,10
+"France","Malaysia",0.4,33,61
+"Israel","Thailand",0.5,46,101
+"South Korea","Finland",9,91,32
+"Germany","Lithuania",5.94,35,60
+"China","Algeria",0.5,21,2
+"Russia","Nigeria",1,82,70
+"Russia","Iran",1,82,43
+"Germany","Oman",6.5,35,72
+"United States","Czechia",1,108,25
+"France","Nigeria",7.2,33,70
+"United States","Japan",7.5,108,49
+"United States","Japan",14,108,49
+"United Kingdom","Ireland",33.25,107,45
+"Italy","Ireland",2.75,47,45
+"Finland","Ireland",4,32,45
+"Israel","Brazil",4,46,14
+"Sweden","Japan",8,95,49
+"China","Qatar",7.2,21,80
+"China","Qatar",81,21,80
+"Israel","Thailand",7.5,46,101
+"Russia","Algeria",65,82,2
+"China","Rwanda",2.1,21,83
+"China","Egypt",15,21,28
+"China","Pakistan",25,21,73
+"Canada","Saudi Arabia",1.85,18,84
+"Italy","Indonesia",0.99,47,42
+"Russia","Iran",2,82,43
+"United States","Qatar",3.3,108,80
+"United Kingdom","Poland",12.5,107,78
+"United States","Finland",43.75,108,32
+"United States","Poland",55,108,78
+"United States","UAE",3.1,108,104
+"Russia","India",440,82,41
+"France","Qatar",10,33,80
+"France","Qatar",16,33,80
+"China","Pakistan",1.5,21,73
+"China","Pakistan",1.5,21,73
+"Turkey","Burkina Faso",4.5,103,16
+"Israel","Azerbaijan",3,46,7
+"United Kingdom","South Korea",12,107,91
+"Russia","Myanmar",60,82,66
+"China","Laos",11.4,21,54
+"China","Laos",2.1,21,54
+"Ukraine","Qatar",20,106,80
+"South Korea","Poland",8.56,91,78
+"Germany","Poland",1.44,35,78
+"Germany","United Kingdom",0.78,35,107
+"France","China",16,33,21
+"Russia","China",17.5,82,21
+"China","Tajikistan",1.4,21,99
+"Russia","Iraq",10,82,44
+"Switzerland","China",25,96,21
+"Switzerland","China",7.5,96,21
+"Czechia","Azerbaijan",5.1,25,7
+"France","Qatar",0.9,33,80
+"United States","Saudi Arabia",35,108,84
+"United States","Jordan",1,108,50
+"United States","Bahrain",4.42,108,8
+"Turkey","Azerbaijan",5.5,103,7
+"United States","Saudi Arabia",24.82,108,84
+"France","China",16.25,33,21
+"France","China",9.5,33,21
+"Germany","Israel",18,35,46
+"Italy","Libya GNC",9.108,47,58
+"Switzerland","Argentina",5,96,4
+"United Kingdom","China",20,107,21
+"China","Laos",30,21,54
+"Russia","Iraq",154,82,44
+"United States","Afghanistan",62.832,108,0
+"United States","Thailand",2.5,108,101
+"United States","Taiwan",10,108,98
+"France","Tanzania",0.9,33,100
+"Russia","Cote d'Ivoire",0.08,82,23
+"Belarus","Cote d'Ivoire",0.396,10,23
+"Sweden","United States",20,95,108
+"Germany","China",3,35,21
+"United Kingdom","Japan",12.5,107,49
+"United States","Guatemala",0.28,108,37
+"United States","Croatia",2,108,24
+"United States","Honduras",0.9,108,39
+"Germany","Netherlands",59.4,35,68
+"Germany","Turkey",4,35,103
+"Italy","Turkey",2.75,47,103
+"Netherlands","Turkey",12.5,68,103
+"United States","Turkey",7,108,103
+"United States","Latvia",11,108,55
+"Russia","Pakistan",46,82,73
+"United Kingdom","Bahrain",28,107,8
+"United States","Italy",40,108,47
+"Canada","Saudi Arabia",4,18,84
+"Czechia","Hungary",0.34,25,40
+"United States","Italy",60,108,47
+"United States","Thailand",8.8,108,101
+"France","Argentina",20,33,4
+"United Kingdom","Germany",10,107,35
+"United States","Israel",26,108,46
+"Russia","China",260,82,21
+"United States","Greece",55.2,108,36
+"Israel","Germany",1.5,46,35
+"United States","Australia",20,108,5
+"United States","Spain",3.6,108,92
+"United Kingdom","Brazil",136,107,14
+"United States","Italy",2.5,108,47
+"United States","Cameroon",1.8,108,17
+"United States","Afghanistan",0.8,108,0
+"United States","Canada",7.5,108,18
+"United States","Brazil",4.8,108,14
+"South Korea","Malaysia",37,91,61
+"Denmark","Malaysia",3,26,61
+"France","Sri Lanka",8,33,93
+"United States","Mexico",0.9,108,63
+"United States","Albania",0.84,108,1
+"Italy","Norway",14,47,71
+"United States","Australia",440,108,5
+"Russia","Viet Nam",175,82,111
+"Russia","Viet Nam",16.5,82,111
+"United States","Australia",39.9,108,5
+"Netherlands","Tunisia",134,68,102
+"Spain","Singapore",196,92,88
+"Canada","Saudi Arabia",8,18,84
+"United States","Ukraine",4.2,108,106
+"United States","Indonesia",3.5,108,42
+"United States","Indonesia",2.7,108,42
+"Germany","South Korea",4,35,91
+"Germany","Indonesia",0.48,35,42
+"Germany","Indonesia",20,35,42
+"Brazil","United Kingdom",4.6,14,107
+"Canada","United Kingdom",6,18,107
+"China","Sudan",30,21,94
+"United States","Turkey",110,108,103
+"Israel","Thailand",8,46,101
+"Spain","Turkey",146,92,103
+"Australia","Papua New Guinea",7,5,75
+"United States","South Korea",330,108,91
+"Germany","United States",84.5,35,108
+"Russia","Algeria",520,82,2
+"Germany","Turkey",24,35,103
+"United States","United Kingdom",14,108,107
+"United States","France",37.5,108,33
+"South Africa","Kazakhstan",5.7,90,51
+"Czechia","United States",28,25,108
+"United States","Jordan",15,108,50
+"United States","UAE",62,108,104
+"United States","Italy",40,108,47
+"Russia","Azerbaijan",4.4,82,7
+"Russia","Azerbaijan",14,82,7
+"Germany","Qatar",2.1,35,80
+"United States","Japan",14.4,108,49
+"United States","Japan",6,108,49
+"Brazil","Lebanon",17.6,14,56
+"Israel","Azerbaijan",3,46,7
+"United States","Ethiopia",9.6,108,31
+"South Korea","Peru",86.15,91,76
+"Germany","Austria",4,35,6
+"Belarus","Azerbaijan",9,10,7
+"Israel","Azerbaijan",3.6,46,7
+"Israel","Azerbaijan",85,46,7
+"Netherlands","France",12.5,68,33
+"United States","UAE",20,108,104
+"Netherlands","Canada",2.5,68,18
+"Sweden","Canada",5,95,18
+"United States","Japan",220,108,49
+"Germany","Norway",4.5,35,71
+"United States","Morocco",320,108,65
+"United States","Lebanon",5.12,108,56
+"United States","Iraq",6.12,108,44
+"Indonesia","Philippines",7.6,42,77
+"Russia","Algeria",16,82,2
+"Sweden","United Kingdom",15,95,107
+"India","Seychelles",3.3,41,87
+"United States","Italy",12,108,47
+"United States","Netherlands",8,108,68
+"United States","Saudi Arabia",80.5,108,84
+"Austria","Australia",0.2,6,5
+"France","Ecuador",1.8,33,27
+"United Kingdom","India",4,107,41
+"France","Nepal",0.9,33,67
+"Germany","Jordan",28.05,35,50
+"Germany","Saudi Arabia",42.25,35,84
+"United States","France",7,108,33
+"Israel","Canada",62.5,46,18
+"Germany","Canada",11.25,35,18
+"Russia","Egypt",450,82,28
+"UAE","Kuwait",15,104,53
+"United States","United Kingdom",180,108,107
+"United States","Bahrain",0.32,108,8
+"Italy","Jordan",50.4,47,50
+"United States","Jordan",8,108,50
+"United States","Saudi Arabia",48,108,84
+"Canada","Afghanistan",3.6,18,0
+"Spain","Australia",499,92,5
+"United States","Australia",30,108,5
+"United States","Australia",3.5,108,5
+"United States","Australia",7.5,108,5
+"United States","Australia",14,108,5
+"United States","Sri Lanka",54,108,93
+"China","Thailand",2,21,101
+"Brazil","Chile",26.4,14,20
+"Germany","Jordan",0.8,35,50
+"South Korea","Turkey",5.7,91,103
+"Israel","Philippines",2.5,46,77
+"Sweden","Cote d'Ivoire",0.18,95,23
+"United States","Afghanistan",2,108,0
+"South Africa","Uganda",0.75,90,105
+"United States","Brazil",24,108,14
+"United States","Qatar",165,108,80
+"Italy","Singapore",5.5,47,88
+"France","Singapore",10,33,88
+"Italy","Uruguay",4,47,109
+"Poland","Ecuador",2.75,78,27
+"Israel","Poland",9,46,78
+"United States","Tunisia",1.26,108,102
+"United Kingdom","Saudi Arabia",45,107,84
+"United States","Saudi Arabia",32.5,108,84
+"France","Thailand",15,33,101
+"Belarus","Cote d'Ivoire",1.28,10,23
+"South Korea","United Kingdom",266,91,107
+"United States","UAE",251.2,108,104
+"United States","Qatar",250,108,80
+"United States","Saudi Arabia",110,108,84
+"United States","Saudi Arabia",125,108,84
+"United States","Saudi Arabia",25,108,84
+"United States","UAE",60,108,104
+"France","Georgia",18,33,34
+"France","Georgia",13,33,34
+"Brazil","Guyana",0.48,14,38
+"South Africa","Jordan",3.2,90,50
+"United States","Jordan",0.8,108,50
+"Russia","Algeria",186,82,2
+"France","Egypt",24,33,28
+"Germany","Hungary",26.4,35,40
+"United States","Japan",58,108,49
+"United States","Saudi Arabia",72.5,108,84
+"United States","South Korea",44.4,108,91
+"United States","Saudi Arabia",55,108,84
+"United States","South Korea",110,108,91
+"Turkey","Oman",1.75,103,72
+"Turkey","UAE",41,103,104
+"United States","UAE",4,108,104
+"United Kingdom","Italy",24,107,47
+"Italy","Bangladesh",12.5,47,9
+"France","Spain",92,33,92
+"UAE","Kenya",2.88,104,52
+"Israel","Viet Nam",20,46,111
+"Italy","Greece",1.08,47,36
+"UAE","Cameroon",0.28,104,17
+"Turkey","Pakistan",88,103,73
+"China","Bangladesh",75,21,9
+"China","Pakistan",57.15,21,73
+"United Kingdom","Latvia",1.66,107,55
+"United Kingdom","Australia",10,107,5
+"Israel","India",135,46,41
+"China","Myanmar",105,21,66
+"Italy","Brazil",2.4,47,14
+"Sweden","Pakistan",12,95,73
+"United States","Panama",11,108,74
+"United States","Czechia",0.8,108,25
+"United States","Brazil",9.6,108,14
+"United States","Slovakia",3,108,89
+"Switzerland","Jordan",9.8,96,50
+"Canada","Jordan",1.2,18,50
+"Canada","Jordan",1.2,18,50
+"South Korea","Viet Nam",60,91,111
+"United States","Argentina",5.6,108,4
+"United Kingdom","France",12,107,33
+"Israel","Italy",35,46,47
+"United States","Canada",38.85,108,18
+"Israel","Romania",9,46,81
+"Russia","Equatorial Guinea",6.75,82,29
+"United States","Finland",7.2,108,32
+"Denmark","Portugal",16,26,79
+"United States","Afghanistan",6.3,108,0
+"United States","Saudi Arabia",30,108,84
+"France","Egypt",40,33,28
+"France","India",155,33,41
+"United States","Japan",200,108,49
+"France","Qatar",165,33,80
+"France","Spain",14.5,33,92
+"Finland","Poland",11.6,32,78
+"United States","Poland",12,108,78
+"United States","Poland",5.4,108,78
+"Sweden","Poland",4.2,95,78
+"Norway","United States",43.8,71,108
+"United States","South Korea",4,108,91
+"Germany","South Korea",9.6,35,91
+"Germany","South Korea",4,35,91
+"Germany","Spain",8,35,92
+"United States","Japan",0.72,108,49
+"Germany","United Kingdom",8,35,107
+"France","Tanzania",14.5,33,100
+"Russia","India",140,82,41
+"United States","Norway",16.2,108,71
+"Italy","Bahrain",5,47,8
+"United States","Jamaica",7.5,108,48
+"Brazil","Uruguay",7.2,14,109
+"France","Botswana",2.5,33,13
+"France","Estonia",3,33,30
+"France","Lebanon",3.6,33,56
+"Czechia","Brazil",0.8,25,14
+"Sweden","Thailand",5,95,101
+"United States","Egypt",12,108,28
+"United States","Turkey",2.1,108,103
+"United States","Turkey",14,108,103
+"Russia","Egypt",11.25,82,28
+"Russia","Pakistan",35.2,82,73
+"Russia","India",30,82,41
+"Russia","Egypt",30,82,28
+"Russia","Egypt",15,82,28
+"United Kingdom","Colombia",10.2,107,22
+"Russia","Algeria",330,82,2
+"France","Brazil",30,33,14
+"Russia","Laos",20.592,82,54
+"UAE","Algeria",6.5,104,2
+"Qatar","Mali",2.88,80,62
+"China","Laos",7,21,54
+"Germany","Thailand",7.5,35,101
+"Italy","Pakistan",31.68,47,73
+"China","Pakistan",10,21,73
+"United States","Pakistan",1.28,108,73
+"China","Pakistan",10,21,73
+"Canada","UAE",25,18,104
+"United Kingdom","UAE",7.5,107,104
+"Germany","UAE",5,35,104
+"South Korea","Norway",113,91,71
+"Switzerland","Australia",73.5,96,5
+"Canada","Australia",9,18,5
+"France","Spain",28,33,92
+"Russia","Belarus",50,82,10
+"Russia","Belarus",25,82,10
+"France","Saudi Arabia",40,33,84
+"France","Saudi Arabia",40,33,84
+"Sweden","Thailand",7.5,95,101
+"Switzerland","Romania",3.48,96,81
+"United States","Romania",0.48,108,81
+"Switzerland","Romania",4.5,96,81
+"France","Kenya",1.68,33,52
+"United States","Botswana",1.52,108,13
+"France","Kazakhstan",13,33,51
+"United States","Tunisia",29,108,102
+"Russia","Viet Nam",120,82,111
+"China","Thailand",45,21,101
+"France","Brazil",21,33,14
+"United States","Uzbekistan",1.92,108,110
+"United States","Greece",3.6,108,36
+"United States","Singapore",21,108,88
+"France","Singapore",100,33,88
+"Belgium","Indonesia",2.3,11,42
+"China","Algeria",5.4,21,2
+"United States","Thailand",7,108,101
+"United States","Singapore",0.8,108,88
+"United States","Japan",4,108,49
+"United States","Canada",3.04,108,18
+"United States","India",2.6,108,41
+"United States","Israel",4,108,46
+"United States","South Korea",8,108,91
+"Canada","France",9,18,33
+"United Kingdom","Pakistan",2,107,73
+"Canada","Argentina",2.4,18,4
+"United States","Portugal",2,108,79
+"United States","Indonesia",2.52,108,42
+"United States","Belgium",0.54,108,11
+"United States","UAE",30,108,104
+"United States","Saudi Arabia",52.9,108,84
+"United States","Turkey",28.8,108,103
+"France","Saudi Arabia",37.5,33,84
+"Poland","Ukraine",6,78,106
+"Israel","Myanmar",10.5,46,66
+"South Africa","India",22,90,41
+"Russia","India",3,82,41
+"France","India",40,33,41
+"Germany","India",1.8,35,41
+"United States","India",8.8,108,41
+"United States","Israel",40,108,46
+"China","Pakistan",20,21,73
+"Israel","Azerbaijan",5.25,46,7
+"United States","Netherlands",4,108,68
+"United States","Australia",14,108,5
+"Netherlands","Egypt",12.5,68,28
+"France","Italy",10,33,47
+"China","Thailand",3,21,101
+"Finland","Norway",7,32,71
+"Finland","United Kingdom",14,32,107
+"Russia","China",65,82,21
+"Russia","China",15,82,21
+"United States","Afghanistan",1.8,108,0
+"South Africa","Malaysia",12,90,61
+"United States","Japan",14,108,49
+"United States","Japan",20,108,49
+"Sweden","Argentina",5,95,4
+"Russia","Myanmar",13.2,82,66
+"United States","Austria",0.3,108,6
+"China","Rwanda",1,21,83
+"UAE","Yemen",3.2,104,112
+"UAE","Yemen",5.5,104,112
+"Ukraine","Pakistan",4.75,106,73
+"China","Indonesia",12,21,42
+"China","Saudi Arabia",40,21,84
+"China","UAE",40,21,104
+"India","Myanmar",3,41,66
+"United States","South Korea",5.8,108,91
+"United States","Turkey",2,108,103
+"United States","Egypt",10.8,108,28
+"United States","UAE",12.8,108,104
+"United States","Mexico",2.8,108,63
+"Canada","Mexico",1.2,18,63
+"United States","South Korea",2.2,108,91
+"United States","Australia",20,108,5
+"Austria","Uganda",0.35,6,105
+"UAE","Algeria",1.5,104,2
+"India","Seychelles",2.5,41,87
+"United States","Tunisia",16,108,102
+"France","Qatar",20,33,80
+"United States","Guatemala",0.9,108,37
+"Pakistan","Nigeria",0.22,73,70
+"United Kingdom","Morocco",4,107,65
+"United States","Morocco",5.5,108,65
+"United States","Nigeria",3.6,108,70
+"United Kingdom","United States",24,107,108
+"Spain","South Korea",98,92,91
+"UAE","Algeria",20,104,2
+"Germany","Malaysia",4.9,35,61
+"France","China",14,33,21
+"Russia","China",10,82,21
+"Russia","China",5,82,21
+"Russia","China",18,82,21
+"France","China",28,33,21
+"Russia","China",2.5,82,21
+"China","Tajikistan",1.5,21,99
+"France","Ukraine",3,33,106
+"Russia","Iraq",72.5,82,44
+"Germany","United Kingdom",3.5,35,107
+"Israel","Kazakhstan",1.4,46,51
+"Italy","Pakistan",66,47,73
+"Slovakia","Azerbaijan",11.88,89,7
+"Israel","Azerbaijan",3,46,7
+"Israel","Azerbaijan",2.8,46,7
+"United States","Italy",13.3,108,47
+"United States","Jordan",1.5,108,50
+"United States","UAE",50,108,104
+"United States","Lebanon",10,108,56
+"United States","Thailand",1,108,101
+"United States","Egypt",9,108,28
+"Belgium","Indonesia",0.48,11,42
+"France","Georgia",2.5,33,34
+"Russia","India",160,82,41
+"Russia","Iraq",27,82,44
+"United States","Pakistan",11,108,73
+"Italy","Brazil",26.25,47,14
+"Israel","Brazil",6,46,14
+"Israel","Thailand",2,46,101
+"Israel","Thailand",1,46,101
+"United States","Thailand",2.8,108,101
+"United States","Spain",10,108,92
+"United States","UAE",19.2,108,104
+"United States","Australia",8,108,5
+"Russia","Belarus",0.28,82,10
+"United States","Qatar",1,108,80
+"Russia","China",36,82,21
+"United States","Japan",7.25,108,49

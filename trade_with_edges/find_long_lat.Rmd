@@ -1,0 +1,43 @@
+---
+title: "find_lat_long"
+author: "Yuren Pang"
+date: "May 9, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readxl)
+```
+
+
+```{r}
+data <- read.csv("../database/feature_space_combined.csv")
+data2 <- read_excel("capital.xls", skip = 16)
+```
+
+
+```{r}
+data 
+```
+
+
+```{r}
+data2 <- data2 %>% select(`Country or area`, `Capital City`, Latitude, Longitude)
+colnames(data2) <- c("Country", "Capital", "Latitude", "Longitude")
+```
+
+```{r}
+ret <- merge(data, data2, by.x = "Country") %>% select(Country, Latitude, Longitude, freedom_score, military_expenditure)
+```
+```{r}
+ret
+```
+
+```{r}
+military <- read_excel("../database/waited")
+```
+

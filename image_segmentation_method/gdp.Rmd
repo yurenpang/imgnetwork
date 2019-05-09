@@ -1,0 +1,55 @@
+---
+title: "gdp"
+author: "Yuren Pang"
+date: "April 30, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+library(dplyr)
+library(ggplot2)
+```
+
+
+```{r}
+data <- read.csv("GDP_data.csv", skip = 4)
+
+gdp <- data %>% select(c("Country.Name", "X2016"))
+
+#gdp$X2016 <- scale(gdp$X2016, center = TRUE, scale = TRUE)
+#gdp$X2017 <- scale(gdp$X2017, center = TRUE, scale = TRUE)
+
+#write.csv(gdp, "gdp_cleaned.csv")
+```
+
+```{r}
+country_capital <- country_capital %>% select(-Index)
+colnames(country_capital)[colnames(country_capital)=="Country or area"] <- "Country.Name"
+
+```
+```{r}
+sb <- merge(gdp, country_capital, by.x = "Country.Name")
+```
+```{r}
+sb
+```
+
+```{r}
+out <- sb %>% select(c(1:6, "City code", "Latitude", "Longitude"), -X2017) %>% mutate(Latitude = (pi/180)*Latitude, Longitude = (pi/180)*Longitude) %>% mutate(LocationX = cos(Latitude)*cos(Longitude), LocationY = cos(Latitude)*sin(Longitude), LocationZ = sin(Latitude))
+```
+```{r}
+out <- out %>% select(-Latitude, -Longitude) %>%
+  filter(!is.na(X2016))
+```
+```{r}
+out
+```
+
+
+```{r}
+write.csv(out, "location_gdp.csv")
+```
+

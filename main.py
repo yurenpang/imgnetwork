@@ -30,12 +30,14 @@ def find_neighbors(image, k):
 
 #print(find_neighbors(image, 3))
 
+
 def calc_euclidean(node_1, node_2):
     length = len(node_1)
     distance = 0
     for x in range(length):
         distance += pow((node_1[x] - node_2[x]), 2)
     return math.sqrt(distance)
+
 
 def find_k_neighbors(vectors, node, k_nearest_neighbor_length):
     distances = []
@@ -56,10 +58,10 @@ def find_k_neighbors(vectors, node, k_nearest_neighbor_length):
 
 def find_neighbor_for_trade(feature_space, k):
     # Remove -0.0
-    for i in range(len(feature_space)):
-        for j in range(len(feature_space[i])):
-            if feature_space[i][j] == 0 and math.copysign(1, feature_space[i][j]) == -1.0:
-                feature_space[i][j] = 0.0
+    # for i in range(len(feature_space)):
+    #     for j in range(len(feature_space[i])):
+    #         if feature_space[i][j] == 0 and math.copysign(1, feature_space[i][j]) == -1.0:
+    #             feature_space[i][j] = 0.0
 
     # Main function body
     dic_node_and_features = {}   # key is a node, value list of neighbors
@@ -122,7 +124,6 @@ def build_knn_for_trade(featureSpace,c,k):
 
 
 def build_knn_graph(image,k,c):
-
     knn_object=find_neighbors(image,k)
 
     print('got knn')
@@ -144,6 +145,8 @@ def build_knn_graph(image,k,c):
 
 k = 20
 
+
+
 # g = Graph([1,2,3,4,5], [(1,2,5), (2,3,8), (4,5,12), (1,5,20), (2,5,25), (3,4,30)])
 #
 
@@ -152,22 +155,25 @@ k = 20
 # g.HFSegmentation()
 # g.color()
 
-s='edges_with_id.csv'
-sn='attributes.csv'
+##################################This is the ANCA
+# s='edges_with_id.csv'
+# sn='attributes.csv'
+#
+# out='./tradeNode.csv'
+#
+# anca=ANCA(s, sn, 0.2, 0.1)
+# featureSpace=anca.anca_calc()
+#
+#
+#
+# out_node = open(out, 'w')
+# out_node.write('id,realName,kmeancommunity\n')
+# for index, cat in enumerate(featureSpace):
+#     out_node.write(','.join([str(index),str(anca.realName_dic[index]), str(cat)]))
+#     out_node.write('\n')
+#################################################
 
-out='./tradeNode.csv'
 
-anca=ANCA(s, sn, 0.2, 0.1)
-featureSpace=anca.anca_calc()
-
-
-
-out_node = open(out, 'w')
-out_node.write('id,realName,kmeancommunity\n')
-
-for index, cat in enumerate(featureSpace):
-    out_node.write(','.join([str(index),str(anca.realName_dic[index]), str(cat)]))
-    out_node.write('\n')
 
 
 

@@ -84,10 +84,12 @@ class Graph:
         print('segmented')
 
     def create_network(self,nameDic):
-        g = nx.DiGraph()
+        g = nx.Graph()
+        #g.add_nodes_from(self.vertices)
         g.add_weighted_edges_from(self.edges)
-        nx.set_node_attributes(g,nameDic,'Label')
-        output_template = "./output_directed_graph.gexf"
+        print(nameDic.to_dict())
+        nx.set_node_attributes(g, nameDic.to_dict(), 'realName')
+        output_template = "./knn_graph.gexf"
         nx.write_gexf(g, output_template)
 
     def color(self):
