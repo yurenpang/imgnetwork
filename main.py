@@ -6,6 +6,7 @@ import cv2
 image = 'phot.png'
 import pandas as pd
 import numpy as np
+import networkx as nx
 
 
 def find_neighbors(image, k):
@@ -87,9 +88,6 @@ def find_neighbor_for_trade(feature_space, k):
         indices.append(row_neighbors)
         distances.append(row_distances)
 
-    print(np.array(indices))
-    print(distances)
-
 
     # nbrs = NearestNeighbors(n_neighbors=k).fit(feature_space)
     # distances, indices = nbrs.kneighbors(np.array(feature_space))
@@ -161,25 +159,52 @@ out='./tradeNode.csv'
 
 anca=ANCA(s, sn, 0.2, 0.1)
 featureSpace=anca.anca_calc()
-print(featureSpace)
-country_dic = anca.realName_dic
-print(len(featureSpace))
-#
-# for i in range(len(featureSpace)):
-#     print("######################## Cluster ", i + 1)
-#     str = ""
-#     for j in (featureSpace[i]):
-#         country = country_dic[j]
-#         str += country + ", "
-#     print(str)
 
-print('# coun ',len(featureSpace))
-print('feature', len(featureSpace[0]))
-nameDic=anca.get_realName()
-graph=build_knn_for_trade(featureSpace, 20, 10)  # k = 5 override
+
+
+out_node = open(out, 'w')
+out_node.write('id,realName,kmeancommunity\n')
+
+for index, cat in enumerate(featureSpace):
+    out_node.write(','.join([str(index),str(anca.realName_dic[index]), str(cat)]))
+    out_node.write('\n')
+
+
+
+
+# B,A=find_neighbor_for_trade(featureSpace,7)
 #
-graph.HFSegmentation()
-graph.cluster_community(nameDic,out)
+# for i in range(len(B)):
+#     for j in range(len(B[0])):
+#         out_node.write(','.join([str(i), str(B[i][j]), str(A[i][j])]))
+#         out_node.write('\n')
+
+#nx.set_node_attributes(g,anca.realName_dic,'realName')
+
+
+
+print('finish')
+
+
+# print(featureSpace)
+# country_dic = anca.realName_dic
+# print(len(featureSpace))
+# #
+# # for i in range(len(featureSpace)):
+# #     print("######################## Cluster ", i + 1)
+# #     str = ""
+# #     for j in (featureSpace[i]):
+# #         country = country_dic[j]
+# #         str += country + ", "
+# #     print(str)
+#
+# print('# coun ',len(featureSpace))
+# print('feature', len(featureSpace[0]))
+# nameDic=anca.get_realName()
+# graph=build_knn_for_trade(featureSpace, 25, 10)  # k = 5 override
+# #
+# graph.HFSegmentation()
+# graph.cluster_community(nameDic,out)
 
 
 

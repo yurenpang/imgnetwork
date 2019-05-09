@@ -1,4 +1,4 @@
-class MST:
+trashclass MST:
     def __init__(self, graph):
         """The graph should contain vertices and edges"""
         self.graph = graph

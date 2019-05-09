@@ -4,6 +4,7 @@
 '''
 import random
 import cv2
+import networkx as nx
 
 class Graph:
     def __init__(self,c,image=None, h=None,w=None):
@@ -20,7 +21,7 @@ class Graph:
         self.size = {}
         self.threshold= {}
 
-    def addEdge(self, u, v, weight):
+    def addEdge(self, u, v, weight=1):
         """Add this weighted edge to the undirected graph"""
         if (u, v, weight) not in self.edges:
             self.edges.append((u, v, weight))
@@ -82,6 +83,12 @@ class Graph:
                    # result.setdefault(x, []).append(edge)
         print('segmented')
 
+    def create_network(self,nameDic):
+        g = nx.DiGraph()
+        g.add_weighted_edges_from(self.edges)
+        nx.set_node_attributes(g,nameDic,'Label')
+        output_template = "./output_directed_graph.gexf"
+        nx.write_gexf(g, output_template)
 
     def color(self):
         c={}

@@ -123,9 +123,11 @@ class ANCA:
         if k == None:  # recommended k for kMeans cluster
             k = int(math.sqrt(self.vcount/2))
 
-        # cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
-        # return self.cluster(cluster)
-        return featureSpaceX
+        cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
+        return cluster
+        # return featureSpaceX
+
+
 
     def cluster(self, cluster):
         '''assign each node to a set'''
