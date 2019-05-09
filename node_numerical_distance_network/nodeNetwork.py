@@ -6,17 +6,23 @@ import csv
 image = 'phot.png'
 import pandas as pd
 import numpy as np
+from numpy import array
 
 class nodeNetwork:
     def __init__(self, csv_file, start_column):
         self.csv_file = csv_file
         self.start_column = start_column
         self.feature_space = []
+        self.realName_dic = {}
 
     def create_feature_space(self):
         """The csv is the string of the csv file"""
+        names = pd.read_csv(self.csv_file, sep=',')
+        self.realName_dic = names['Country']
         with open(self.csv_file, "r") as file:
+
             csvreader = csv.reader(file)
+            next(csvreader)
             for row in csvreader:
                 feature_of_one_row = row[self.start_column:]
                 self.feature_space.append(feature_of_one_row)
@@ -24,13 +30,17 @@ class nodeNetwork:
     def calc_euclidean(self, node_1, node_2):
         length = len(node_1)
         distance = 0
+
         for x in range(length):
-            distance += pow((node_1[x] - node_2[x]), 2)
+            print((node_1[x]))
+            distance += pow((float(node_1[x]) - float(node_2[x])), 2)
         return math.sqrt(distance)
 
     def find_neighbors_below_threshold(self, node, threshold):
-        """Find the neighbors of a specific node by
-        Include one if the distance is below the threshold"""
+        """
+        Find the neighbors of a specific node by
+        Include one if the distance is below the threshold
+        """
         distances = []
         neighbors = []
         for i in range(len(self.feature_space)):
@@ -77,21 +87,31 @@ class nodeNetwork:
             indices.append(row_neighbors)
             distances.append(row_distances)
 
-        # print(np.array(indices))
-        # print(distances)
+        print(indices)
+        print(distances)
+
         return np.array(indices), np.array(distances)
 
     def build_knn_for_trade(self, c, threshold):
         graph = Graph(c)
         edges, weights = self.find_neighbors(threshold)
+        # print(edges)
+        # print(weights)
 
         for i in range(len(edges)):
             graph.addNode(edges[i][0])
-            print(edges[i][0])
+            #print(edges[i][0])
             for j in range(1, len(edges[i])):
+
                 graph.addNode(edges[i][j])
-                graph.addEdge(edges[i, 0], edges[i, j], weights[i, j])
+                graph.addEdge(edges[i][0], edges[i][j])
 
         graph.edges.sort(key=lambda x: x[2])
 
         return graph
+
+
+attributes_file = '../database/feature_space_combined.csv'
+process = nodeNetwork(attributes_file, 2)
+g = process.build_knn_for_trade(1, 1)
+g.create_network(process.realName_dic)
