@@ -81,3 +81,18 @@ write.csv(ret_nodes_attributes, "acna_knn_nodes_space.csv", row.names = FALSE)
 ```
 
 
+
+####Add Latitude Longitude
+```{r}
+capital
+```
+
+```{r}
+capital <- read.csv("hf_segment_source.csv")
+kmeans <- read.csv("kmeanstradeNode.csv")
+capital <- capital %>% select(Country, Latitude, Longitude)
+
+location <- kmeans %>% mutate(latitude = capital[match(RealName, capital$Country),]$Latitude, longitude = capital[match(RealName, capital$Country),]$Longitude)
+write.csv(location, "file_for_geo.csv", row.names = FALSE)
+```
+
