@@ -31,13 +31,47 @@ colnames(data2) <- c("Country", "Capital", "Latitude", "Longitude")
 ```
 
 ```{r}
-ret <- merge(data, data2, by.x = "Country") %>% select(Country, Latitude, Longitude, freedom_score, military_expenditure)
-```
-```{r}
+ret <- merge(data, data2, by.x = "Country") %>% select(Country, Latitude, Longitude)
 ret
 ```
 
 ```{r}
-military <- read_excel("../database/waited")
+military <- read_excel("../database/waited.xlsx")
+free <- read_excel("../database/final_attributes.xlsx")
+old <- merge(military, free, by.x = "Country", all.x = FALSE)
+old <- old %>% mutate(military_expenditure = sqrt(military_expenditure))
+old
+```
+
+
+
+```{r}
+ret <- merge(ret, old, by.x = "Country")
+```
+
+
+```{r}
+write.csv(ret, "hf_segment_source.csv", row.names = FALSE)
+```
+
+
+
+#############################
+```{r}
+attributes <- read.csv("../database/feature_space_combined.csv")
+network_attributes <- read.csv("../database/attributes")
+network_attributes
+
+```
+
+
+```{r}
+communities <- read.csv("../tradeNode.csv")
+colnames(communities) <- c("Id", "Country", "Community")
+merge(communities, ret, by.x = "Country")
+```
+
+```{r}
+communities
 ```
 

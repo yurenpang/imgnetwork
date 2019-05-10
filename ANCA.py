@@ -10,10 +10,10 @@ sn='attributes.csv'
 class ANCA:
     def __init__(self,edgeData,nodeData,upper,lower):
         self.pairDic = {}
-        self.edgeData=edgeData
-        self.nodeData=nodeData
-        self.upper=upper
-        self.lower=lower
+        self.edgeData = edgeData
+        self.nodeData = nodeData
+        self.upper = upper
+        self.lower = lower
 
 
     def build_graph(self):
@@ -21,6 +21,8 @@ class ANCA:
             return G'''
         df = pd.read_csv(self.edgeData, sep=',')
         G = nx.from_pandas_edgelist(df, source='sourceID', target='targetID', edge_attr = ['weights'])
+
+        print("###############")
         print(G.nodes())
 
         df2 = pd.read_csv(self.nodeData, sep=',')
@@ -29,12 +31,14 @@ class ANCA:
         self.vcount=df2.shape[0]
         self.realName_dic=df2['Country']
 
-
         for i, attr in enumerate(list(df2.columns[2:])):
-            nx.set_node_attributes(G, df2[attr],'attr'+str(i))
+            nx.set_node_attributes(G, df2[attr], 'attr'+str(i))
+            print(attr)
+
         # G=nx.relabel_nodes(G,self.realName_dic)
         # print(G.nodes(data=True))
         # print(G.edges(data=True))
+
         return G
 
     def get_realName(self):
@@ -55,29 +59,36 @@ class ANCA:
         return seeds
 
     def build_memberMatrix(self):
-        '''characterize each node according to its relation(shortest path) to every seed node,
-            return a R^(V*S) matrix'''
-        member_m=[]
+        """
+        characterize each node according to its relation(shortest path) to every seed node,
+            return a R^(V*S) matrix
+        :return:
+        """
+        member_m = []
         for v in self.G.nodes:
-            row=[]
+            row = []
             for s in self.seeds:
                 row.append(nx.dijkstra_path_length(self.G, v, s, 'w'))
             member_m.append(row)
         return np.array(member_m)
 
     def build_attriMaxtrix(self):
-        '''characterize each node according to its attribute relation to every other node,
-            return a R^(V*V) matrix'''
-        attri_m=[]
+        """
+        characterize each node according to its attribute relation to every other node,
+        return a R^(V*V) matrix'
+        :return:
+        """
+        attri_m = []
+
         for i in self.G.nodes:
-            row=[]
+            row = []
             for j in self.G.nodes:
-                row.append(self.hamming(i,j))
+                row.append(self.euler(i, j))
             attri_m.append(row)
 
         return np.array(attri_m)
 
-    def euler(self,a,b):
+    def euler(self, a, b):
         '''Eucledian Difference'''
         pair = tuple(sorted([a, b]))
         if pair in self.pairDic:
@@ -105,29 +116,32 @@ class ANCA:
         return diff
 
     def anca_calc(self,k=None):
-        '''main calc'''
-        self.G=self.build_graph()  # build Graph
-        self.seeds=self.detect_seed(self.G)  # build seeds set
+        """
 
-        topM=self.build_memberMatrix()  # topM = topological information
-        attM=self.build_attriMaxtrix()  # attM = attribute information
+        :param k:
+        :return:
+        """
+        self.G = self.build_graph()  # build Graph
 
-        l1=self.svd(topM)  # svd both matrices
-        l2=self.svd(attM)
-        print('l1:', len(l1[0]))
-        print('l2:', len(l2[0]))
+        self.seeds = self.detect_seed(self.G)  # build seeds set
+
+        topM = self.build_memberMatrix()  # topM = topological information
+        attM = self.build_attriMaxtrix()  # attM = attribute information
+
+        l1 = self.svd(topM, k=5)  # svd both matrices
+        l2 = self.svd(attM, k=5)
 
         featureSpaceX = np.column_stack((l1,l2))  # stack the feature space together
+
         featureSpaceY = self.featureY(featureSpaceX)
 
         if k == None:  # recommended k for kMeans cluster
             k = int(math.sqrt(self.vcount/2))
 
-        cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
+        cluster = KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
+        print(cluster)
         return cluster
-        # return featureSpaceX
-
-
+        #return featureSpaceX
 
     def cluster(self, cluster):
         '''assign each node to a set'''
@@ -136,6 +150,7 @@ class ANCA:
             if cat not in ans:
                 ans[cat]=set()
             ans[cat].add(index)
+        print(ans)
         return ans
 
 

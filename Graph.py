@@ -108,16 +108,23 @@ class Graph:
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
-    def cluster_community(self,nameDic,node_file_name):
+    def cluster_community(self, nameDic, node_file_name):
         print('writing data')
+        test = {}
         out_node = open(node_file_name, 'w')
-        out_node.write('Id,RealName,Community\n')
-        self.vertices=sorted(self.vertices)
+        out_node.write('Id, RealName, Community\n')
+        self.vertices = sorted(self.vertices)
+
+        print(self.vertices)
         for v in self.vertices:
-            root=self.find_root(v)
-            out_node.write(','.join([str(v),nameDic[v],str(root)]))
+            root = self.find_root(v)
+            if root not in test:
+                test[root] = []
+            test[root].append(v)
+            out_node.write(','.join([str(v), nameDic[v], str(root)]))
             out_node.write('\n')
         print('finish')
+        return test
 
 
 

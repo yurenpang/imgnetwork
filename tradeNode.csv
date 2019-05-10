@@ -1,114 +1,113 @@
-Id,RealName,Community
-0,Afghanistan,0
-1,Albania,1
-2,Algeria,91
-3,Angola,3
-4,Argentina,4
-5,Australia,91
-6,Austria,91
-7,Azerbaijan,94
-8,Bahrain,110
-9,Bangladesh,9
-10,Belarus,94
-11,Belgium,110
-12,Bolivia,94
-13,Botswana,110
-14,Brazil,94
-15,Bulgaria,91
-16,Burkina Faso,94
-17,Cameroon,106
-18,Canada,94
-19,Central African Republic,94
-20,Chile,110
-21,China,94
-22,Colombia,110
-23,Cote d'Ivoire,91
-24,Croatia,110
-25,Czechia,106
-26,Denmark,110
-27,Ecuador,94
-28,Egypt,94
-29,Equatorial Guinea,94
-30,Estonia,94
-31,Ethiopia,110
-32,Finland,106
-33,France,94
-34,Georgia,110
-35,Germany,106
-36,Greece,110
-37,Guatemala,110
-38,Guyana,94
-39,Honduras,110
-40,Hungary,106
-41,India,91
-42,Indonesia,106
-43,Iran,94
-44,Iraq,106
-45,Ireland,106
-46,Israel,106
-47,Italy,106
-48,Jamaica,110
-49,Japan,110
-50,Jordan,94
-51,Kazakhstan,94
-52,Kenya,106
-53,Kuwait,106
-54,Laos,94
-55,Latvia,110
-56,Lebanon,106
-57,Lesotho,94
-58,Libya GNC,106
-59,Libya HoR,68
-60,Lithuania,106
-61,Malaysia,106
-62,Mali,94
-63,Mexico,110
-64,Montenegro,110
-65,Morocco,110
-66,Myanmar,91
-67,Nepal,94
-68,Netherlands,68
-69,New Zealand,91
-70,Nigeria,106
-71,Norway,106
-72,Oman,106
-73,Pakistan,106
-74,Panama,110
-75,Papua New Guinea,91
-76,Peru,91
-77,Philippines,110
-78,Poland,91
-79,Portugal,110
-80,Qatar,106
-81,Romania,110
-82,Russia,94
-83,Rwanda,94
-84,Saudi Arabia,106
-85,Senegal,110
-86,Serbia,106
-87,Seychelles,91
-88,Singapore,94
-89,Slovakia,106
-90,South Africa,91
-91,South Korea,91
-92,Spain,106
-93,Sri Lanka,106
-94,Sudan,94
-95,Sweden,91
-96,Switzerland,91
-97,Syria,94
-98,Taiwan,110
-99,Tajikistan,94
-100,Tanzania,94
-101,Thailand,106
-102,Tunisia,94
-103,Turkey,103
-104,UAE,91
-105,Uganda,91
-106,Ukraine,106
+Id, RealName, Community
+0,Afghanistan,73
+1,Albania,24
+2,Algeria,56
+3,Angola,83
+4,Argentina,62
+5,Australia,62
+6,Austria,67
+7,Azerbaijan,98
+8,Bahrain,56
+9,Bangladesh,83
+10,Belarus,98
+11,Belgium,62
+12,Bolivia,98
+13,Botswana,62
+14,Brazil,83
+15,Bulgaria,23
+16,Burkina Faso,98
+17,Cameroon,56
+18,Canada,67
+19,Central African Republic,98
+20,Chile,73
+21,China,98
+22,Colombia,62
+23,Cote dIoire,23
+24,Croatia,24
+25,Czech Republic,56
+26,Denmark,62
+27,Ecuador,87
+28,Egypt,67
+29,Equatorial Guinea,98
+30,Estonia,87
+31,Ethiopia,73
+32,Finland,62
+33,France,87
+34,Georgia,62
+35,Germany,87
+36,Greece,62
+37,Guatemala,73
+38,Guyana,83
+39,Honduras,73
+40,Hungary,87
+41,India,90
+42,Indonesia,83
+43,Iran,98
+44,Iraq,56
+45,Ireland,83
+46,Israel,56
+47,Italy,83
+48,Jamaica,73
+49,Japan,62
+50,Jordan,56
+51,Kazakhstan,67
+52,Kenya,87
+53,Kuwait,56
+54,Laos,98
+55,Latvia,67
+56,Lebanon,56
+57,Lesotho,87
+58,Libya,83
+59,Libya,87
+60,Lithuania,67
+61,Malaysia,83
+62,Mali,62
+63,Mexico,73
+64,Montenegro,62
+65,Morocco,98
+66,Myanmar,87
+67,Nepal,67
+68,Netherlands,73
+69,New Zealand,56
+70,Nigeria,87
+71,Norway,67
+72,Oman,56
+73,Pakistan,73
+74,Panama,67
+75,Papua New Guinea,90
+76,Peru,62
+77,Philippines,87
+78,Poland,73
+79,Portugal,67
+80,Qatar,62
+81,Republic of Korea,98
+82,Romania,98
+83,Russia,83
+84,Rwanda,73
+85,Saudi Arabia,87
+86,Senegal,90
+87,Serbia,87
+88,Seychelles,56
+89,Singapore,67
+90,Slovakia,90
+91,South Africa,87
+92,Spain,56
+93,Sri Lanka,98
+94,Sudan,87
+95,Sweden,83
+96,Switzerland,98
+97,Syria,73
+98,Taiwan,98
+99,Tajikistan,87
+100,Tanzania,83
+101,Thailand,73
+102,Tunisia,67
+103,Turkey,67
+104,UAE,104
+105,Uganda,56
+106,Ukraine,83
 107,United Kingdom,107
-108,United States,110
-109,Uruguay,94
-110,Uzbekistan,110
-111,Viet Nam,91
-112,Yemen,91
+108,United States,83
+109,Uruguay,73
+110,Uzbekistan,98
+111,Viet Nam,67
