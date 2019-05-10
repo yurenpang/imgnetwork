@@ -128,8 +128,8 @@ class ANCA:
         topM = self.build_memberMatrix()  # topM = topological information
         attM = self.build_attriMaxtrix()  # attM = attribute information
 
-        l1 = self.svd(topM, k=5)  # svd both matrices
-        l2 = self.svd(attM, k=5)
+        l1 = self.svd(topM, k=0)  # svd both matrices
+        l2 = self.svd(attM, k=6)
 
         featureSpaceX = np.column_stack((l1,l2))  # stack the feature space together
 
