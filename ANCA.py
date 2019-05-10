@@ -83,23 +83,30 @@ class ANCA:
         for i in self.G.nodes:
             row = []
             for j in self.G.nodes:
+                print(j)
                 row.append(self.euler(i, j))
             attri_m.append(row)
 
         return np.array(attri_m)
 
     def euler(self, a, b):
-        '''Eucledian Difference'''
+        """
+        Eucledian Difference
+        :param a:
+        :param b:
+        :return:
+        """
         pair = tuple(sorted([a, b]))
         if pair in self.pairDic:
             return self.pairDic[pair]
-        a=self.G.nodes[a]
-        b=self.G.nodes[b]
-        attList=list(a)
-        sum=0
+        a = self.G.nodes[a]
+
+        b = self.G.nodes[b]
+        attList = list(a)
+        sum = 0
         for att in attList:
-            sum+=(a[att]-b[att])**2
-        self.pairDic[pair]=math.sqrt(sum)
+            sum += (float(a[att])-float(b[att]))**2
+        self.pairDic[pair] = math.sqrt(sum)
         return math.sqrt(sum)
 
     def hamming(self, a, b):
@@ -128,20 +135,19 @@ class ANCA:
         topM = self.build_memberMatrix()  # topM = topological information
         attM = self.build_attriMaxtrix()  # attM = attribute information
 
-        l1 = self.svd(topM, k=0)  # svd both matrices
-        l2 = self.svd(attM, k=6)
+        l1 = self.svd(topM, k=1)  # svd both matrices
+        l2 = self.svd(attM, k=1)
 
         featureSpaceX = np.column_stack((l1,l2))  # stack the feature space together
-
         featureSpaceY = self.featureY(featureSpaceX)
 
         if k == None:  # recommended k for kMeans cluster
             k = int(math.sqrt(self.vcount/2))
 
-        cluster = KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
-        print(cluster)
-        return cluster
-        #return featureSpaceX
+        # cluster = KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
+        # print(cluster)
+        # return cluster
+        return featureSpaceX
 
     def cluster(self, cluster):
         '''assign each node to a set'''

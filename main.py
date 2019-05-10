@@ -159,34 +159,33 @@ k = 20
 # g.color()
 
 #################################This is the ANCA
-s='./edges_with_id.csv'
-sn='./new_attributes.csv'
+s='./acna_knn_edges.csv'
+sn='./acna_knn_nodes_space.csv'
 
 out='./kmeanstradeNode.csv'
 
 ss=pd.read_csv(sn)
 ss=pd.DataFrame(ss)
-print("YYYYYYYYYYYYYYYYYYYYYYYYYYYY")
 
 print(len(ss))
 
-anca = ANCA(s, sn, 0.4, 0.2)
+anca = ANCA(s, sn, 0.3, 0.15)
 featureSpace=anca.anca_calc()
 
-# country_dic = anca.realName_dic
+country_dic = anca.realName_dic
+
+nameDic = anca.get_realName()
+graph = build_knn_for_trade(featureSpace, 25, 20)  # k = 5 override
 #
-# nameDic = anca.get_realName()
-# graph = build_knn_for_trade(featureSpace, 13, 12)  # k = 5 override
-# #
-# graph.HFSegmentation()
+graph.HFSegmentation()
 
-# test = graph.cluster_community(nameDic, out)
+test = graph.cluster_community(nameDic, out)
 
-out_node = open(out, 'w')
-out_node.write('id,realName, kmeancommunity\n')
-for index, cat in enumerate(featureSpace):
-    out_node.write(','.join([str(index),str(anca.realName_dic[index]), str(cat)]))
-    out_node.write('\n')
+# out_node = open(out, 'w')
+# out_node.write('id,realName, kmeancommunity\n')
+# for index, cat in enumerate(featureSpace):
+#     out_node.write(','.join([str(index),str(anca.realName_dic[index]), str(cat)]))
+#     out_node.write('\n')
 ################################################
 
 
