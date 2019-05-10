@@ -1,0 +1,2682 @@
+sourceID,targetID,weights,sourceCountry,targetCountry
+45,22,2.814249456,France,Cameroon
+139,115,22.91287847,United States,Singapore
+61,17,2.449489743,Israel,Brazil
+139,138,3.741657387,United States,United Kingdom
+48,62,16.58312395,Germany,Italy
+62,20,2.449489743,Italy,Burkina Faso
+139,91,2.244994432,United States,Netherlands
+27,2,21.42428529,China,Algeria
+48,2,4,Germany,Algeria
+91,65,9.486832981,Netherlands,Jordan
+137,146,2.683281573,Ukraine,Zambia
+62,2,3.741657387,Italy,Algeria
+62,2,5,Italy,Algeria
+137,27,4.898979486,Ukraine,China
+121,97,6.557438524,Spain,Oman
+23,97,2,Canada,Oman
+139,65,4.427188724,United States,Jordan
+139,110,8.660254038,United States,Saudi Arabia
+27,98,4.330127019,China,Pakistan
+91,96,2.236067977,Netherlands,Norway
+124,71,2,Sweden,Latvia
+106,101,6,Republic of Korea,Peru
+138,110,11.83215957,United Kingdom,Saudi Arabia
+57,102,9.28170243,Indonesia,Philippines
+125,48,1.71464282,Switzerland,Germany
+48,139,1.549193338,Germany,United States
+125,105,6.260990337,Switzerland,Qatar
+23,105,2.19089023,Canada,Qatar
+125,110,6.640783086,Switzerland,Saudi Arabia
+108,56,15.612495,Russia,India
+108,2,7.483314774,Russia,Algeria
+91,41,1.095445115,Netherlands,Estonia
+108,58,14.83239697,Russia,Iran
+96,103,2.236067977,Norway,Poland
+139,61,4.472135955,United States,Israel
+61,106,6.32455532,Israel,Republic of Korea
+139,106,6.633249581,United States,Republic of Korea
+139,38,12.64911064,United States,Egypt
+139,110,4.898979486,United States,Saudi Arabia
+6,97,6.32455532,Australia,Oman
+45,38,26.11512971,France,Egypt
+91,44,6.32455532,Netherlands,Finland
+48,130,4.031128874,Germany,Thailand
+139,110,18.16590212,United States,Saudi Arabia
+139,23,6,United States,Canada
+137,27,7.489993324,Ukraine,China
+139,34,8.024961059,United States,Denmark
+48,110,1.407124728,Germany,Saudi Arabia
+139,135,6.985699679,United States,UAE
+106,101,3.146426545,Republic of Korea,Peru
+139,106,16.43167673,United States,Republic of Korea
+124,60,1.58113883,Sweden,Ireland
+137,130,6.32455532,Ukraine,Thailand
+91,115,4.898979486,Netherlands,Singapore
+139,135,14.14213562,United States,UAE
+45,115,4,France,Singapore
+27,57,4.242640687,China,Indonesia
+108,56,5.291502622,Russia,India
+108,56,6.480740698,Russia,India
+62,6,5.656854249,Italy,Australia
+48,115,3.464101615,Germany,Singapore
+121,57,1.949358869,Spain,Indonesia
+61,8,3.872983346,Israel,Azerbaijan
+23,135,2.683281573,Canada,UAE
+108,56,4.898979486,Russia,India
+45,56,2,France,India
+48,56,2,Germany,India
+62,97,2.34520788,Italy,Oman
+91,97,3.082207001,Netherlands,Oman
+91,97,3,Netherlands,Oman
+108,112,3.674234614,Russia,Serbia
+62,146,1.766352173,Italy,Zambia
+139,127,9.327379053,United States,Taiwan
+124,139,3.872983346,Sweden,United States
+61,48,3,Israel,Germany
+139,6,7.974960815,United States,Australia
+139,65,4.898979486,United States,Jordan
+139,59,4.284857057,United States,Iraq
+139,6,1.414213562,United States,Australia
+139,95,1.264911064,United States,Nigeria
+139,6,7.745966692,United States,Australia
+139,59,18.46618531,United States,Iraq
+139,61,6.708203932,United States,Israel
+48,59,0.707106781,Germany,Iraq
+91,65,0.6,Netherlands,Jordan
+91,65,1.341640786,Netherlands,Jordan
+45,38,12.84523258,France,Egypt
+124,139,2.236067977,Sweden,United States
+139,0,2.898275349,United States,Afghanistan
+48,57,1.449137675,Germany,Indonesia
+48,106,16.58312395,Germany,Republic of Korea
+139,105,16.73320053,United States,Qatar
+48,75,3.446737588,Germany,Lithuania
+139,6,18.97366596,United States,Australia
+139,61,10.48808848,United States,Israel
+119,135,2.078460969,South Africa,UAE
+139,110,8.306623863,United States,Saudi Arabia
+121,80,3.464101615,Spain,Mali
+139,95,1.13137085,United States,Nigeria
+139,62,14.83239697,United States,Italy
+138,56,11.40175425,United Kingdom,India
+139,98,1.341640786,United States,Pakistan
+139,23,2.645751311,United States,Canada
+139,91,2.449489743,United States,Netherlands
+139,133,3.286335345,United States,Turkey
+139,115,3.730951621,United States,Singapore
+108,11,8.717797887,Russia,Bangladesh
+45,135,7.937253933,France,UAE
+139,84,2.049390153,United States,Mexico
+125,23,0.632455532,Switzerland,Canada
+139,64,4.242640687,United States,Japan
+139,105,10,United States,Qatar
+45,15,4.663689527,France,Bolivia
+139,35,0.916515139,United States,Djibouti
+32,59,8.366600265,Czechia,Iraq
+124,98,2,Sweden,Pakistan
+96,124,0.707106781,Norway,Sweden
+108,22,3.349626845,Russia,Cameroon
+48,91,2.549509757,Germany,Netherlands
+96,91,1.58113883,Norway,Netherlands
+139,22,0.282842712,United States,Cameroon
+139,0,7.937253933,United States,Afghanistan
+133,79,3.605551275,Turkey,Malaysia
+139,59,10,United States,Iraq
+23,49,1.414213562,Canada,Ghana
+139,65,3.605551275,United States,Jordan
+27,111,0.547722558,China,Senegal
+6,139,7.745966692,Australia,United States
+108,2,26.83281573,Russia,Algeria
+108,27,4.183300133,Russia,China
+108,143,16.1245155,Russia,Viet Nam
+91,139,8.774964387,Netherlands,United States
+48,66,2.549509757,Germany,Kazakhstan
+27,66,3,China,Kazakhstan
+133,79,2.645751311,Turkey,Malaysia
+62,133,9.439279634,Italy,Turkey
+139,110,5.14781507,United States,Saudi Arabia
+139,96,10.48808848,United States,Norway
+27,35,2,China,Djibouti
+27,57,1.732050808,China,Indonesia
+27,57,2.236067977,China,Indonesia
+45,135,8.056053624,France,UAE
+124,135,3.872983346,Sweden,UAE
+62,135,2.236067977,Italy,UAE
+34,135,1.414213562,Denmark,UAE
+124,96,3.674234614,Sweden,Norway
+45,118,1.349073756,France,Somalia
+137,103,2.75680975,Ukraine,Poland
+45,139,7.293833012,France,United States
+45,56,2.738612788,France,India
+139,17,4.898979486,United States,Brazil
+139,59,3.31662479,United States,Iraq
+108,59,6.782329983,Russia,Iraq
+45,14,0.974679434,France,Bhutan
+135,132,1.303840481,UAE,Tunisia
+139,74,0.8,United States,Libya
+135,74,1.166190379,UAE,Libya
+44,38,3.464101615,Finland,Egypt
+45,38,4.472135955,France,Egypt
+62,135,2.34520788,Italy,UAE
+45,135,14.43952908,France,UAE
+139,135,2.645751311,United States,UAE
+139,57,9.697937925,United States,Indonesia
+108,2,8.485281374,Russia,Algeria
+108,66,6.782329983,Russia,Kazakhstan
+108,66,3.674234614,Russia,Kazakhstan
+91,23,7.071067812,Netherlands,Canada
+108,27,15.49193338,Russia,China
+48,105,12.84523258,Germany,Qatar
+139,44,1.58113883,United States,Finland
+108,95,4.795831523,Russia,Nigeria
+139,135,15.8113883,United States,UAE
+96,125,1.58113883,Norway,Switzerland
+108,101,4.5,Russia,Peru
+34,45,1.414213562,Denmark,France
+48,45,2.828427125,Germany,France
+62,45,1.658312395,Italy,France
+125,68,4.472135955,Switzerland,Kuwait
+139,65,1.414213562,United States,Jordan
+141,27,8.246211251,Uzbekistan,China
+121,97,3.605551275,Spain,Oman
+108,12,4.335896678,Russia,Belarus
+32,143,4.898979486,Czechia,Viet Nam
+137,108,11.40175425,Ukraine,Russia
+139,102,7.348469228,United States,Philippines
+27,65,4.898979486,China,Jordan
+139,64,1.732050808,United States,Japan
+139,62,2.645751311,United States,Italy
+62,7,3.535533906,Italy,Austria
+124,64,2.828427125,Sweden,Japan
+139,106,2.236067977,United States,Republic of Korea
+108,38,5.291502622,Russia,Egypt
+124,55,3.376388603,Sweden,Hungary
+139,65,1,United States,Jordan
+139,106,7.358668358,United States,Republic of Korea
+139,6,11.18033989,United States,Australia
+139,17,2.144761059,United States,Brazil
+108,12,3.605551275,Russia,Belarus
+6,102,3.098386677,Australia,Philippines
+45,121,1.702938637,France,Spain
+44,135,3.405877273,Finland,UAE
+139,138,3.794733192,United States,United Kingdom
+139,130,1.732050808,United States,Thailand
+108,143,11.22497216,Russia,Viet Nam
+137,143,3.16227766,Ukraine,Viet Nam
+27,98,2.236067977,China,Pakistan
+138,60,5.766281297,United Kingdom,Ireland
+44,60,2,Finland,Ireland
+108,58,1.414213562,Russia,Iran
+108,58,1,Russia,Iran
+108,58,1,Russia,Iran
+139,59,2.828427125,United States,Iraq
+48,130,4.415880433,Germany,Thailand
+139,106,3.240370349,United States,Republic of Korea
+61,8,7.90569415,Israel,Azerbaijan
+139,59,4.242640687,United States,Iraq
+91,41,5.019960159,Netherlands,Estonia
+138,110,25.14955268,United Kingdom,Saudi Arabia
+139,28,0.774596669,United States,Colombia
+139,6,3.464101615,United States,Australia
+45,136,2.083266666,France,Uganda
+45,124,3.741657387,France,Sweden
+139,130,3.31662479,United States,Thailand
+96,97,10,Norway,Oman
+139,97,9.327379053,United States,Oman
+138,110,8.366600265,United Kingdom,Saudi Arabia
+139,61,10.24695077,United States,Israel
+45,132,0.8,France,Tunisia
+23,139,2.323790008,Canada,United States
+45,111,4.472135955,France,Senegal
+119,135,3.464101615,South Africa,UAE
+119,2,1.224744871,South Africa,Algeria
+121,37,5.099019514,Spain,Ecuador
+62,44,6.892024376,Italy,Finland
+27,98,1.224744871,China,Pakistan
+27,98,3.535533906,China,Pakistan
+27,98,2.645751311,China,Pakistan
+27,98,5.196152423,China,Pakistan
+27,98,3.31662479,China,Pakistan
+108,98,2.323790008,Russia,Pakistan
+61,62,1.224744871,Israel,Italy
+61,101,0.916515139,Israel,Peru
+139,115,5.477225575,United States,Singapore
+139,106,2.683281573,United States,Republic of Korea
+139,110,2.828427125,United States,Saudi Arabia
+135,145,1.673320053,UAE,Yemen
+45,56,2.738612788,France,India
+91,56,3.082207001,Netherlands,India
+62,130,3.16227766,Italy,Thailand
+45,27,3.082207001,France,China
+45,6,6.480740698,France,Australia
+27,57,1.414213562,China,Indonesia
+108,12,6.32455532,Russia,Belarus
+139,62,3.286335345,United States,Italy
+27,98,16.73320053,China,Pakistan
+139,91,3.872983346,United States,Netherlands
+12,88,6.708203932,Belarus,Myanmar
+48,138,1.095445115,Germany,United Kingdom
+61,42,1.673320053,Israel,Ethiopia
+32,59,2,Czechia,Iraq
+48,30,3.286335345,Germany,Croatia
+48,97,0.447213595,Germany,Oman
+119,110,1.407124728,South Africa,Saudi Arabia
+61,56,9.013878189,Israel,India
+61,56,11.40175425,Israel,India
+17,98,2.236067977,Brazil,Pakistan
+27,98,6.123724357,China,Pakistan
+48,2,3.464101615,Germany,Algeria
+136,120,2,Uganda,South Sudan
+45,29,2.34520788,France,Cote d'Ivoire
+48,110,3.464101615,Germany,Saudi Arabia
+139,23,4.38178046,United States,Canada
+139,62,4,United States,Italy
+139,135,4.472135955,United States,UAE
+139,6,6.204836823,United States,Australia
+61,56,3.872983346,Israel,India
+139,34,1,United States,Denmark
+108,59,8.124038405,Russia,Iraq
+48,59,0.894427191,Germany,Iraq
+139,59,8.366600265,United States,Iraq
+139,59,13.49073756,United States,Iraq
+139,59,2.34520788,United States,Iraq
+139,59,3.674234614,United States,Iraq
+139,59,7.26636085,United States,Iraq
+48,105,2.598076211,Germany,Qatar
+139,105,2.236067977,United States,Qatar
+139,68,0.424264069,United States,Kuwait
+48,61,3.535533906,Germany,Israel
+139,23,2.121320344,United States,Canada
+45,57,1.483239697,France,Indonesia
+139,133,3.16227766,United States,Turkey
+106,102,5.73585216,Republic of Korea,Philippines
+139,102,2.097617696,United States,Philippines
+61,102,2,Israel,Philippines
+139,67,4.312771731,United States,Kenya
+139,110,7.348469228,United States,Saudi Arabia
+139,110,2,United States,Saudi Arabia
+139,110,3.464101615,United States,Saudi Arabia
+139,110,3,United States,Saudi Arabia
+139,110,8.726969692,United States,Saudi Arabia
+45,68,1.048808848,France,Kuwait
+138,103,1.58113883,United Kingdom,Poland
+119,135,3.33166625,South Africa,UAE
+119,115,3.43220046,South Africa,Singapore
+139,127,2.828427125,United States,Taiwan
+138,57,4.543126677,United Kingdom,Indonesia
+106,59,17.89972067,Republic of Korea,Iraq
+45,124,2.387467277,France,Sweden
+96,124,2.121320344,Norway,Sweden
+139,84,3.872983346,United States,Mexico
+23,84,1.341640786,Canada,Mexico
+139,84,8.124038405,United States,Mexico
+139,84,3.741657387,United States,Mexico
+23,84,3.098386677,Canada,Mexico
+62,133,7.071067812,Italy,Turkey
+139,4,1.095445115,United States,Argentina
+48,138,2.598076211,Germany,United Kingdom
+139,138,2.738612788,United States,United Kingdom
+48,106,3.674234614,Germany,Republic of Korea
+139,106,1.341640786,United States,Republic of Korea
+139,106,3.741657387,United States,Republic of Korea
+139,106,7.071067812,United States,Republic of Korea
+45,6,3.646916506,France,Australia
+23,103,1.549193338,Canada,Poland
+23,57,1.549193338,Canada,Indonesia
+48,38,13.03840481,Germany,Egypt
+108,38,3,Russia,Egypt
+45,42,1.29614814,France,Ethiopia
+130,79,1.449137675,Thailand,Malaysia
+125,98,3.872983346,Switzerland,Pakistan
+27,98,7.071067812,China,Pakistan
+23,65,1.549193338,Canada,Jordan
+27,134,6.8556546,China,Turkmenistan
+27,134,0.707106781,China,Turkmenistan
+27,134,6.8556546,China,Turkmenistan
+138,64,3.535533906,United Kingdom,Japan
+27,134,4,China,Turkmenistan
+27,134,2.449489743,China,Turkmenistan
+96,23,2.549509757,Norway,Canada
+139,110,12.24744871,United States,Saudi Arabia
+44,103,4.5607017,Finland,Poland
+61,8,1.732050808,Israel,Azerbaijan
+56,0,1.816590212,India,Afghanistan
+139,97,3.367491648,United States,Oman
+138,82,0.565685425,United Kingdom,Mauritania
+139,64,7.082372484,United States,Japan
+139,64,3.193743885,United States,Japan
+133,135,9.16515139,Turkey,UAE
+23,62,2,Canada,Italy
+133,134,2.258317958,Turkey,Turkmenistan
+61,56,2.449489743,Israel,India
+119,79,1.024695077,South Africa,Malaysia
+45,34,2.75680975,France,Denmark
+139,84,4.663689527,United States,Mexico
+139,6,2.449489743,United States,Australia
+27,15,2.083266666,China,Bolivia
+48,103,1.341640786,Germany,Poland
+61,8,6,Israel,Azerbaijan
+125,27,7.071067812,Switzerland,China
+125,27,3.872983346,Switzerland,China
+61,134,0.374165739,Israel,Turkmenistan
+45,141,2.323790008,France,Uzbekistan
+48,65,1.549193338,Germany,Jordan
+139,38,2.983286778,United States,Egypt
+139,6,2.738612788,United States,Australia
+139,6,3.464101615,United States,Australia
+108,56,2.645751311,Russia,India
+139,102,1.058300524,United States,Philippines
+27,130,4,China,Thailand
+61,115,5.477225575,Israel,Singapore
+45,27,4.898979486,France,China
+137,27,3.16227766,Ukraine,China
+48,27,1.549193338,Germany,China
+138,78,0.824621125,United Kingdom,Malawi
+45,27,5.700877125,France,China
+61,143,6.708203932,Israel,Viet Nam
+61,143,4,Israel,Viet Nam
+27,12,1.549193338,China,Belarus
+139,130,3.872983346,United States,Thailand
+138,44,0.268328157,United Kingdom,Finland
+91,131,5.477225575,Netherlands,Trinidad and Tobago
+138,29,0.565685425,United Kingdom,Cote d'Ivoire
+139,110,2,United States,Saudi Arabia
+45,38,1.732050808,France,Egypt
+108,27,5.244044241,Russia,China
+137,56,4.472135955,Ukraine,India
+139,61,2,United States,Israel
+108,134,5.477225575,Russia,Turkmenistan
+108,134,2.449489743,Russia,Turkmenistan
+48,27,1.732050808,Germany,China
+139,6,2.738612788,United States,Australia
+48,133,1.341640786,Germany,Turkey
+108,2,0.866025404,Russia,Algeria
+108,2,4.38178046,Russia,Algeria
+27,123,2,China,Sudan
+139,84,4.69041576,United States,Mexico
+139,64,9.219544457,United States,Japan
+45,96,1.58113883,France,Norway
+45,55,1.732050808,France,Hungary
+65,139,4.098780306,Jordan,United States
+106,101,7.745966692,Republic of Korea,Peru
+108,3,8.442748368,Russia,Angola
+138,71,1.169615321,United Kingdom,Latvia
+27,57,1.385640646,China,Indonesia
+48,59,1.414213562,Germany,Iraq
+125,17,2.449489743,Switzerland,Brazil
+91,63,4.472135955,Netherlands,Jamaica
+12,143,5.477225575,Belarus,Viet Nam
+61,143,2.291287847,Israel,Viet Nam
+61,3,4.582575695,Israel,Angola
+139,2,3.741657387,United States,Algeria
+45,26,2.692582404,France,Chile
+27,11,0.974679434,China,Bangladesh
+48,139,3.16227766,Germany,United States
+139,47,2.727636339,United States,Georgia
+62,72,1.224744871,Italy,Lebanon
+139,26,1.61245155,United States,Chile
+45,27,2.974894956,France,China
+139,110,5.894913061,United States,Saudi Arabia
+139,110,14.14213562,United States,Saudi Arabia
+139,45,3.16227766,United States,France
+139,138,5,United States,United Kingdom
+27,88,1.414213562,China,Myanmar
+27,88,3.16227766,China,Myanmar
+56,88,2.449489743,India,Myanmar
+27,11,5.656854249,China,Bangladesh
+27,11,3.354101966,China,Bangladesh
+61,8,2.738612788,Israel,Azerbaijan
+61,17,2,Israel,Brazil
+138,17,1.414213562,United Kingdom,Brazil
+139,48,1.732050808,United States,Germany
+48,56,2.569046516,Germany,India
+139,56,1.549193338,United States,India
+27,146,2.645751311,China,Zambia
+137,130,3.31662479,Ukraine,Thailand
+135,68,2.720294102,UAE,Kuwait
+106,102,11.47170432,Republic of Korea,Philippines
+139,102,4.195235393,United States,Philippines
+61,102,4,Israel,Philippines
+108,11,2.598076211,Russia,Bangladesh
+139,6,15.49193338,United States,Australia
+139,110,0.848528137,United States,Saudi Arabia
+27,9,0.529150262,China,Bahamas
+139,26,0.632455532,United States,Chile
+139,98,1,United States,Pakistan
+45,64,0.707106781,France,Japan
+6,139,7.745966692,Australia,United States
+139,135,1.549193338,United States,UAE
+138,27,7.745966692,United Kingdom,China
+139,6,4.472135955,United States,Australia
+139,6,3.464101615,United States,Australia
+135,38,3.633180425,UAE,Egypt
+139,135,2.366431913,United States,UAE
+96,124,0.707106781,Norway,Sweden
+139,1,0.619677335,United States,Albania
+125,17,1.732050808,Switzerland,Brazil
+139,135,4.472135955,United States,UAE
+91,44,6.32455532,Netherlands,Finland
+91,96,1.414213562,Netherlands,Norway
+44,103,5.585696018,Finland,Poland
+139,91,3.741657387,United States,Netherlands
+61,62,1.224744871,Israel,Italy
+139,38,12.64911064,United States,Egypt
+27,3,3.605551275,China,Angola
+48,65,1.788854382,Germany,Jordan
+62,101,4.472135955,Italy,Peru
+106,101,2.569046516,Republic of Korea,Peru
+119,89,1.058300524,South Africa,Namibia
+23,62,2,Canada,Italy
+48,62,16.58312395,Germany,Italy
+108,143,16.1245155,Russia,Viet Nam
+61,42,1.183215957,Israel,Ethiopia
+48,105,2.598076211,Germany,Qatar
+27,98,5,China,Pakistan
+108,2,8.485281374,Russia,Algeria
+45,50,2.34520788,France,Greece
+45,50,2.34520788,France,Greece
+139,105,9.899494937,United States,Qatar
+139,105,2.236067977,United States,Qatar
+96,97,10,Norway,Oman
+45,57,3.16227766,France,Indonesia
+48,110,8.485281374,Germany,Saudi Arabia
+45,57,5.477225575,France,Indonesia
+139,44,5,United States,Finland
+62,98,5.477225575,Italy,Pakistan
+125,57,2.828427125,Switzerland,Indonesia
+139,103,4.472135955,United States,Poland
+139,6,3.464101615,United States,Australia
+61,8,11.18033989,Israel,Azerbaijan
+48,2,5.727128425,Germany,Algeria
+119,135,5.08920426,South Africa,UAE
+62,133,9.439279634,Italy,Turkey
+139,62,2.645751311,United States,Italy
+17,56,4.5607017,Brazil,India
+124,98,2,Sweden,Pakistan
+27,98,2.236067977,China,Pakistan
+27,98,2.645751311,China,Pakistan
+125,98,3.872983346,Switzerland,Pakistan
+135,38,6.480740698,UAE,Egypt
+135,38,6.480740698,UAE,Egypt
+48,28,6,Germany,Colombia
+139,106,2.545584412,United States,Republic of Korea
+139,106,3.065941943,United States,Republic of Korea
+139,106,16.43167673,United States,Republic of Korea
+139,106,7.874007874,United States,Republic of Korea
+139,106,1.549193338,United States,Republic of Korea
+139,106,1.624807681,United States,Republic of Korea
+61,143,9.486832981,Israel,Viet Nam
+61,143,5.656854249,Israel,Viet Nam
+48,56,2,Germany,India
+45,56,2,France,India
+139,65,1,United States,Jordan
+139,110,2,United States,Saudi Arabia
+139,110,6.32455532,United States,Saudi Arabia
+62,59,13.03840481,Italy,Iraq
+48,59,3.098386677,Germany,Iraq
+139,59,5.157518783,United States,Iraq
+139,59,8.933084574,United States,Iraq
+139,59,5.830951895,United States,Iraq
+139,59,3.464101615,United States,Iraq
+139,59,10,United States,Iraq
+45,135,6.708203932,France,UAE
+57,102,9.28170243,Indonesia,Philippines
+139,81,2.738612788,United States,Malta
+108,66,4.183300133,Russia,Kazakhstan
+139,62,3.286335345,United States,Italy
+32,59,2.88444102,Czechia,Iraq
+61,39,0.824621125,Israel,El Salvador
+124,64,2.828427125,Sweden,Japan
+119,110,2.437211521,South Africa,Saudi Arabia
+139,110,1.469693846,United States,Saudi Arabia
+139,133,3.741657387,United States,Turkey
+91,139,9.612491873,Netherlands,United States
+27,114,1.058300524,China,Sierra Leone
+108,56,20.97617696,Russia,India
+108,56,5.291502622,Russia,India
+108,56,6.480740698,Russia,India
+48,105,7.745966692,Germany,Qatar
+124,96,3.674234614,Sweden,Norway
+139,97,9.327379053,United States,Oman
+91,133,2.179449472,Netherlands,Turkey
+91,133,3.535533906,Netherlands,Turkey
+108,56,18.16590212,Russia,India
+139,125,7.745966692,United States,Switzerland
+138,110,15.16575089,United Kingdom,Saudi Arabia
+138,110,8.94427191,United Kingdom,Saudi Arabia
+115,135,1.095445115,Singapore,UAE
+108,5,4,Russia,Armenia
+127,20,1.447756886,Taiwan,Burkina Faso
+139,6,25,United States,Australia
+139,98,3.577708764,United States,Pakistan
+121,97,3.605551275,Spain,Oman
+133,82,0.948683298,Turkey,Mauritania
+133,85,0.387298335,Turkey,Montenegro
+108,66,2.598076211,Russia,Kazakhstan
+139,23,8.485281374,United States,Canada
+108,88,7.745966692,Russia,Myanmar
+23,6,3.286335345,Canada,Australia
+96,124,1.732050808,Norway,Sweden
+62,72,1.095445115,Italy,Lebanon
+139,6,2.236067977,United States,Australia
+139,110,5.997499479,United States,Saudi Arabia
+138,110,8.366600265,United Kingdom,Saudi Arabia
+45,110,3.16227766,France,Saudi Arabia
+139,110,3,United States,Saudi Arabia
+139,110,16.58312395,United States,Saudi Arabia
+139,0,13.08510604,United States,Afghanistan
+45,15,2.692582404,France,Bolivia
+91,134,1,Netherlands,Turkmenistan
+91,134,2.179449472,Netherlands,Turkmenistan
+45,38,20.97617696,France,Egypt
+27,12,0.836660027,China,Belarus
+61,8,1.732050808,Israel,Azerbaijan
+45,115,1.816590212,France,Singapore
+64,102,1.483239697,Japan,Philippines
+45,57,2.692582404,France,Indonesia
+23,10,2.01246118,Canada,Bahrain
+124,76,0.5,Sweden,Luxembourg
+135,95,2.607680962,UAE,Nigeria
+108,12,7.071067812,Russia,Belarus
+108,12,5,Russia,Belarus
+139,102,1.341640786,United States,Philippines
+139,59,1.732050808,United States,Iraq
+139,125,5.477225575,United States,Switzerland
+139,79,2.449489743,United States,Malaysia
+27,98,8,China,Pakistan
+108,8,2.683281573,Russia,Azerbaijan
+138,57,3.888444419,United Kingdom,Indonesia
+139,110,5.099019514,United States,Saudi Arabia
+139,96,18.16590212,United States,Norway
+45,132,0.748331477,France,Tunisia
+48,138,2.19089023,Germany,United Kingdom
+139,110,8.94427191,United States,Saudi Arabia
+139,65,9.327379053,United States,Jordan
+48,106,16.58312395,Germany,Republic of Korea
+139,110,6.292853089,United States,Saudi Arabia
+45,68,4.69041576,France,Kuwait
+45,55,2.408318916,France,Hungary
+138,97,21.44761059,United Kingdom,Oman
+108,12,3.605551275,Russia,Belarus
+124,17,0.948683298,Sweden,Brazil
+139,103,1.58113883,United States,Poland
+45,110,3.31662479,France,Saudi Arabia
+139,110,5.099019514,United States,Saudi Arabia
+119,135,1.549193338,South Africa,UAE
+61,56,9.013878189,Israel,India
+61,56,11.40175425,Israel,India
+27,98,16.73320053,China,Pakistan
+139,64,8.246211251,United States,Japan
+139,64,1,United States,Japan
+45,6,5.916079783,France,Australia
+106,101,6,Republic of Korea,Peru
+23,135,2.19089023,Canada,UAE
+96,91,1.58113883,Norway,Netherlands
+45,106,6.164414003,France,Republic of Korea
+106,57,12.63012272,Republic of Korea,Indonesia
+139,68,7.416198487,United States,Kuwait
+119,2,1.264911064,South Africa,Algeria
+139,110,11.45643924,United States,Saudi Arabia
+139,110,10.41153207,United States,Saudi Arabia
+139,135,4.472135955,United States,UAE
+48,133,1.341640786,Germany,Turkey
+48,61,3.535533906,Germany,Israel
+139,61,3.464101615,United States,Israel
+23,84,2.19089023,Canada,Mexico
+139,116,3.807886553,United States,Slovakia
+139,62,4,United States,Italy
+48,38,13.03840481,Germany,Egypt
+48,26,6.32455532,Germany,Chile
+44,26,2,Finland,Chile
+139,59,3.674234614,United States,Iraq
+139,59,2.34520788,United States,Iraq
+139,130,3.872983346,United States,Thailand
+139,107,1.469693846,United States,Romania
+139,86,1.732050808,United States,Morocco
+27,98,3.872983346,China,Pakistan
+27,98,1.224744871,China,Pakistan
+27,98,3.31662479,China,Pakistan
+137,130,3.16227766,Ukraine,Thailand
+45,139,7.293833012,France,United States
+34,45,1.414213562,Denmark,France
+48,45,2.828427125,Germany,France
+62,45,1.658312395,Italy,France
+138,17,1.414213562,United Kingdom,Brazil
+112,22,0.894427191,Serbia,Cameroon
+138,103,4.183300133,United Kingdom,Poland
+61,56,2,Israel,India
+139,62,14.83239697,United States,Italy
+139,67,2.48997992,United States,Kenya
+139,59,14.73091986,United States,Iraq
+108,2,7.745966692,Russia,Algeria
+139,124,2.738612788,United States,Sweden
+139,124,2.236067977,United States,Sweden
+61,102,2.019900988,Israel,Philippines
+108,38,15.24795068,Russia,Egypt
+139,64,4.898979486,United States,Japan
+139,64,6,United States,Japan
+133,135,9.16515139,Turkey,UAE
+45,34,2.387467277,France,Denmark
+139,34,6.949820142,United States,Denmark
+137,27,4.898979486,Ukraine,China
+125,130,4.472135955,Switzerland,Thailand
+96,23,4.301162634,Norway,Canada
+108,2,5,Russia,Algeria
+138,71,1.469693846,United Kingdom,Latvia
+45,115,7.416198487,France,Singapore
+13,57,2.814249456,Belgium,Indonesia
+27,57,5.019960159,China,Indonesia
+17,98,2.236067977,Brazil,Pakistan
+139,4,4.472135955,United States,Argentina
+139,38,3.31662479,United States,Egypt
+48,106,3.674234614,Germany,Republic of Korea
+27,98,1.224744871,China,Pakistan
+27,98,1.224744871,China,Pakistan
+119,79,1.224744871,South Africa,Malaysia
+96,125,1.58113883,Norway,Switzerland
+139,48,1.732050808,United States,Germany
+19,110,1.148912529,Bulgaria,Saudi Arabia
+112,110,1.392838828,Serbia,Saudi Arabia
+112,110,3.319638535,Serbia,Saudi Arabia
+139,132,2.738612788,United States,Tunisia
+133,79,3.741657387,Turkey,Malaysia
+133,79,1.870828693,Turkey,Malaysia
+133,79,2.958039892,Turkey,Malaysia
+133,79,3.605551275,Turkey,Malaysia
+124,22,0.678232998,Sweden,Cameroon
+124,42,0.489897949,Sweden,Ethiopia
+45,110,3.152776554,France,Saudi Arabia
+91,37,4.472135955,Netherlands,Ecuador
+45,38,3.31662479,France,Egypt
+108,8,6.164414003,Russia,Azerbaijan
+108,143,3.872983346,Russia,Viet Nam
+108,143,7.549834435,Russia,Viet Nam
+27,98,6.708203932,China,Pakistan
+19,136,0.346410162,Bulgaria,Uganda
+116,143,2.323790008,Slovakia,Viet Nam
+139,57,13.71495534,United States,Indonesia
+124,139,2.738612788,Sweden,United States
+108,95,1,Russia,Nigeria
+91,38,2.179449472,Netherlands,Egypt
+45,38,3.16227766,France,Egypt
+106,38,7.745966692,Republic of Korea,Egypt
+137,146,2.683281573,Ukraine,Zambia
+27,146,2.645751311,China,Zambia
+108,8,2.683281573,Russia,Azerbaijan
+45,72,0.619677335,France,Lebanon
+48,121,0.948683298,Germany,Spain
+139,64,3.741657387,United States,Japan
+139,64,2.645751311,United States,Japan
+48,121,1,Germany,Spain
+139,61,19.62141687,United States,Israel
+45,27,4.898979486,France,China
+137,143,3.16227766,Ukraine,Viet Nam
+139,0,4.142463035,United States,Afghanistan
+108,126,4.242640687,Russia,Syria
+32,8,1.974841766,Czechia,Azerbaijan
+26,140,0.64807407,Chile,Uruguay
+48,139,4.472135955,Germany,United States
+108,3,7.918333158,Russia,Angola
+91,48,5.656854249,Netherlands,Germany
+139,107,3.31662479,United States,Romania
+7,71,4.415880433,Austria,Latvia
+27,80,2,China,Mali
+108,112,2.874021573,Russia,Serbia
+12,123,5.291502622,Belarus,Sudan
+12,3,1.897366596,Belarus,Angola
+139,72,4.472135955,United States,Lebanon
+45,16,1.224744871,France,Botswana
+62,3,3.464101615,Italy,Angola
+108,38,3.464101615,Russia,Egypt
+7,95,0.866025404,Austria,Nigeria
+23,11,1.414213562,Canada,Bangladesh
+48,27,1.732050808,Germany,China
+48,105,1.802775638,Germany,Qatar
+45,56,17.29739865,France,India
+27,130,11.22497216,China,Thailand
+91,41,0.894427191,Netherlands,Estonia
+139,38,2.983286778,United States,Egypt
+50,23,5.477225575,Greece,Canada
+108,56,2.645751311,Russia,India
+62,56,1.658312395,Italy,India
+139,127,2.828427125,United States,Taiwan
+139,10,1.385640646,United States,Bahrain
+108,56,15.612495,Russia,India
+62,116,4,Italy,Slovakia
+139,106,0.692820323,United States,Republic of Korea
+62,72,1.5,Italy,Lebanon
+103,57,1.058300524,Poland,Indonesia
+27,70,1.095445115,China,Laos
+139,4,1.095445115,United States,Argentina
+36,28,2,Dominican Republic,Colombia
+139,57,1.658312395,United States,Indonesia
+139,64,4.242640687,United States,Japan
+91,65,13.07669683,Netherlands,Jordan
+139,127,1.414213562,United States,Taiwan
+139,115,5.477225575,United States,Singapore
+108,2,7.211102551,Russia,Algeria
+138,130,3.098386677,United Kingdom,Thailand
+138,130,3.098386677,United Kingdom,Thailand
+45,38,2,France,Egypt
+48,138,7.5,Germany,United Kingdom
+139,65,2.828427125,United States,Jordan
+45,80,1.702938637,France,Mali
+45,57,3.741657387,France,Indonesia
+61,102,1.341640786,Israel,Philippines
+124,44,2.236067977,Sweden,Finland
+48,75,5.969924623,Germany,Lithuania
+138,44,1.286856635,United Kingdom,Finland
+124,139,2.738612788,Sweden,United States
+23,72,1.341640786,Canada,Lebanon
+48,139,2,Germany,United States
+139,133,3.605551275,United States,Turkey
+62,110,4.898979486,Italy,Saudi Arabia
+62,110,6.92820323,Italy,Saudi Arabia
+48,91,2.549509757,Germany,Netherlands
+139,65,3.31662479,United States,Jordan
+137,130,8,Ukraine,Thailand
+45,27,3.082207001,France,China
+32,59,3.464101615,Czechia,Iraq
+45,11,2.828427125,France,Bangladesh
+108,58,1,Russia,Iran
+61,17,1.58113883,Israel,Brazil
+62,105,4.472135955,Italy,Qatar
+23,99,1.58113883,Canada,Panama
+139,110,44.15880433,United States,Saudi Arabia
+108,27,4.183300133,Russia,China
+137,111,1.334915728,Ukraine,Senegal
+139,115,8.660254038,United States,Singapore
+139,127,9.327379053,United States,Taiwan
+139,28,5.099019514,United States,Colombia
+92,100,1.897366596,New Zealand,Papua New Guinea
+139,135,1.870828693,United States,UAE
+65,139,8.44985207,Jordan,United States
+91,88,4.195235393,Netherlands,Myanmar
+108,105,2,Russia,Qatar
+27,105,1.549193338,China,Qatar
+27,105,5.196152423,China,Qatar
+133,105,1.933907961,Turkey,Qatar
+61,17,2,Israel,Brazil
+61,115,1.414213562,Israel,Singapore
+139,57,6.708203932,United States,Indonesia
+108,2,2.19089023,Russia,Algeria
+108,2,0.948683298,Russia,Algeria
+121,66,4.898979486,Spain,Kazakhstan
+23,66,2,Canada,Kazakhstan
+139,59,4.331281566,United States,Iraq
+27,57,3.535533906,China,Indonesia
+139,84,3.741657387,United States,Mexico
+108,66,10.48808848,Russia,Kazakhstan
+139,0,7.785884664,United States,Afghanistan
+19,59,2.366431913,Bulgaria,Iraq
+61,31,4.74341649,Israel,Cyprus
+139,138,2.738612788,United States,United Kingdom
+27,38,3.872983346,China,Egypt
+28,54,3.16227766,Colombia,Honduras
+139,61,6.708203932,United States,Israel
+139,65,3.16227766,United States,Jordan
+56,122,6.08276253,India,Sri Lanka
+139,38,4.242640687,United States,Egypt
+139,38,3,United States,Egypt
+62,103,8.246211251,Italy,Poland
+130,79,1.449137675,Thailand,Malaysia
+48,66,3.605551275,Germany,Kazakhstan
+108,58,1,Russia,Iran
+108,58,1.414213562,Russia,Iran
+108,38,3.605551275,Russia,Egypt
+139,28,1.760681686,United States,Colombia
+137,111,0.547722558,Ukraine,Senegal
+121,110,3.464101615,Spain,Saudi Arabia
+121,110,6.557438524,Spain,Saudi Arabia
+119,115,2.924038303,South Africa,Singapore
+139,86,7.501999733,United States,Morocco
+108,27,24.49489743,Russia,China
+139,111,1.341640786,United States,Senegal
+139,28,1.760681686,United States,Colombia
+27,2,4.135214626,China,Algeria
+125,68,2.236067977,Switzerland,Kuwait
+12,123,1.897366596,Belarus,Sudan
+7,57,0.64807407,Austria,Indonesia
+7,57,0.9,Austria,Indonesia
+125,27,5,Switzerland,China
+125,27,2.738612788,Switzerland,China
+27,57,1.414213562,China,Indonesia
+27,11,1.067707825,China,Bangladesh
+137,27,7.668115805,Ukraine,China
+45,27,5.700877125,France,China
+69,56,2.236067977,Kyrgyzstan,India
+69,56,2.236067977,Kyrgyzstan,India
+138,68,0.894427191,United Kingdom,Kuwait
+62,57,0.994987437,Italy,Indonesia
+45,121,1.702938637,France,Spain
+61,28,0.948683298,Israel,Colombia
+61,28,1.095445115,Israel,Colombia
+61,28,2.121320344,Israel,Colombia
+61,28,2.121320344,Israel,Colombia
+45,73,0.948683298,France,Lesotho
+139,25,1.341640786,United States,Chad
+139,105,1.264911064,United States,Qatar
+138,64,3.535533906,United Kingdom,Japan
+108,12,4,Russia,Belarus
+139,133,4.647580015,United States,Turkey
+139,133,4.647580015,United States,Turkey
+139,26,0.632455532,United States,Chile
+45,80,1.702938637,France,Mali
+85,67,0.632455532,Montenegro,Kenya
+135,65,1.122497216,UAE,Jordan
+139,84,3.807886553,United States,Mexico
+108,27,16.58312395,Russia,China
+139,3,1.095445115,United States,Angola
+138,3,1.414213562,United Kingdom,Angola
+121,110,1.732050808,Spain,Saudi Arabia
+121,110,5.196152423,Spain,Saudi Arabia
+106,130,8.438009244,Republic of Korea,Thailand
+139,115,5.830951895,United States,Singapore
+45,4,1.788854382,France,Argentina
+139,102,1.936491673,United States,Philippines
+45,132,1.5,France,Tunisia
+121,139,12.63328936,Spain,United States
+139,65,1.989974874,United States,Jordan
+138,27,6.32455532,United Kingdom,China
+45,96,1.949358869,France,Norway
+139,133,3.16227766,United States,Turkey
+108,59,17.08800749,Russia,Iraq
+56,122,6.08276253,India,Sri Lanka
+137,130,7.211102551,Ukraine,Thailand
+45,95,3.687817783,France,Nigeria
+138,97,15.16575089,United Kingdom,Oman
+64,102,1.816590212,Japan,Philippines
+137,130,1.732050808,Ukraine,Thailand
+62,6,4,Italy,Australia
+62,6,8.94427191,Italy,Australia
+139,6,3.872983346,United States,Australia
+139,6,1.732050808,United States,Australia
+62,96,2.156385865,Italy,Norway
+62,96,2.156385865,Italy,Norway
+139,38,11.83215957,United States,Egypt
+91,44,6.32455532,Netherlands,Finland
+139,57,8.660254038,United States,Indonesia
+133,111,2.061552813,Turkey,Senegal
+139,111,1.414213562,United States,Senegal
+139,0,10.76243467,United States,Afghanistan
+108,126,1.8,Russia,Syria
+108,126,1.8,Russia,Syria
+108,143,3.872983346,Russia,Viet Nam
+137,143,3.16227766,Ukraine,Viet Nam
+108,93,2.607680962,Russia,Nicaragua
+139,102,0.489897949,United States,Philippines
+108,95,4.795831523,Russia,Nigeria
+13,45,2.28035085,Belgium,France
+32,137,4.221374184,Czechia,Ukraine
+61,102,2.049390153,Israel,Philippines
+98,8,1.483239697,Pakistan,Azerbaijan
+139,57,2.449489743,United States,Indonesia
+139,57,2.449489743,United States,Indonesia
+12,112,6.752777206,Belarus,Serbia
+108,12,5.099019514,Russia,Belarus
+138,106,3.464101615,United Kingdom,Republic of Korea
+139,106,2.738612788,United States,Republic of Korea
+106,57,12.63012272,Republic of Korea,Indonesia
+48,138,1.788854382,Germany,United Kingdom
+27,88,2.738612788,China,Myanmar
+91,74,3.16227766,Netherlands,Libya
+137,130,1.754992877,Ukraine,Thailand
+61,8,11.18033989,Israel,Azerbaijan
+48,2,6.92820323,Germany,Algeria
+48,112,1.802775638,Germany,Serbia
+139,26,6.595452979,United States,Chile
+139,85,3.872983346,United States,Montenegro
+62,96,5.495452666,Italy,Norway
+139,45,1.732050808,United States,France
+139,110,44.15880433,United States,Saudi Arabia
+6,64,0.894427191,Australia,Japan
+139,64,0.447213595,United States,Japan
+6,43,1,Australia,Fiji
+6,91,1.264911064,Australia,Netherlands
+124,76,0.5,Sweden,Luxembourg
+124,17,0.894427191,Sweden,Brazil
+124,96,3.674234614,Sweden,Norway
+45,111,1.122497216,France,Senegal
+124,111,0.424264069,Sweden,Senegal
+27,111,0.948683298,China,Senegal
+139,65,2.121320344,United States,Jordan
+139,59,5.830951895,United States,Iraq
+108,8,5.338539126,Russia,Azerbaijan
+48,105,5.916079783,Germany,Qatar
+138,44,0.536656315,United Kingdom,Finland
+133,109,2.626785107,Turkey,Rwanda
+133,134,3.398529094,Turkey,Turkmenistan
+45,64,0.774596669,France,Japan
+17,0,5.138093031,Brazil,Afghanistan
+23,0,1.897366596,Canada,Afghanistan
+23,72,1.732050808,Canada,Lebanon
+45,52,1.549193338,France,Guinea
+57,143,2.75680975,Indonesia,Viet Nam
+62,3,3.464101615,Italy,Angola
+48,91,5,Germany,Netherlands
+139,127,9.327379053,United States,Taiwan
+125,17,1.732050808,Switzerland,Brazil
+139,110,2,United States,Saudi Arabia
+139,135,4.472135955,United States,UAE
+139,110,5.196152423,United States,Saudi Arabia
+91,23,3.535533906,Netherlands,Canada
+139,23,8.485281374,United States,Canada
+135,38,6.480740698,UAE,Egypt
+108,38,17.1610023,Russia,Egypt
+139,102,2.738612788,United States,Philippines
+139,10,3.178049716,United States,Bahrain
+45,86,7.071067812,France,Morocco
+139,86,1.732050808,United States,Morocco
+139,86,2,United States,Morocco
+139,65,3.31662479,United States,Jordan
+139,110,3,United States,Saudi Arabia
+17,80,4.195235393,Brazil,Mali
+45,132,1,France,Tunisia
+45,97,4.582575695,France,Oman
+45,124,2.645751311,France,Sweden
+48,91,1.486606875,Germany,Netherlands
+27,98,6.123724357,China,Pakistan
+106,56,6.57267069,Republic of Korea,India
+19,110,0.889943818,Bulgaria,Saudi Arabia
+19,3,1.2,Bulgaria,Angola
+19,59,0.632455532,Bulgaria,Iraq
+19,29,3.146426545,Bulgaria,Cote d'Ivoire
+19,110,3.741657387,Bulgaria,Saudi Arabia
+23,80,1.549193338,Canada,Mali
+139,62,7.416198487,United States,Italy
+45,134,0.894427191,France,Turkmenistan
+62,45,1.658312395,Italy,France
+48,45,2.828427125,Germany,France
+45,115,7.416198487,France,Singapore
+48,106,23.4520788,Germany,Republic of Korea
+139,96,18.16590212,United States,Norway
+91,41,5.366563146,Netherlands,Estonia
+48,110,8.485281374,Germany,Saudi Arabia
+48,75,4.098780306,Germany,Lithuania
+139,61,18.16590212,United States,Israel
+139,110,12.64911064,United States,Saudi Arabia
+139,135,5.916079783,United States,UAE
+139,110,5.099019514,United States,Saudi Arabia
+34,45,1.414213562,Denmark,France
+45,56,2,France,India
+48,56,2,Germany,India
+19,29,2.607680962,Bulgaria,Cote d'Ivoire
+62,105,4.472135955,Italy,Qatar
+139,65,2.34520788,United States,Jordan
+139,65,1.876166304,United States,Jordan
+139,0,4.062019202,United States,Afghanistan
+139,34,5.674504384,United States,Denmark
+139,64,8.246211251,United States,Japan
+139,6,4.472135955,United States,Australia
+139,6,3.464101615,United States,Australia
+139,6,2.236067977,United States,Australia
+96,103,4.449719092,Norway,Poland
+108,20,3.674234614,Russia,Burkina Faso
+139,63,2.323790008,United States,Jamaica
+137,27,4.472135955,Ukraine,China
+137,27,7.745966692,Ukraine,China
+48,27,2.19089023,Germany,China
+48,27,3.794733192,Germany,China
+27,15,1.183215957,China,Bolivia
+27,87,1.29614814,China,Mozambique
+32,137,3.446737588,Czechia,Ukraine
+27,49,2.828427125,China,Ghana
+139,17,2.097617696,United States,Brazil
+138,56,8.313843876,United Kingdom,India
+139,133,8.94427191,United States,Turkey
+48,133,1.341640786,Germany,Turkey
+138,115,4.898979486,United Kingdom,Singapore
+29,45,1.122497216,Cote d'Ivoire,France
+137,27,6.92820323,Ukraine,China
+48,138,3,Germany,United Kingdom
+48,125,3.082207001,Germany,Switzerland
+27,24,1.2,China,Central African Republic
+48,115,2.828427125,Germany,Singapore
+45,115,4,France,Singapore
+139,106,4.472135955,United States,Republic of Korea
+139,110,9.486832981,United States,Saudi Arabia
+45,68,1.816590212,France,Kuwait
+27,0,1.183215957,China,Afghanistan
+139,137,2.727636339,United States,Ukraine
+133,135,9.16515139,Turkey,UAE
+139,106,8.94427191,United States,Republic of Korea
+139,110,4.472135955,United States,Saudi Arabia
+138,110,4,United Kingdom,Saudi Arabia
+27,66,4.795831523,China,Kazakhstan
+139,34,1.732050808,United States,Denmark
+45,129,3.872983346,France,Tanzania
+91,139,7.848566748,Netherlands,United States
+108,27,24.49489743,Russia,China
+139,6,15.8113883,United States,Australia
+125,45,8.5732141,Switzerland,France
+48,6,5.196152423,Germany,Australia
+139,133,3.605551275,United States,Turkey
+139,13,0.848528137,United States,Belgium
+91,115,4,Netherlands,Singapore
+27,89,1.833030278,China,Namibia
+45,110,4.472135955,France,Saudi Arabia
+48,130,2.049390153,Germany,Thailand
+106,143,7.745966692,Republic of Korea,Viet Nam
+133,105,2.915475947,Turkey,Qatar
+104,28,1.61245155,Portugal,Colombia
+91,41,5.019960159,Netherlands,Estonia
+91,65,1.624807681,Netherlands,Jordan
+91,65,0.692820323,Netherlands,Jordan
+139,34,0.848528137,United States,Denmark
+135,72,1.549193338,UAE,Lebanon
+48,138,1.5,Germany,United Kingdom
+124,106,1.58113883,Sweden,Republic of Korea
+139,110,7.615773106,United States,Saudi Arabia
+139,48,1.414213562,United States,Germany
+139,133,4.647580015,United States,Turkey
+139,106,3.6,United States,Republic of Korea
+133,97,8.831760866,Turkey,Oman
+133,79,2.958039892,Turkey,Malaysia
+133,79,2.28035085,Turkey,Malaysia
+133,79,3.741657387,Turkey,Malaysia
+96,103,4.449719092,Norway,Poland
+96,91,0.866025404,Norway,Netherlands
+124,34,1.224744871,Sweden,Denmark
+62,90,2.449489743,Italy,Nepal
+62,11,3.464101615,Italy,Bangladesh
+45,73,0.948683298,France,Lesotho
+61,143,9.486832981,Israel,Viet Nam
+61,143,5.656854249,Israel,Viet Nam
+61,62,1.224744871,Israel,Italy
+23,105,1.58113883,Canada,Qatar
+27,12,0.836660027,China,Belarus
+138,71,1.469693846,United Kingdom,Latvia
+62,104,1.5,Italy,Portugal
+119,79,1.224744871,South Africa,Malaysia
+7,71,2,Austria,Latvia
+139,10,3.16227766,United States,Bahrain
+139,61,6.708203932,United States,Israel
+139,84,3.741657387,United States,Mexico
+139,4,1.095445115,United States,Argentina
+37,140,1.469693846,Ecuador,Uruguay
+139,110,18.70828693,United States,Saudi Arabia
+62,116,4,Italy,Slovakia
+62,133,13.34915728,Italy,Turkey
+133,98,4,Turkey,Pakistan
+139,51,1.341640786,United States,Guatemala
+62,98,2.248555092,Italy,Pakistan
+62,57,4.647580015,Italy,Indonesia
+62,57,4.647580015,Italy,Indonesia
+62,130,5.916079783,Italy,Thailand
+125,65,3.130495168,Switzerland,Jordan
+61,146,2,Israel,Zambia
+103,48,2.34520788,Poland,Germany
+108,66,6.782329983,Russia,Kazakhstan
+139,45,1.658312395,United States,France
+124,98,1.414213562,Sweden,Pakistan
+124,125,3.16227766,Sweden,Switzerland
+34,79,2.179449472,Denmark,Malaysia
+34,79,2.179449472,Denmark,Malaysia
+34,71,1.264911064,Denmark,Latvia
+27,98,5.916079783,China,Pakistan
+139,17,4.242640687,United States,Brazil
+45,110,2.828427125,France,Saudi Arabia
+45,38,18.16590212,France,Egypt
+125,34,3.146426545,Switzerland,Denmark
+138,45,4.472135955,United Kingdom,France
+137,108,5.099019514,Ukraine,Russia
+27,98,15.08310313,China,Pakistan
+139,116,3.807886553,United States,Slovakia
+45,57,4.582575695,France,Indonesia
+124,7,1.516575089,Sweden,Austria
+91,44,1.673320053,Netherlands,Finland
+91,44,1.496662955,Netherlands,Finland
+44,103,5.585696018,Finland,Poland
+119,139,9.797958971,South Africa,United States
+6,139,5.477225575,Australia,United States
+48,106,3.674234614,Germany,Republic of Korea
+139,38,2.607680962,United States,Egypt
+108,135,8.94427191,Russia,UAE
+45,17,3,France,Brazil
+12,3,1.2,Belarus,Angola
+48,139,3.16227766,Germany,United States
+124,139,2.738612788,Sweden,United States
+45,55,3.033150178,France,Hungary
+27,134,1.870828693,China,Turkmenistan
+108,105,2,Russia,Qatar
+27,98,2.645751311,China,Pakistan
+139,127,4.472135955,United States,Taiwan
+45,72,0.885437745,France,Lebanon
+138,115,4.472135955,United Kingdom,Singapore
+91,133,3.535533906,Netherlands,Turkey
+108,38,3.464101615,Russia,Egypt
+108,126,9.646761114,Russia,Syria
+108,126,9.38083152,Russia,Syria
+108,58,1,Russia,Iran
+108,56,6.480740698,Russia,India
+108,59,3.674234614,Russia,Iraq
+108,12,1.414213562,Russia,Belarus
+108,3,7.918333158,Russia,Angola
+139,92,2.34520788,United States,New Zealand
+139,106,2.645751311,United States,Republic of Korea
+45,50,2.34520788,France,Greece
+17,56,3.224903099,Brazil,India
+139,28,1.760681686,United States,Colombia
+119,80,0.948683298,South Africa,Mali
+139,86,2.569046516,United States,Morocco
+27,2,4.472135955,China,Algeria
+27,2,2.738612788,China,Algeria
+106,130,14.85765796,Republic of Korea,Thailand
+139,61,5.916079783,United States,Israel
+108,65,7.745966692,Russia,Jordan
+108,70,6.32455532,Russia,Laos
+108,130,3.674234614,Russia,Thailand
+27,70,1.183215957,China,Laos
+48,38,5.244044241,Germany,Egypt
+48,38,5.244044241,Germany,Egypt
+48,38,2.449489743,Germany,Egypt
+48,130,3.16227766,Germany,Thailand
+108,66,14.83239697,Russia,Kazakhstan
+27,98,2.236067977,China,Pakistan
+106,110,1.732050808,Republic of Korea,Saudi Arabia
+139,110,5.099019514,United States,Saudi Arabia
+92,101,2.449489743,New Zealand,Peru
+45,84,2.738612788,France,Mexico
+139,68,7.416198487,United States,Kuwait
+124,67,0.489897949,Sweden,Kenya
+139,72,3.150238086,United States,Lebanon
+125,68,3.872983346,Switzerland,Kuwait
+13,57,2.814249456,Belgium,Indonesia
+133,141,2.019900988,Turkey,Uzbekistan
+45,6,4.472135955,France,Australia
+139,6,4.472135955,United States,Australia
+119,135,2.720294102,South Africa,UAE
+139,135,1.264911064,United States,UAE
+62,135,3.535533906,Italy,UAE
+139,135,5.477225575,United States,UAE
+45,86,7.071067812,France,Morocco
+139,107,1.341640786,United States,Romania
+139,127,1.897366596,United States,Taiwan
+139,91,1.732050808,United States,Netherlands
+61,115,2,Israel,Singapore
+27,57,4.242640687,China,Indonesia
+139,38,4.242640687,United States,Egypt
+45,38,2.236067977,France,Egypt
+108,2,6.633249581,Russia,Algeria
+108,2,6.633249581,Russia,Algeria
+139,64,6,United States,Japan
+62,130,1.658312395,Italy,Thailand
+139,127,2.828427125,United States,Taiwan
+139,130,4.472135955,United States,Thailand
+139,62,2.645751311,United States,Italy
+139,62,3.286335345,United States,Italy
+45,110,10.22252415,France,Saudi Arabia
+124,130,3.535533906,Sweden,Thailand
+139,17,1.897366596,United States,Brazil
+139,17,1.897366596,United States,Brazil
+139,104,2,United States,Portugal
+139,104,2,United States,Portugal
+139,130,2.645751311,United States,Thailand
+139,105,2,United States,Qatar
+139,107,3.31662479,United States,Romania
+138,98,2.323790008,United Kingdom,Pakistan
+138,98,2.323790008,United Kingdom,Pakistan
+138,98,1.643167673,United Kingdom,Pakistan
+139,91,1.749285568,United States,Netherlands
+139,6,3.286335345,United States,Australia
+139,135,5.922837158,United States,UAE
+139,135,14.14213562,United States,UAE
+139,135,14.14213562,United States,UAE
+139,2,1.788854382,United States,Algeria
+61,8,3.872983346,Israel,Azerbaijan
+139,47,2.024845673,United States,Georgia
+108,56,15.612495,Russia,India
+108,56,5.291502622,Russia,India
+61,56,2.828427125,Israel,India
+27,98,3.31662479,China,Pakistan
+139,56,3.633180425,United States,India
+139,72,7.745966692,United States,Lebanon
+139,133,3.741657387,United States,Turkey
+45,110,3.082207001,France,Saudi Arabia
+45,34,1.949358869,France,Denmark
+45,139,6.892024376,France,United States
+91,79,1.732050808,Netherlands,Malaysia
+125,34,1.587450787,Switzerland,Denmark
+121,138,2.533771892,Spain,United Kingdom
+108,12,6.32455532,Russia,Belarus
+45,79,0.632455532,France,Malaysia
+61,130,0.707106781,Israel,Thailand
+106,44,3,Republic of Korea,Finland
+48,75,2.437211521,Germany,Lithuania
+27,2,0.707106781,China,Algeria
+108,95,1,Russia,Nigeria
+108,58,1,Russia,Iran
+62,3,2.34520788,Italy,Angola
+48,97,2.549509757,Germany,Oman
+139,32,1,United States,Czechia
+45,95,2.683281573,France,Nigeria
+61,17,1.58113883,Israel,Brazil
+139,64,2.738612788,United States,Japan
+139,64,3.741657387,United States,Japan
+138,60,5.766281297,United Kingdom,Ireland
+62,60,1.658312395,Italy,Ireland
+44,60,2,Finland,Ireland
+61,17,2,Israel,Brazil
+124,64,2.828427125,Sweden,Japan
+27,142,6.648308055,China,Venezuela
+27,105,2.683281573,China,Qatar
+27,105,9,China,Qatar
+61,130,2.738612788,Israel,Thailand
+108,2,8.062257748,Russia,Algeria
+27,109,1.449137675,China,Rwanda
+27,110,3.872983346,China,Saudi Arabia
+27,110,3.872983346,China,Saudi Arabia
+27,38,3.872983346,China,Egypt
+27,98,5,China,Pakistan
+23,110,1.360147051,Canada,Saudi Arabia
+62,57,0.994987437,Italy,Indonesia
+108,58,1.414213562,Russia,Iran
+139,97,1.469693846,United States,Oman
+139,13,2.130727575,United States,Belgium
+139,105,1.816590212,United States,Qatar
+138,103,3.535533906,United Kingdom,Poland
+139,44,6.614378278,United States,Finland
+139,103,7.416198487,United States,Poland
+139,135,1.516575089,United States,UAE
+139,135,1.760681686,United States,UAE
+139,59,1.788854382,United States,Iraq
+108,56,20.97617696,Russia,India
+45,105,3.16227766,France,Qatar
+45,105,4,France,Qatar
+27,98,1.224744871,China,Pakistan
+27,98,1.224744871,China,Pakistan
+133,20,2.121320344,Turkey,Burkina Faso
+61,8,1.732050808,Israel,Azerbaijan
+61,8,0.5,Israel,Azerbaijan
+61,8,0.5,Israel,Azerbaijan
+138,106,3.464101615,United Kingdom,Republic of Korea
+108,88,7.745966692,Russia,Myanmar
+27,70,3.376388603,China,Laos
+27,70,1.449137675,China,Laos
+61,130,2.738612788,Israel,Thailand
+137,105,2.828427125,Ukraine,Qatar
+137,105,4.472135955,Ukraine,Qatar
+48,103,1.587450787,Germany,Poland
+106,103,2.925747768,Republic of Korea,Poland
+48,103,1.2,Germany,Poland
+48,138,0.883176087,Germany,United Kingdom
+45,27,4,France,China
+108,27,4.183300133,Russia,China
+27,128,1.183215957,China,Tajikistan
+108,128,2.268920448,Russia,Tajikistan
+108,59,3.16227766,Russia,Iraq
+125,27,5,Switzerland,China
+125,27,2.738612788,Switzerland,China
+32,8,2.258317958,Czechia,Azerbaijan
+138,45,3.16227766,United Kingdom,France
+45,105,0.948683298,France,Qatar
+139,110,5.916079783,United States,Saudi Arabia
+139,65,1,United States,Jordan
+139,10,2.102379604,United States,Bahrain
+12,8,3.224903099,Belarus,Azerbaijan
+133,8,2.34520788,Turkey,Azerbaijan
+139,110,4.981967483,United States,Saudi Arabia
+106,59,10.33440855,Republic of Korea,Iraq
+45,110,3.31662479,France,Saudi Arabia
+45,110,3.535533906,France,Saudi Arabia
+27,89,0.8,China,Namibia
+45,94,0.916515139,France,Niger
+45,27,4.031128874,France,China
+45,27,3.082207001,France,China
+48,61,4.242640687,Germany,Israel
+48,61,4.242640687,Germany,Israel
+48,61,4.242640687,Germany,Israel
+62,74,3.017946322,Italy,Libya
+125,4,2.236067977,Switzerland,Argentina
+138,27,4.472135955,United Kingdom,China
+27,70,5.477225575,China,Laos
+108,59,12.40967365,Russia,Iraq
+108,59,10.48808848,Russia,Iraq
+139,0,5.6,United States,Afghanistan
+139,0,7.926663863,United States,Afghanistan
+139,130,1.58113883,United States,Thailand
+139,56,2,United States,India
+139,127,3.16227766,United States,Taiwan
+45,129,0.948683298,France,Tanzania
+108,29,0.282842712,Russia,Cote d'Ivoire
+12,29,0.629285309,Belarus,Cote d'Ivoire
+124,139,4.472135955,Sweden,United States
+48,27,1.732050808,Germany,China
+138,64,3.535533906,United Kingdom,Japan
+139,51,0.529150262,United States,Guatemala
+137,108,8.831760866,Ukraine,Russia
+56,83,4.341658669,India,Mauritius
+139,121,3.09354166,United States,Spain
+7,104,2.856571371,Austria,Portugal
+7,104,1.272792206,Austria,Portugal
+45,4,2.738612788,France,Argentina
+119,2,2.645751311,South Africa,Algeria
+124,2,8.831760866,Sweden,Algeria
+139,110,9.486832981,United States,Saudi Arabia
+48,121,5,Germany,Spain
+91,2,5,Netherlands,Algeria
+139,135,6,United States,UAE
+139,68,10.48808848,United States,Kuwait
+48,2,22.95648057,Germany,Algeria
+124,2,3.872983346,Sweden,Algeria
+124,2,3.16227766,Sweden,Algeria
+45,2,4.472135955,France,Algeria
+135,74,3.608323711,UAE,Libya
+34,97,2.236067977,Denmark,Oman
+139,110,4.69041576,United States,Saudi Arabia
+27,98,6.92820323,China,Pakistan
+45,26,3.605551275,France,Chile
+139,38,1.239354671,United States,Egypt
+139,26,3.898717738,United States,Chile
+106,133,2.387467277,Republic of Korea,Turkey
+45,139,3.741657387,France,United States
+108,93,9.262828942,Russia,Nicaragua
+61,56,18.97366596,Israel,India
+27,142,5.61248608,China,Venezuela
+137,142,2.323790008,Ukraine,Venezuela
+23,110,2.323790008,Canada,Saudi Arabia
+27,82,5.830951895,China,Mauritania
+62,61,8.246211251,Italy,Israel
+7,4,1.024695077,Austria,Argentina
+139,0,0.894427191,United States,Afghanistan
+124,48,5.366563146,Sweden,Germany
+139,96,1.542724862,United States,Norway
+139,110,18.70828693,United States,Saudi Arabia
+139,38,3.033150178,United States,Egypt
+48,57,10.27618606,Germany,Indonesia
+139,28,3.346640106,United States,Colombia
+17,0,9.38083152,Brazil,Afghanistan
+62,4,2.366431913,Italy,Argentina
+139,38,5.291502622,United States,Egypt
+45,110,5.264978632,France,Saudi Arabia
+139,62,4.183300133,United States,Italy
+6,91,0.894427191,Australia,Netherlands
+119,65,1.788854382,South Africa,Jordan
+23,110,2.465765601,Canada,Saudi Arabia
+62,115,2.872281323,Italy,Singapore
+62,130,1.870828693,Italy,Thailand
+45,115,3.872983346,France,Singapore
+139,61,4.795831523,United States,Israel
+139,72,3.049590136,United States,Lebanon
+124,75,2.236067977,Sweden,Lithuania
+139,95,1.897366596,United States,Nigeria
+121,102,3.464101615,Spain,Philippines
+139,135,7.668115805,United States,UAE
+108,56,5.477225575,Russia,India
+108,56,7.745966692,Russia,India
+48,56,3.354101966,Germany,India
+138,2,5.974947699,United Kingdom,Algeria
+121,38,6.92820323,Spain,Egypt
+23,38,2.828427125,Canada,Egypt
+48,50,16.58312395,Germany,Greece
+115,97,6.782329983,Singapore,Oman
+108,59,3.16227766,Russia,Iraq
+27,2,5.916079783,China,Algeria
+27,2,2.291287847,China,Algeria
+61,138,5.830951895,Israel,United Kingdom
+139,132,1.095445115,United States,Tunisia
+108,27,7.745966692,Russia,China
+45,86,3.082207001,France,Morocco
+139,44,7.348469228,United States,Finland
+139,115,2.792848009,United States,Singapore
+139,86,3,United States,Morocco
+139,130,3.16227766,United States,Thailand
+139,135,2.569046516,United States,UAE
+139,62,2.236067977,United States,Italy
+139,6,1.58113883,United States,Australia
+17,57,4.195235393,Brazil,Indonesia
+139,6,11.22497216,United States,Australia
+108,56,5.196152423,Russia,India
+48,103,2.244994432,Germany,Poland
+139,61,5.477225575,United States,Israel
+139,115,3.023243292,United States,Singapore
+121,66,4.898979486,Spain,Kazakhstan
+108,59,11.13552873,Russia,Iraq
+139,102,4.732863826,United States,Philippines
+138,139,4.898979486,United Kingdom,United States
+124,23,4.472135955,Sweden,Canada
+32,139,3.464101615,Czechia,United States
+138,106,10.54514106,United Kingdom,Republic of Korea
+139,30,4.38178046,United States,Croatia
+108,2,12.4498996,Russia,Algeria
+32,15,1.122497216,Czechia,Bolivia
+108,3,5.196152423,Russia,Angola
+91,84,3.16227766,Netherlands,Mexico
+108,56,16.73320053,Russia,India
+139,62,8.94427191,United States,Italy
+139,44,0.6,United States,Finland
+139,61,1.414213562,United States,Israel
+139,115,1.341640786,United States,Singapore
+34,104,2.828427125,Denmark,Portugal
+121,130,3.464101615,Spain,Thailand
+23,130,1.414213562,Canada,Thailand
+62,91,5.157518783,Italy,Netherlands
+125,139,3.54964787,Switzerland,United States
+139,135,4.472135955,United States,UAE
+139,124,1.029563014,United States,Sweden
+139,64,2.692582404,United States,Japan
+139,64,4.663689527,United States,Japan
+139,105,10.48808848,United States,Qatar
+48,57,2.110687092,Germany,Indonesia
+139,71,4.472135955,United States,Latvia
+108,120,1.897366596,Russia,South Sudan
+133,110,6.244997998,Turkey,Saudi Arabia
+45,6,5,France,Australia
+139,91,2.236067977,United States,Netherlands
+139,2,2.19089023,United States,Algeria
+135,2,1.224744871,UAE,Algeria
+139,106,4.472135955,United States,Republic of Korea
+45,56,7.874007874,France,India
+62,96,2.645751311,Italy,Norway
+139,106,3.577708764,United States,Republic of Korea
+45,106,3.898717738,France,Republic of Korea
+91,84,3.16227766,Netherlands,Mexico
+139,104,1.058300524,United States,Portugal
+139,23,6.745368782,United States,Canada
+121,49,3.464101615,Spain,Ghana
+27,111,3.949683532,China,Senegal
+48,88,2,Germany,Myanmar
+48,57,0.894427191,Germany,Indonesia
+91,9,3.741657387,Netherlands,Bahamas
+139,72,3.687817783,United States,Lebanon
+139,72,1.673320053,United States,Lebanon
+121,79,12.08304597,Spain,Malaysia
+61,106,1.449137675,Israel,Republic of Korea
+139,105,10,United States,Qatar
+139,138,10.95445115,United States,United Kingdom
+32,57,1.989974874,Czechia,Indonesia
+91,9,2.408318916,Netherlands,Bahamas
+121,141,4.898979486,Spain,Uzbekistan
+23,0,3.464101615,Canada,Afghanistan
+124,103,1.643167673,Sweden,Poland
+23,101,2.497999199,Canada,Peru
+48,79,1.870828693,Germany,Malaysia
+48,79,4.898979486,Germany,Malaysia
+139,133,3.794733192,United States,Turkey
+124,84,1.58113883,Sweden,Mexico
+61,111,1.2489996,Israel,Senegal
+44,103,2.692582404,Finland,Poland
+139,62,3.646916506,United States,Italy
+56,83,1.816590212,India,Mauritius
+139,83,1.095445115,United States,Mauritius
+61,83,1.58113883,Israel,Mauritius
+139,4,1.760681686,United States,Argentina
+48,105,9.246621004,Germany,Qatar
+62,26,1.183215957,Italy,Chile
+108,59,3.714835124,Russia,Iraq
+139,132,2.683281573,United States,Tunisia
+6,63,1.095445115,Australia,Jamaica
+23,66,2,Canada,Kazakhstan
+103,65,1.658312395,Poland,Jordan
+45,121,2.692582404,France,Spain
+48,135,4,Germany,UAE
+139,6,1.643167673,United States,Australia
+139,132,0.894427191,United States,Tunisia
+124,71,1.414213562,Sweden,Latvia
+44,38,2.449489743,Finland,Egypt
+47,110,2.471841419,Georgia,Saudi Arabia
+27,88,6.782329983,China,Myanmar
+108,2,2.828427125,Russia,Algeria
+27,95,6,China,Nigeria
+139,115,1.414213562,United States,Singapore
+45,121,3.741657387,France,Spain
+139,133,10.95445115,United States,Turkey
+27,11,8.660254038,China,Bangladesh
+139,30,1.414213562,United States,Croatia
+45,17,6.123724357,France,Brazil
+139,61,13.07669683,United States,Israel
+139,56,5.477225575,United States,India
+45,56,6,France,India
+61,139,7.071067812,Israel,United States
+61,139,2.236067977,Israel,United States
+139,45,2.645751311,United States,France
+125,79,2.236067977,Switzerland,Malaysia
+91,65,1.341640786,Netherlands,Jordan
+108,27,10.59245014,Russia,China
+45,27,3.741657387,France,China
+108,27,1.58113883,Russia,China
+139,127,1.483239697,United States,Taiwan
+45,84,4.472135955,France,Mexico
+139,67,0.282842712,United States,Kenya
+23,141,2,Canada,Uzbekistan
+139,64,3.937003937,United States,Japan
+45,62,3.16227766,France,Italy
+45,62,3.16227766,France,Italy
+27,146,0.707106781,China,Zambia
+27,146,1.483239697,China,Zambia
+108,143,14.83239697,Russia,Viet Nam
+137,143,1.732050808,Ukraine,Viet Nam
+108,143,4.062019202,Russia,Viet Nam
+108,143,4.062019202,Russia,Viet Nam
+108,143,3.130495168,Russia,Viet Nam
+62,60,1.658312395,Italy,Ireland
+138,62,3.464101615,United Kingdom,Italy
+18,79,3.405877273,Brunei,Malaysia
+139,79,1.816590212,United States,Malaysia
+108,58,12.84523258,Russia,Iran
+6,57,4.732863826,Australia,Indonesia
+139,44,2.828427125,United States,Finland
+139,86,14.14213562,United States,Morocco
+119,66,1.949358869,South Africa,Kazakhstan
+27,67,2.366431913,China,Kenya
+48,106,6.260990337,Germany,Republic of Korea
+48,75,1.058300524,Germany,Lithuania
+48,139,8.455767263,Germany,United States
+139,98,3.16227766,United States,Pakistan
+139,107,2.236067977,United States,Romania
+139,130,2.692582404,United States,Thailand
+139,97,2.236067977,United States,Oman
+121,97,3.605551275,Spain,Oman
+124,135,1.549193338,Sweden,UAE
+139,138,3.741657387,United States,United Kingdom
+139,132,1.979898987,United States,Tunisia
+12,88,2.449489743,Belarus,Myanmar
+108,12,6.363961031,Russia,Belarus
+139,63,0.547722558,United States,Jamaica
+139,65,1.766352173,United States,Jordan
+104,107,13.01114907,Portugal,Romania
+121,16,1.732050808,Spain,Botswana
+27,146,4.774934555,China,Zambia
+139,36,0.5,United States,Dominican Republic
+62,134,3.31662479,Italy,Turkmenistan
+48,44,2.738612788,Germany,Finland
+27,98,4.472135955,China,Pakistan
+27,11,9.612491873,China,Bangladesh
+27,98,3.16227766,China,Pakistan
+27,98,3.16227766,China,Pakistan
+27,98,1.414213562,China,Pakistan
+27,98,2.236067977,China,Pakistan
+61,56,5.477225575,Israel,India
+61,56,3.082207001,Israel,India
+139,107,3,United States,Romania
+139,66,1.760681686,United States,Kazakhstan
+139,17,1.549193338,United States,Brazil
+108,123,5.196152423,Russia,Sudan
+108,123,4.874423043,Russia,Sudan
+27,10,1.949358869,China,Bahrain
+133,132,3.474190553,Turkey,Tunisia
+137,33,6.549809158,Ukraine,Democratic Republic of the Congo
+61,8,2.366431913,Israel,Azerbaijan
+91,41,0.748331477,Netherlands,Estonia
+108,98,6.633249581,Russia,Pakistan
+45,121,5.873670062,France,Spain
+62,4,0.424264069,Italy,Argentina
+139,50,4.647580015,United States,Greece
+45,50,4.582575695,France,Greece
+139,54,0.948683298,United States,Honduras
+139,34,5.585696018,United States,Denmark
+133,134,9.643650761,Turkey,Turkmenistan
+124,130,2.236067977,Sweden,Thailand
+124,130,2.738612788,Sweden,Thailand
+139,91,2.828427125,United States,Netherlands
+139,59,6.292853089,United States,Iraq
+108,56,2,Russia,India
+62,56,1.658312395,Italy,India
+139,65,1.732050808,United States,Jordan
+108,5,2,Russia,Armenia
+108,5,8.660254038,Russia,Armenia
+108,59,4,Russia,Iraq
+139,13,1.095445115,United States,Belgium
+139,86,5.916079783,United States,Morocco
+139,59,1.732050808,United States,Iraq
+139,59,2.738612788,United States,Iraq
+7,110,1.870828693,Austria,Saudi Arabia
+139,106,2.738612788,United States,Republic of Korea
+34,75,2.828427125,Denmark,Lithuania
+45,57,3.872983346,France,Indonesia
+138,57,4.123105626,United Kingdom,Indonesia
+45,57,4.242640687,France,Indonesia
+138,79,3.794733192,United Kingdom,Malaysia
+139,110,3.535533906,United States,Saudi Arabia
+45,110,2.549509757,France,Saudi Arabia
+45,110,3.16227766,France,Saudi Arabia
+139,110,3.464101615,United States,Saudi Arabia
+108,11,7.71362431,Russia,Bangladesh
+139,21,1.341640786,United States,Burundi
+139,110,4.69041576,United States,Saudi Arabia
+139,23,2.738612788,United States,Canada
+139,64,7.416198487,United States,Japan
+139,106,7.745966692,United States,Republic of Korea
+106,103,3.271085447,Republic of Korea,Poland
+139,84,5.385164807,United States,Mexico
+108,59,5.477225575,Russia,Iraq
+62,81,2.449489743,Italy,Malta
+139,84,2.34520788,United States,Mexico
+139,84,2.898275349,United States,Mexico
+23,84,1.897366596,Canada,Mexico
+139,84,4.732863826,United States,Mexico
+139,84,1.224744871,United States,Mexico
+45,101,7.071067812,France,Peru
+108,128,2.792848009,Russia,Tajikistan
+61,62,5.916079783,Israel,Italy
+108,69,3,Russia,Kyrgyzstan
+139,106,5.291502622,United States,Republic of Korea
+138,139,3.464101615,United Kingdom,United States
+139,110,11.74734012,United States,Saudi Arabia
+139,138,4.732863826,United States,United Kingdom
+45,2,2.387467277,France,Algeria
+139,72,0.948683298,United States,Lebanon
+137,98,1.949358869,Ukraine,Pakistan
+62,17,4.183300133,Italy,Brazil
+61,17,2.449489743,Israel,Brazil
+23,79,1.732050808,Canada,Malaysia
+62,110,8.062257748,Italy,Saudi Arabia
+45,79,1.449137675,France,Malaysia
+62,130,6,Italy,Thailand
+48,65,4.236980057,Germany,Jordan
+125,98,2.121320344,Switzerland,Pakistan
+48,124,6.595452979,Germany,Sweden
+108,27,2.738612788,Russia,China
+48,62,2.236067977,Germany,Italy
+27,88,9.695359715,China,Myanmar
+27,134,2.449489743,China,Turkmenistan
+27,134,1.224744871,China,Turkmenistan
+27,134,1.732050808,China,Turkmenistan
+27,134,2.738612788,China,Turkmenistan
+27,134,3.464101615,China,Turkmenistan
+27,134,8.660254038,China,Turkmenistan
+27,134,2.915475947,China,Turkmenistan
+27,130,6.8556546,China,Thailand
+27,88,4.123105626,China,Myanmar
+27,130,2.915475947,China,Thailand
+139,62,6.32455532,United States,Italy
+61,56,11.61895004,Israel,India
+61,106,3,Israel,Republic of Korea
+133,8,3,Turkey,Azerbaijan
+139,97,1.414213562,United States,Oman
+45,80,0.836660027,France,Mali
+23,80,1.414213562,Canada,Mali
+61,8,6.8556546,Israel,Azerbaijan
+27,98,6.761656602,China,Pakistan
+23,101,1.897366596,Canada,Peru
+133,134,2.181742423,Turkey,Turkmenistan
+48,130,1.095445115,Germany,Thailand
+139,64,2.449489743,United States,Japan
+139,98,1.341640786,United States,Pakistan
+137,130,1.148912529,Ukraine,Thailand
+48,91,7.707139547,Germany,Netherlands
+108,56,10.95445115,Russia,India
+45,38,4.472135955,France,Egypt
+108,2,20.97617696,Russia,Algeria
+45,130,3.872983346,France,Thailand
+45,141,5.477225575,France,Uzbekistan
+139,125,1.095445115,United States,Switzerland
+139,13,1.643167673,United States,Belgium
+61,115,3.535533906,Israel,Singapore
+45,56,4,France,India
+135,134,0.6,UAE,Turkmenistan
+106,102,1.732050808,Republic of Korea,Philippines
+61,8,5.099019514,Israel,Azerbaijan
+61,8,1.414213562,Israel,Azerbaijan
+61,8,1.264911064,Israel,Azerbaijan
+108,27,3.872983346,Russia,China
+108,27,2.738612788,Russia,China
+108,27,7.348469228,Russia,China
+108,27,5.196152423,Russia,China
+138,71,0.997997996,United Kingdom,Latvia
+61,143,3.16227766,Israel,Viet Nam
+108,17,2.19089023,Russia,Brazil
+56,88,2.449489743,India,Myanmar
+32,134,1.341640786,Czechia,Turkmenistan
+139,110,2.449489743,United States,Saudi Arabia
+108,27,8.062257748,Russia,China
+48,134,3.464101615,Germany,Turkmenistan
+108,2,8.774964387,Russia,Algeria
+45,38,2.828427125,France,Egypt
+108,56,11.83215957,Russia,India
+27,123,2.828427125,China,Sudan
+45,84,3.872983346,France,Mexico
+61,84,2,Israel,Mexico
+61,84,4.582575695,Israel,Mexico
+139,45,3.872983346,United States,France
+139,84,2.437211521,United States,Mexico
+139,64,2.236067977,United States,Japan
+48,135,2.121320344,Germany,UAE
+91,23,3.16227766,Netherlands,Canada
+27,11,6.708203932,China,Bangladesh
+139,75,0.707106781,United States,Lithuania
+62,134,2.236067977,Italy,Turkmenistan
+139,41,1.264911064,United States,Estonia
+45,27,5.291502622,France,China
+137,57,1.414213562,Ukraine,Indonesia
+108,11,2.598076211,Russia,Bangladesh
+139,64,3.16227766,United States,Japan
+61,143,1.449137675,Israel,Viet Nam
+121,59,5.61248608,Spain,Iraq
+121,38,6.92820323,Spain,Egypt
+23,38,2.828427125,Canada,Egypt
+27,67,2.236067977,China,Kenya
+139,79,0.547722558,United States,Malaysia
+45,79,3,France,Malaysia
+138,79,2.915475947,United Kingdom,Malaysia
+139,6,3.741657387,United States,Australia
+139,6,2.19089023,United States,Australia
+27,130,1.732050808,China,Thailand
+27,130,1.414213562,China,Thailand
+27,98,2.738612788,China,Pakistan
+139,4,1.341640786,United States,Argentina
+48,95,2,Germany,Nigeria
+48,46,0.374165739,Germany,Gabon
+13,10,1.732050808,Belgium,Bahrain
+13,57,2,Belgium,Indonesia
+137,57,1.095445115,Ukraine,Indonesia
+139,135,2.097617696,United States,UAE
+139,121,1.338656042,United States,Spain
+139,30,0.876356092,United States,Croatia
+139,110,2,United States,Saudi Arabia
+139,65,0.894427191,United States,Jordan
+139,84,3.741657387,United States,Mexico
+61,8,3,Israel,Azerbaijan
+108,80,4.795831523,Russia,Mali
+139,48,1.414213562,United States,Germany
+108,56,2.449489743,Russia,India
+139,91,1.949358869,United States,Netherlands
+108,2,15.49193338,Russia,Algeria
+121,6,22.3383079,Spain,Australia
+48,106,2.828427125,Germany,Republic of Korea
+108,58,4.898979486,Russia,Iran
+91,129,4.472135955,Netherlands,Tanzania
+62,26,1.024695077,Italy,Chile
+45,17,5.477225575,France,Brazil
+19,59,7.348469228,Bulgaria,Iraq
+108,11,5.809475019,Russia,Bangladesh
+45,57,2.792848009,France,Indonesia
+119,3,2.13541565,South Africa,Angola
+104,107,1.61245155,Portugal,Romania
+139,34,1.788854382,United States,Denmark
+139,6,6.316644679,United States,Australia
+45,46,1.624807681,France,Gabon
+139,6,4.472135955,United States,Australia
+139,6,2.738612788,United States,Australia
+139,6,5.477225575,United States,Australia
+139,6,3.741657387,United States,Australia
+62,7,1.816590212,Italy,Austria
+48,7,2.121320344,Germany,Austria
+2,144,0.547722558,Algeria,Western Sahara
+139,23,3.872983346,United States,Canada
+44,103,3.405877273,Finland,Poland
+139,91,2.828427125,United States,Netherlands
+139,13,1.643167673,United States,Belgium
+27,3,1.224744871,China,Angola
+139,23,2.870540019,United States,Canada
+91,57,14.98332406,Netherlands,Indonesia
+48,57,7.445804188,Germany,Indonesia
+124,57,0.447213595,Sweden,Indonesia
+23,101,1.549193338,Canada,Peru
+7,20,0.707106781,Austria,Burkina Faso
+137,142,7.483314774,Ukraine,Venezuela
+62,4,0.734846923,Italy,Argentina
+138,62,2.828427125,United Kingdom,Italy
+97,31,2.650283004,Oman,Cyprus
+135,2,1.224744871,UAE,Algeria
+45,115,10,France,Singapore
+139,105,12.84523258,United States,Qatar
+6,91,1.264911064,Australia,Netherlands
+139,64,14.83239697,United States,Japan
+139,62,8.94427191,United States,Italy
+139,84,9.708243919,United States,Mexico
+62,57,2.34520788,Italy,Indonesia
+119,110,1.326649916,South Africa,Saudi Arabia
+32,59,3.16227766,Czechia,Iraq
+139,6,4.472135955,United States,Australia
+106,79,6.08276253,Republic of Korea,Malaysia
+139,6,6.345076832,United States,Australia
+139,59,1.428285686,United States,Iraq
+139,110,6,United States,Saudi Arabia
+47,110,2.62488095,Georgia,Saudi Arabia
+139,23,9.521029356,United States,Canada
+124,103,2.049390153,Sweden,Poland
+139,105,15.8113883,United States,Qatar
+45,62,3.16227766,France,Italy
+139,132,4.647580015,United States,Tunisia
+139,56,2.28035085,United States,India
+125,98,2.121320344,Switzerland,Pakistan
+139,101,1.732050808,United States,Peru
+34,28,1,Denmark,Colombia
+44,28,2,Finland,Colombia
+62,28,1.58113883,Italy,Colombia
+139,106,3.872983346,United States,Republic of Korea
+139,106,4.242640687,United States,Republic of Korea
+139,106,7.745966692,United States,Republic of Korea
+61,143,4.472135955,Israel,Viet Nam
+61,56,18.97366596,Israel,India
+139,135,6.260990337,United States,UAE
+48,135,2.121320344,Germany,UAE
+139,135,3.633180425,United States,UAE
+62,101,4,Italy,Peru
+117,59,0.4,Slovenia,Iraq
+92,101,2.479919354,New Zealand,Peru
+116,80,1.8,Slovakia,Mali
+116,110,1.697056275,Slovakia,Saudi Arabia
+119,111,1.6,South Africa,Senegal
+45,38,6.32455532,France,Egypt
+139,135,13.6381817,United States,UAE
+48,106,14.44299138,Germany,Republic of Korea
+48,133,2,Germany,Turkey
+62,133,1.658312395,Italy,Turkey
+91,133,3.535533906,Netherlands,Turkey
+139,133,2.645751311,United States,Turkey
+108,56,14.14213562,Russia,India
+133,110,3.605551275,Turkey,Saudi Arabia
+139,110,1.414213562,United States,Saudi Arabia
+112,95,1.565247584,Serbia,Nigeria
+139,138,12.24744871,United States,United Kingdom
+139,97,4.613025038,United States,Oman
+121,97,3.605551275,Spain,Oman
+48,115,6.033241252,Germany,Singapore
+133,132,3.449637662,Turkey,Tunisia
+121,79,8.544003745,Spain,Malaysia
+56,83,4.341658669,India,Mauritius
+121,17,3.464101615,Spain,Brazil
+133,98,2.828427125,Turkey,Pakistan
+45,57,5.477225575,France,Indonesia
+139,59,1.732050808,United States,Iraq
+17,72,2.408318916,Brazil,Lebanon
+139,6,1.870828693,United States,Australia
+45,110,3.16227766,France,Saudi Arabia
+139,110,8.366600265,United States,Saudi Arabia
+139,110,11.18033989,United States,Saudi Arabia
+45,110,2.549509757,France,Saudi Arabia
+58,126,2.121320344,Iran,Syria
+133,134,4.472135955,Turkey,Turkmenistan
+62,134,1.58113883,Italy,Turkmenistan
+139,127,19.89974874,United States,Taiwan
+139,0,1,United States,Afghanistan
+45,57,1.341640786,France,Indonesia
+45,57,1.643167673,France,Indonesia
+139,101,0.979795897,United States,Peru
+135,95,2.19089023,UAE,Nigeria
+108,12,6.363961031,Russia,Belarus
+139,65,3.853569774,United States,Jordan
+139,106,3.478505426,United States,Republic of Korea
+137,57,0.754983444,Ukraine,Indonesia
+139,61,4.795831523,United States,Israel
+17,138,2.626785107,Brazil,United Kingdom
+138,97,8.94427191,United Kingdom,Oman
+91,84,5.477225575,Netherlands,Mexico
+108,5,3,Russia,Armenia
+108,8,4.69041576,Russia,Azerbaijan
+45,56,6.32455532,France,India
+139,110,5.477225575,United States,Saudi Arabia
+45,22,1.058300524,France,Cameroon
+48,133,4.898979486,Germany,Turkey
+48,79,3.464101615,Germany,Malaysia
+48,68,2.19089023,Germany,Kuwait
+133,68,3.286335345,Turkey,Kuwait
+48,124,5.385164807,Germany,Sweden
+45,121,5.291502622,France,Spain
+45,6,3.872983346,France,Australia
+138,57,5.049752469,United Kingdom,Indonesia
+45,57,5.196152423,France,Indonesia
+106,133,2.387467277,Republic of Korea,Turkey
+139,135,4.472135955,United States,UAE
+139,135,5.585696018,United States,UAE
+139,71,3.31662479,United States,Latvia
+139,110,5.700877125,United States,Saudi Arabia
+139,110,10.48808848,United States,Saudi Arabia
+139,84,3.346640106,United States,Mexico
+61,62,7.071067812,Israel,Italy
+138,62,3.464101615,United Kingdom,Italy
+61,56,11.61895004,Israel,India
+61,139,1.58113883,Israel,United States
+61,88,3.240370349,Israel,Myanmar
+61,139,7.071067812,Israel,United States
+45,6,2.828427125,France,Australia
+45,6,2,France,Australia
+62,2,6.892024376,Italy,Algeria
+139,107,3,United States,Romania
+139,6,2.19089023,United States,Australia
+108,56,5.477225575,Russia,India
+139,41,1.264911064,United States,Estonia
+27,98,2.236067977,China,Pakistan
+27,98,1.414213562,China,Pakistan
+124,71,1.414213562,Sweden,Latvia
+119,2,2.645751311,South Africa,Algeria
+139,45,2.645751311,United States,France
+27,98,3.16227766,China,Pakistan
+139,130,2.449489743,United States,Thailand
+139,79,1.816590212,United States,Malaysia
+125,6,7,Switzerland,Australia
+125,60,1.5,Switzerland,Ireland
+106,103,3.870400496,Republic of Korea,Poland
+108,69,2.607680962,Russia,Kyrgyzstan
+108,69,2.449489743,Russia,Kyrgyzstan
+139,84,1.224744871,United States,Mexico
+108,27,7.745966692,Russia,China
+139,126,0.836660027,United States,Syria
+119,3,1.997498436,South Africa,Angola
+139,64,1.529705854,United States,Japan
+139,75,0.707106781,United States,Lithuania
+48,75,1.496662955,Germany,Lithuania
+98,105,1.326649916,Pakistan,Qatar
+45,84,5.477225575,France,Mexico
+121,133,12.08304597,Spain,Turkey
+91,135,12.92284798,Netherlands,UAE
+32,139,6.32455532,Czechia,United States
+23,6,2.449489743,Canada,Australia
+139,133,3.794733192,United States,Turkey
+125,130,2.449489743,Switzerland,Thailand
+48,106,2.19089023,Germany,Republic of Korea
+138,71,1.288409873,United Kingdom,Latvia
+108,11,7.71362431,Russia,Bangladesh
+139,72,3.919183588,United States,Lebanon
+139,56,4.959838707,United States,India
+34,104,2.828427125,Denmark,Portugal
+48,23,5.408326913,Germany,Canada
+139,133,3.741657387,United States,Turkey
+139,132,5.385164807,United States,Tunisia
+139,72,1.549193338,United States,Lebanon
+139,56,15,United States,India
+139,72,1.183215957,United States,Lebanon
+135,68,3.872983346,UAE,Kuwait
+139,45,2.738612788,United States,France
+139,44,1.414213562,United States,Finland
+139,143,7.348469228,United States,Viet Nam
+45,38,4.472135955,France,Egypt
+27,98,3.16227766,China,Pakistan
+139,125,1.095445115,United States,Switzerland
+27,29,2,China,Cote d'Ivoire
+12,143,4.74341649,Belarus,Viet Nam
+119,79,1.732050808,South Africa,Malaysia
+119,79,3.464101615,South Africa,Malaysia
+45,38,14.6628783,France,Egypt
+48,79,2.34520788,Germany,Malaysia
+124,118,0.509901951,Sweden,Somalia
+124,136,0.583095189,Sweden,Uganda
+124,80,0.316227766,Sweden,Mali
+124,110,1.191637529,Sweden,Saudi Arabia
+124,132,0.282842712,Sweden,Tunisia
+139,95,1.788854382,United States,Nigeria
+139,95,1.264911064,United States,Nigeria
+108,38,9.486832981,Russia,Egypt
+108,38,6.123724357,Russia,Egypt
+108,38,4.74341649,Russia,Egypt
+108,38,10.95445115,Russia,Egypt
+108,38,7.745966692,Russia,Egypt
+108,38,6.708203932,Russia,Egypt
+61,28,3.16227766,Israel,Colombia
+62,17,1.414213562,Italy,Brazil
+108,2,17.60681686,Russia,Algeria
+139,66,1.760681686,United States,Kazakhstan
+112,11,3,Serbia,Bangladesh
+139,4,2.48997992,United States,Argentina
+45,139,3.741657387,France,United States
+108,143,13.22875656,Russia,Viet Nam
+62,38,1.658312395,Italy,Egypt
+91,38,3.535533906,Netherlands,Egypt
+27,118,1.29614814,China,Somalia
+27,146,1.483239697,China,Zambia
+27,146,0.707106781,China,Zambia
+106,138,11.53256259,Republic of Korea,United Kingdom
+44,138,2.645751311,Finland,United Kingdom
+91,9,3.405877273,Netherlands,Bahamas
+139,64,5.291502622,United States,Japan
+108,98,6.782329983,Russia,Pakistan
+139,4,2.366431913,United States,Argentina
+23,4,1.549193338,Canada,Argentina
+108,27,3.872983346,Russia,China
+108,27,7.348469228,Russia,China
+108,27,5.196152423,Russia,China
+108,38,23.71708245,Russia,Egypt
+108,98,6.633249581,Russia,Pakistan
+108,143,4.062019202,Russia,Viet Nam
+27,146,4.774934555,China,Zambia
+108,8,6.480740698,Russia,Azerbaijan
+138,139,4.898979486,United Kingdom,United States
+108,27,2.738612788,Russia,China
+116,8,3.446737588,Slovakia,Azerbaijan
+45,95,2.683281573,France,Nigeria
+108,112,7.549834435,Russia,Serbia
+108,66,10.48808848,Russia,Kazakhstan
+12,123,2.13541565,Belarus,Sudan
+12,134,1.039230485,Belarus,Turkmenistan
+48,138,3.122498999,Germany,United Kingdom
+108,38,3.872983346,Russia,Egypt
+121,11,3.464101615,Spain,Bangladesh
+108,27,3.872983346,Russia,China
+139,98,1.341640786,United States,Pakistan
+61,56,2.179449472,Israel,India
+108,56,1.414213562,Russia,India
+45,56,2.828427125,France,India
+139,138,23.23790008,United States,United Kingdom
+91,41,0.748331477,Netherlands,Estonia
+91,41,1.183215957,Netherlands,Estonia
+139,64,2.236067977,United States,Japan
+91,57,14.98332406,Netherlands,Indonesia
+48,130,2.828427125,Germany,Thailand
+61,8,3,Israel,Azerbaijan
+96,139,2.449489743,Norway,United States
+139,116,1.732050808,United States,Slovakia
+139,106,2,United States,Republic of Korea
+116,22,2.607680962,Slovakia,Cameroon
+27,98,10,China,Pakistan
+139,28,0.948683298,United States,Colombia
+139,50,7.09929574,United States,Greece
+139,115,3.033150178,United States,Singapore
+139,23,0.591607978,United States,Canada
+48,6,4.5,Germany,Australia
+48,6,3.354101966,Germany,Australia
+48,130,2.449489743,Germany,Thailand
+48,96,1.5,Germany,Norway
+133,134,7.874007874,Turkey,Turkmenistan
+62,134,2.236067977,Italy,Turkmenistan
+48,134,2.828427125,Germany,Turkmenistan
+133,10,2.355843798,Turkey,Bahrain
+139,34,1.414213562,United States,Denmark
+91,138,3.872983346,Netherlands,United Kingdom
+45,122,2.828427125,France,Sri Lanka
+108,2,4,Russia,Algeria
+139,115,1.414213562,United States,Singapore
+139,44,2.683281573,United States,Finland
+139,61,6.32455532,United States,Israel
+108,5,1.549193338,Russia,Armenia
+108,27,8.062257748,Russia,China
+27,98,4.472135955,China,Pakistan
+139,64,3.16227766,United States,Japan
+138,10,5.291502622,United Kingdom,Bahrain
+17,72,2.966479395,Brazil,Lebanon
+139,17,1.897366596,United States,Brazil
+48,105,2.738612788,Germany,Qatar
+139,106,2.34520788,United States,Republic of Korea
+48,139,8.455767263,Germany,United States
+48,110,5.700877125,Germany,Saudi Arabia
+139,110,7.416198487,United States,Saudi Arabia
+139,45,6.123724357,United States,France
+45,65,1.58113883,France,Jordan
+23,65,2.19089023,Canada,Jordan
+139,10,1.523154621,United States,Bahrain
+124,130,2,Sweden,Thailand
+62,130,3.464101615,Italy,Thailand
+27,130,1.732050808,China,Thailand
+108,56,11.83215957,Russia,India
+32,55,0.529150262,Czechia,Hungary
+116,111,3.193743885,Slovakia,Senegal
+27,11,11.3137085,China,Bangladesh
+45,56,2.323790008,France,India
+61,103,1.732050808,Israel,Poland
+45,56,9.643650761,France,India
+48,65,3.177735042,Germany,Jordan
+108,2,2,Russia,Algeria
+108,2,8.660254038,Russia,Algeria
+139,98,2.727636339,United States,Pakistan
+139,130,2.366431913,United States,Thailand
+139,96,3.286335345,United States,Norway
+124,135,2.236067977,Sweden,UAE
+135,74,2.121320344,UAE,Libya
+124,84,1.58113883,Sweden,Mexico
+34,84,1,Denmark,Mexico
+34,84,1,Denmark,Mexico
+23,99,1.58113883,Canada,Panama
+62,99,3.464101615,Italy,Panama
+27,123,5.477225575,China,Sudan
+48,56,3,Germany,India
+125,65,6.260990337,Switzerland,Jordan
+139,62,2.449489743,United States,Italy
+48,115,9.674709298,Germany,Singapore
+23,110,1.414213562,Canada,Saudi Arabia
+139,56,2.569046516,United States,India
+57,111,2.863564213,Indonesia,Senegal
+139,65,0.632455532,United States,Jordan
+139,79,0.547722558,United States,Malaysia
+104,107,7.511990415,Portugal,Romania
+27,116,3.633180425,China,Slovakia
+108,66,5.338539126,Russia,Kazakhstan
+108,66,5.338539126,Russia,Kazakhstan
+119,65,1.264911064,South Africa,Jordan
+139,28,2.366431913,United States,Colombia
+108,38,5.477225575,Russia,Egypt
+27,11,8.660254038,China,Bangladesh
+6,57,5.796550698,Australia,Indonesia
+138,28,0.774596669,United Kingdom,Colombia
+48,62,2.236067977,Germany,Italy
+139,62,6.32455532,United States,Italy
+65,67,3,Jordan,Kenya
+139,57,1.870828693,United States,Indonesia
+137,130,2.39582971,Ukraine,Thailand
+119,66,2.75680975,South Africa,Kazakhstan
+61,107,2.170253441,Israel,Romania
+23,110,2,Canada,Saudi Arabia
+139,86,19.18332609,United States,Morocco
+45,121,5.873670062,France,Spain
+32,55,0.583095189,Czechia,Hungary
+139,56,2.097617696,United States,India
+139,135,9.797958971,United States,UAE
+45,27,5.656854249,France,China
+45,16,1.58113883,France,Botswana
+98,95,1.048808848,Pakistan,Nigeria
+98,95,0.938083152,Pakistan,Nigeria
+108,126,1.897366596,Russia,Syria
+48,56,0.824621125,Germany,India
+13,57,0.894427191,Belgium,Indonesia
+139,57,0.565685425,United States,Indonesia
+62,4,1.341640786,Italy,Argentina
+108,38,3.354101966,Russia,Egypt
+23,4,2.738612788,Canada,Argentina
+30,48,1.643167673,Croatia,Germany
+27,98,7.559761901,China,Pakistan
+137,98,2.179449472,Ukraine,Pakistan
+108,5,3,Russia,Armenia
+27,57,3.16227766,China,Indonesia
+13,57,1.788854382,Belgium,Indonesia
+23,17,1.414213562,Canada,Brazil
+133,8,2.683281573,Turkey,Azerbaijan
+108,123,4.874423043,Russia,Sudan
+45,121,2.692582404,France,Spain
+139,136,3.937003937,United States,Uganda
+139,72,3.049590136,United States,Lebanon
+61,23,5,Israel,Canada
+62,98,2.449489743,Italy,Pakistan
+7,6,0.447213595,Austria,Australia
+139,132,2.366431913,United States,Tunisia
+139,133,2,United States,Turkey
+108,5,2,Russia,Armenia
+62,65,4.647580015,Italy,Jordan
+12,59,5.253570215,Belarus,Iraq
+12,123,1.549193338,Belarus,Sudan
+139,84,3.807886553,United States,Mexico
+27,135,4.472135955,China,UAE
+27,110,4.472135955,China,Saudi Arabia
+27,89,5.744562647,China,Namibia
+139,62,7.745966692,United States,Italy
+139,130,2.966479395,United States,Thailand
+45,4,4.472135955,France,Argentina
+138,48,3.16227766,United Kingdom,Germany
+58,145,4.472135955,Iran,Yemen
+108,5,2.19089023,Russia,Armenia
+133,97,0.836660027,Turkey,Oman
+139,61,5.099019514,United States,Israel
+108,27,16.1245155,Russia,China
+62,17,5.123475383,Italy,Brazil
+139,50,7.429670248,United States,Greece
+61,48,3,Israel,Germany
+61,48,1.224744871,Israel,Germany
+139,6,4.472135955,United States,Australia
+139,121,2,United States,Spain
+139,121,1.897366596,United States,Spain
+138,17,11.66190379,United Kingdom,Brazil
+139,62,3.16227766,United States,Italy
+139,62,1.58113883,United States,Italy
+139,22,1.341640786,United States,Cameroon
+139,0,0.894427191,United States,Afghanistan
+139,23,2.738612788,United States,Canada
+139,17,2.19089023,United States,Brazil
+106,79,6.08276253,Republic of Korea,Malaysia
+34,79,1.732050808,Denmark,Malaysia
+34,79,1.732050808,Denmark,Malaysia
+45,122,2.828427125,France,Sri Lanka
+139,84,0.948683298,United States,Mexico
+139,1,1.863330352,United States,Albania
+139,1,0.916515139,United States,Albania
+139,10,2.019900988,United States,Bahrain
+62,96,3.741657387,Italy,Norway
+139,6,20.97617696,United States,Australia
+108,143,13.22875656,Russia,Viet Nam
+108,143,4.062019202,Russia,Viet Nam
+139,6,6.316644679,United States,Australia
+48,57,0.692820323,Germany,Indonesia
+48,57,4.472135955,Germany,Indonesia
+91,132,11.5758369,Netherlands,Tunisia
+121,115,14,Spain,Singapore
+23,110,2.828427125,Canada,Saudi Arabia
+139,137,2.049390153,United States,Ukraine
+139,57,1.870828693,United States,Indonesia
+139,57,1.643167673,United States,Indonesia
+48,106,2,Germany,Republic of Korea
+48,57,0.692820323,Germany,Indonesia
+48,57,4.472135955,Germany,Indonesia
+17,138,2.144761059,Brazil,United Kingdom
+23,138,2.449489743,Canada,United Kingdom
+13,88,0.529150262,Belgium,Myanmar
+137,130,3.388214869,Ukraine,Thailand
+48,130,0.64807407,Germany,Thailand
+48,130,0.916515139,Germany,Thailand
+27,123,5.477225575,China,Sudan
+139,133,10.48808848,United States,Turkey
+61,130,2.828427125,Israel,Thailand
+121,133,12.08304597,Spain,Turkey
+6,100,2.645751311,Australia,Papua New Guinea
+139,106,18.16590212,United States,Republic of Korea
+48,139,9.192388155,Germany,United States
+108,2,22.8035085,Russia,Algeria
+48,133,4.898979486,Germany,Turkey
+139,138,3.741657387,United States,United Kingdom
+139,45,6.123724357,United States,France
+108,5,2,Russia,Armenia
+119,66,2.387467277,South Africa,Kazakhstan
+6,92,0.707106781,Australia,New Zealand
+139,91,0.447213595,United States,Netherlands
+139,91,0.632455532,United States,Netherlands
+139,91,0.632455532,United States,Netherlands
+45,111,1.2489996,France,Senegal
+27,111,4.415880433,China,Senegal
+32,139,5.291502622,Czechia,United States
+139,65,3.872983346,United States,Jordan
+139,65,3.872983346,United States,Jordan
+139,135,7.874007874,United States,UAE
+139,62,6.32455532,United States,Italy
+108,8,2.097617696,Russia,Azerbaijan
+108,8,3.741657387,Russia,Azerbaijan
+45,50,4.582575695,France,Greece
+48,105,1.449137675,Germany,Qatar
+139,30,1.414213562,United States,Croatia
+133,8,1.897366596,Turkey,Azerbaijan
+133,11,1.732050808,Turkey,Bangladesh
+133,126,0.979795897,Turkey,Syria
+139,133,1.58113883,United States,Turkey
+139,133,7.582875444,United States,Turkey
+139,64,4.242640687,United States,Japan
+139,64,3.794733192,United States,Japan
+139,64,1.095445115,United States,Japan
+139,64,2.449489743,United States,Japan
+17,72,4.195235393,Brazil,Lebanon
+61,8,1.732050808,Israel,Azerbaijan
+61,8,1.732050808,Israel,Azerbaijan
+139,42,3.098386677,United States,Ethiopia
+106,101,9.28170243,Republic of Korea,Peru
+48,7,2,Germany,Austria
+12,8,3,Belarus,Azerbaijan
+61,8,1.897366596,Israel,Azerbaijan
+61,8,9.219544457,Israel,Azerbaijan
+91,45,3.535533906,Netherlands,France
+139,135,4.472135955,United States,UAE
+91,23,1.58113883,Netherlands,Canada
+124,23,2.236067977,Sweden,Canada
+139,64,14.83239697,United States,Japan
+48,96,2.121320344,Germany,Norway
+139,86,17.88854382,United States,Morocco
+139,10,0.352136337,United States,Bahrain
+139,72,2.2627417,United States,Lebanon
+139,59,2.473863375,United States,Iraq
+57,102,2.75680975,Indonesia,Philippines
+108,2,4,Russia,Algeria
+124,138,3.872983346,Sweden,United Kingdom
+124,138,3.872983346,Sweden,United Kingdom
+56,113,1.816590212,India,Seychelles
+139,62,3.464101615,United States,Italy
+139,91,2.828427125,United States,Netherlands
+139,110,8.972179222,United States,Saudi Arabia
+7,6,0.447213595,Austria,Australia
+45,37,1.341640786,France,Ecuador
+45,56,1.483239697,France,India
+138,56,2,United Kingdom,India
+19,3,1.794435844,Bulgaria,Angola
+45,90,0.948683298,France,Nepal
+45,41,1.732050808,France,Estonia
+48,65,5.296225071,Germany,Jordan
+48,110,6.5,Germany,Saudi Arabia
+139,45,2.645751311,United States,France
+61,111,1.148912529,Israel,Senegal
+61,23,7.90569415,Israel,Canada
+48,23,3.354101966,Germany,Canada
+108,38,21.21320344,Russia,Egypt
+135,68,3.872983346,UAE,Kuwait
+139,138,13.41640786,United States,United Kingdom
+139,10,0.565685425,United States,Bahrain
+108,10,3.16227766,Russia,Bahrain
+62,65,7.09929574,Italy,Jordan
+139,65,2.828427125,United States,Jordan
+139,110,6.92820323,United States,Saudi Arabia
+139,110,3.464101615,United States,Saudi Arabia
+23,0,1.897366596,Canada,Afghanistan
+121,6,22.3383079,Spain,Australia
+139,6,5.477225575,United States,Australia
+139,6,1.870828693,United States,Australia
+139,6,2.738612788,United States,Australia
+139,6,3.741657387,United States,Australia
+139,122,7.348469228,United States,Sri Lanka
+103,75,0.894427191,Poland,Lithuania
+103,75,2.529822128,Poland,Lithuania
+27,11,2.121320344,China,Bangladesh
+27,98,7.1330218,China,Pakistan
+27,130,1.414213562,China,Thailand
+27,130,1.414213562,China,Thailand
+17,26,5.138093031,Brazil,Chile
+48,65,0.894427191,Germany,Jordan
+106,133,2.387467277,Republic of Korea,Turkey
+61,102,1.58113883,Israel,Philippines
+124,29,0.424264069,Sweden,Cote d'Ivoire
+139,0,1.414213562,United States,Afghanistan
+48,23,6.708203932,Germany,Canada
+48,23,4.242640687,Germany,Canada
+119,136,0.866025404,South Africa,Uganda
+119,136,0.866025404,South Africa,Uganda
+119,136,0.866025404,South Africa,Uganda
+139,17,4.898979486,United States,Brazil
+139,105,12.84523258,United States,Qatar
+62,115,2.34520788,Italy,Singapore
+45,115,3.16227766,France,Singapore
+62,140,2,Italy,Uruguay
+103,37,1.658312395,Poland,Ecuador
+139,132,2.846049894,United States,Tunisia
+139,106,7.416198487,United States,Republic of Korea
+61,101,2.887905816,Israel,Peru
+27,90,0.748331477,China,Nepal
+27,90,2.84956137,China,Nepal
+108,27,6.92820323,Russia,China
+61,75,1.224744871,Israel,Lithuania
+61,103,3,Israel,Poland
+48,132,1,Germany,Tunisia
+139,132,1.122497216,United States,Tunisia
+138,110,6.708203932,United Kingdom,Saudi Arabia
+139,110,5.700877125,United States,Saudi Arabia
+45,130,3.872983346,France,Thailand
+12,29,1.13137085,Belarus,Cote d'Ivoire
+106,138,16.30950643,Republic of Korea,United Kingdom
+139,135,15.8492902,United States,UAE
+139,0,1,United States,Afghanistan
+139,105,15.8113883,United States,Qatar
+139,110,10.48808848,United States,Saudi Arabia
+139,110,11.18033989,United States,Saudi Arabia
+139,110,5,United States,Saudi Arabia
+139,135,7.745966692,United States,UAE
+45,47,4.242640687,France,Georgia
+45,47,3.605551275,France,Georgia
+17,53,0.692820323,Brazil,Guyana
+133,77,0.387298335,Turkey,Macedonia
+119,65,1.788854382,South Africa,Jordan
+139,65,0.894427191,United States,Jordan
+108,2,13.6381817,Russia,Algeria
+45,38,4.898979486,France,Egypt
+48,55,5.138093031,Germany,Hungary
+139,64,7.615773106,United States,Japan
+139,110,8.514693183,United States,Saudi Arabia
+139,106,6.6633325,United States,Republic of Korea
+139,110,7.416198487,United States,Saudi Arabia
+139,106,10.48808848,United States,Republic of Korea
+133,97,1.322875656,Turkey,Oman
+133,135,6.403124237,Turkey,UAE
+139,135,2,United States,UAE
+138,62,4.898979486,United Kingdom,Italy
+62,11,3.535533906,Italy,Bangladesh
+62,1,0.489897949,Italy,Albania
+124,98,2,Sweden,Pakistan
+45,121,9.591663047,France,Spain
+135,67,1.697056275,UAE,Kenya
+61,143,4.472135955,Israel,Viet Nam
+62,50,1.039230485,Italy,Greece
+61,84,0.447213595,Israel,Mexico
+135,22,0.529150262,UAE,Cameroon
+133,98,9.38083152,Turkey,Pakistan
+27,11,8.660254038,China,Bangladesh
+27,98,7.559761901,China,Pakistan
+138,71,1.288409873,United Kingdom,Latvia
+138,6,3.16227766,United Kingdom,Australia
+138,6,3.16227766,United Kingdom,Australia
+61,56,11.61895004,Israel,India
+27,88,10.24695077,China,Myanmar
+62,17,1.549193338,Italy,Brazil
+124,98,3.464101615,Sweden,Pakistan
+139,99,3.31662479,United States,Panama
+139,32,0.894427191,United States,Czechia
+139,17,3.098386677,United States,Brazil
+139,116,1.732050808,United States,Slovakia
+125,65,3.130495168,Switzerland,Jordan
+23,65,1.095445115,Canada,Jordan
+23,65,1.095445115,Canada,Jordan
+27,129,1.29614814,China,Tanzania
+48,132,1.414213562,Germany,Tunisia
+106,143,7.745966692,Republic of Korea,Viet Nam
+139,4,2.366431913,United States,Argentina
+138,45,3.464101615,United Kingdom,France
+61,62,5.916079783,Israel,Italy
+139,23,6.232976817,United States,Canada
+61,102,3.605551275,Israel,Philippines
+61,107,3,Israel,Romania
+108,40,2.598076211,Russia,Equatorial Guinea
+139,44,2.683281573,United States,Finland
+34,104,4,Denmark,Portugal
+32,108,3.872983346,Czechia,Russia
+139,0,2.50998008,United States,Afghanistan
+139,110,5.477225575,United States,Saudi Arabia
+45,38,6.32455532,France,Egypt
+45,56,12.4498996,France,India
+139,64,14.14213562,United States,Japan
+45,105,12.84523258,France,Qatar
+45,121,3.807886553,France,Spain
+44,103,3.405877273,Finland,Poland
+139,103,3.464101615,United States,Poland
+139,103,2.323790008,United States,Poland
+124,103,2.049390153,Sweden,Poland
+96,139,6.618156843,Norway,United States
+139,106,2,United States,Republic of Korea
+48,106,3.098386677,Germany,Republic of Korea
+48,106,2,Germany,Republic of Korea
+48,121,2.828427125,Germany,Spain
+48,135,4,Germany,UAE
+139,64,0.848528137,United States,Japan
+48,138,2.828427125,Germany,United Kingdom
+45,129,3.807886553,France,Tanzania
+108,56,11.83215957,Russia,India
+139,96,4.024922359,United States,Norway
+62,10,2.236067977,Italy,Bahrain
+139,63,2.738612788,United States,Jamaica
+17,140,2.683281573,Brazil,Uruguay
+12,3,1.549193338,Belarus,Angola
+12,3,3.498571137,Belarus,Angola
+45,16,1.58113883,France,Botswana
+45,41,1.732050808,France,Estonia
+45,72,1.341640786,France,Lebanon
+45,72,1.897366596,France,Lebanon
+138,110,3.872983346,United Kingdom,Saudi Arabia
+138,110,6.708203932,United Kingdom,Saudi Arabia
+32,17,0.894427191,Czechia,Brazil
+32,17,0.894427191,Czechia,Brazil
+124,130,2.236067977,Sweden,Thailand
+139,38,3.464101615,United States,Egypt
+139,133,1.183215957,United States,Turkey
+139,133,1.183215957,United States,Turkey
+139,133,1.449137675,United States,Turkey
+139,133,3.741657387,United States,Turkey
+108,38,3.354101966,Russia,Egypt
+108,98,5.93295879,Russia,Pakistan
+108,56,5.477225575,Russia,India
+108,38,5.477225575,Russia,Egypt
+108,38,3.872983346,Russia,Egypt
+138,28,3.193743885,United Kingdom,Colombia
+32,108,3.872983346,Czechia,Russia
+139,97,2.846049894,United States,Oman
+27,80,0.64807407,China,Mali
+108,2,18.16590212,Russia,Algeria
+45,17,5.477225575,France,Brazil
+108,70,4.537840896,Russia,Laos
+135,2,2.549509757,UAE,Algeria
+105,80,1.697056275,Qatar,Mali
+27,70,2.645751311,China,Laos
+48,130,2.738612788,Germany,Thailand
+62,98,4.595650117,Italy,Pakistan
+62,98,5.628498912,Italy,Pakistan
+27,98,3.16227766,China,Pakistan
+139,98,1.13137085,United States,Pakistan
+27,98,3.16227766,China,Pakistan
+23,135,5,Canada,UAE
+138,135,2.738612788,United Kingdom,UAE
+48,135,2.236067977,Germany,UAE
+106,96,10.63014581,Republic of Korea,Norway
+125,6,8.5732141,Switzerland,Australia
+23,6,3,Canada,Australia
+45,121,5.291502622,France,Spain
+139,138,2.645751311,United States,United Kingdom
+108,12,7.071067812,Russia,Belarus
+108,12,5,Russia,Belarus
+45,110,6.32455532,France,Saudi Arabia
+45,110,6.32455532,France,Saudi Arabia
+124,130,2.738612788,Sweden,Thailand
+125,107,1.865475811,Switzerland,Romania
+139,107,0.692820323,United States,Romania
+125,107,2.121320344,Switzerland,Romania
+45,67,1.29614814,France,Kenya
+139,16,1.232882801,United States,Botswana
+45,66,3.605551275,France,Kazakhstan
+139,137,2.19089023,United States,Ukraine
+139,132,5.385164807,United States,Tunisia
+108,143,10.95445115,Russia,Viet Nam
+27,130,6.708203932,China,Thailand
+45,17,4.582575695,France,Brazil
+139,141,1.385640646,United States,Uzbekistan
+139,50,1.897366596,United States,Greece
+139,115,4.582575695,United States,Singapore
+45,115,10,France,Singapore
+13,57,1.516575089,Belgium,Indonesia
+27,2,2.323790008,China,Algeria
+139,130,2.645751311,United States,Thailand
+139,115,0.894427191,United States,Singapore
+139,64,2,United States,Japan
+139,23,2.870540019,United States,Canada
+139,23,1.743559577,United States,Canada
+139,56,1.61245155,United States,India
+139,61,2,United States,Israel
+139,106,2.828427125,United States,Republic of Korea
+23,45,3,Canada,France
+138,98,1.414213562,United Kingdom,Pakistan
+23,4,1.549193338,Canada,Argentina
+139,104,1.414213562,United States,Portugal
+139,57,1.587450787,United States,Indonesia
+139,13,0.734846923,United States,Belgium
+139,135,5.477225575,United States,UAE
+139,110,7.273238618,United States,Saudi Arabia
+139,133,5.366563146,United States,Turkey
+45,110,6.123724357,France,Saudi Arabia
+103,137,2.449489743,Poland,Ukraine
+61,88,3.240370349,Israel,Myanmar
+119,56,4.69041576,South Africa,India
+119,56,4.69041576,South Africa,India
+108,56,1.732050808,Russia,India
+108,56,1.732050808,Russia,India
+45,56,6.32455532,France,India
+48,56,1.341640786,Germany,India
+139,56,2.966479395,United States,India
+139,86,5.744562647,United States,Morocco
+139,61,6.32455532,United States,Israel
+27,98,4.472135955,China,Pakistan
+61,8,2.291287847,Israel,Azerbaijan
+139,91,2,United States,Netherlands
+139,6,3.741657387,United States,Australia
+91,38,3.535533906,Netherlands,Egypt
+45,62,3.16227766,France,Italy
+12,134,0.848528137,Belarus,Turkmenistan
+27,130,1.732050808,China,Thailand
+44,96,2.645751311,Finland,Norway
+44,138,3.741657387,Finland,United Kingdom
+108,27,8.062257748,Russia,China
+108,27,3.872983346,Russia,China
+139,0,1.341640786,United States,Afghanistan
+119,79,3.464101615,South Africa,Malaysia
+139,64,3.741657387,United States,Japan
+139,64,4.472135955,United States,Japan
+124,4,2.236067977,Sweden,Argentina
+108,88,3.633180425,Russia,Myanmar
+139,7,0.547722558,United States,Austria
+27,109,1,China,Rwanda
+27,109,1,China,Rwanda
+135,145,1.58113883,UAE,Yemen
+135,145,2.34520788,UAE,Yemen
+135,145,1.788854382,UAE,Yemen
+135,145,2.34520788,UAE,Yemen
+137,98,2.179449472,Ukraine,Pakistan
+27,57,3.464101615,China,Indonesia
+27,110,6.32455532,China,Saudi Arabia
+27,135,3.872983346,China,UAE
+27,135,3.872983346,China,UAE
+27,135,6.32455532,China,UAE
+56,88,1.732050808,India,Myanmar
+139,106,2.408318916,United States,Republic of Korea
+139,133,1.414213562,United States,Turkey
+139,68,1.009950494,United States,Kuwait
+139,86,1.183215957,United States,Morocco
+139,44,0.4,United States,Finland
+139,64,0.346410162,United States,Japan
+137,11,4.898979486,Ukraine,Bangladesh
+139,38,4.472135955,United States,Egypt
+139,38,3.286335345,United States,Egypt
+139,135,2.373183516,United States,UAE
+139,135,3.559775274,United States,UAE
+139,135,3.577708764,United States,UAE
+139,84,2.049390153,United States,Mexico
+139,84,1.673320053,United States,Mexico
+23,84,1.341640786,Canada,Mexico
+23,84,1.095445115,Canada,Mexico
+139,106,1.483239697,United States,Republic of Korea
+139,68,4.472135955,United States,Kuwait
+139,6,4.472135955,United States,Australia
+7,136,0.591607978,Austria,Uganda
+135,2,1.224744871,UAE,Algeria
+56,113,1.58113883,India,Seychelles
+139,132,4,United States,Tunisia
+45,105,4.472135955,France,Qatar
+61,8,6.32455532,Israel,Azerbaijan
+108,56,23.4520788,Russia,India
+108,56,14.83239697,Russia,India
+139,51,0.948683298,United States,Guatemala
+98,95,0.469041576,Pakistan,Nigeria
+138,86,2,United Kingdom,Morocco
+139,86,2.34520788,United States,Morocco
+139,95,1.897366596,United States,Nigeria
+138,139,4.898979486,United Kingdom,United States
+121,106,9.899494937,Spain,Republic of Korea
+135,2,4.472135955,UAE,Algeria
+48,79,2.213594362,Germany,Malaysia
+27,94,1.673320053,China,Niger
+45,27,3.741657387,France,China
+108,27,3.16227766,Russia,China
+108,27,2.236067977,Russia,China
+108,27,4.242640687,Russia,China
+45,27,5.291502622,France,China
+108,27,1.58113883,Russia,China
+27,128,1.224744871,China,Tajikistan
+108,128,0.64807407,Russia,Tajikistan
+108,128,2.19089023,Russia,Tajikistan
+108,128,2.607680962,Russia,Tajikistan
+108,128,0.6,Russia,Tajikistan
+108,128,1.2,Russia,Tajikistan
+108,128,0.529150262,Russia,Tajikistan
+45,137,1.732050808,France,Ukraine
+108,59,8.514693183,Russia,Iraq
+48,138,1.870828693,Germany,United Kingdom
+61,66,1.183215957,Israel,Kazakhstan
+62,98,3.464101615,Italy,Pakistan
+62,98,4.898979486,Italy,Pakistan
+62,98,8.124038405,Italy,Pakistan
+116,8,3.446737588,Slovakia,Azerbaijan
+61,8,1.732050808,Israel,Azerbaijan
+61,8,2.366431913,Israel,Azerbaijan
+61,8,1.673320053,Israel,Azerbaijan
+139,62,3.646916506,United States,Italy
+139,62,3.646916506,United States,Italy
+139,65,1.224744871,United States,Jordan
+139,135,7.071067812,United States,UAE
+139,72,3.16227766,United States,Lebanon
+139,130,1,United States,Thailand
+139,38,3,United States,Egypt
+139,38,3,United States,Egypt
+139,59,3.633180425,United States,Iraq
+13,57,0.692820323,Belgium,Indonesia
+108,2,3,Russia,Algeria
+45,47,1.58113883,France,Georgia
+108,56,12.64911064,Russia,India
+119,110,0.663324958,South Africa,Saudi Arabia
+108,59,5.477225575,Russia,Iraq
+108,59,5.196152423,Russia,Iraq
+139,50,1.897366596,United States,Greece
+139,98,3.31662479,United States,Pakistan
+62,17,5.123475383,Italy,Brazil
+61,17,2.449489743,Israel,Brazil
+61,17,2.449489743,Israel,Brazil
+61,130,1.414213562,Israel,Thailand
+61,130,1,Israel,Thailand
+139,130,1.673320053,United States,Thailand
+139,130,1.673320053,United States,Thailand
+139,121,3.16227766,United States,Spain
+139,135,4.38178046,United States,UAE
+139,6,2,United States,Australia
+139,6,4.472135955,United States,Australia
+139,6,2.828427125,United States,Australia
+108,12,0.529150262,Russia,Belarus
+139,126,0.547722558,United States,Syria
+139,105,1,United States,Qatar
+108,27,6,Russia,China
+139,64,2.692582404,United States,Japan
+139,64,2.236067977,United States,Japan
+27,123,1.483239697,China,Sudan
+27,123,1.483239697,China,Sudan
+12,123,0.692820323,Belarus,Sudan

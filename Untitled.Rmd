@@ -1,0 +1,83 @@
+---
+title: "clean_a_deal_to_feature_space"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE}
+library(dplyr)
+library(readxl)
+```
+
+## Get SourceID and Target ID to build the network
+
+```{r}
+## Assign id's to countries
+twozeroonesix <- read.csv("2016.csv")
+
+remove <- c("African Union**", "NATO**", "Unknown recipient(s)", "Unknown supplier(s)", "United Nations**")
+edge_with_id <- twozeroonesix %>% filter(!(Source %in% remove) & !(Target %in% remove)) 
+
+s <- unique(as.vector(edge_with_id$Source))
+t <- unique(as.vector(edge_with_id$Target))
+
+init_country <- sort(unique(c(s,t)))
+country <- init_country[!init_country %in% remove]
+
+id = 0:146
+ngo <- data.frame(Id = id, Country = country)
+
+ret_edge_with_id <- edge_with_id %>% 
+  mutate(sourceID = ngo[match(Source, ngo$Country),]$Id, targetID = ngo[match(Target, ngo$Country),]$Id) %>%
+  filter(!((Source %in% remove)|(Target %in% remove))) %>%
+  select(sourceID, targetID, Weights, Source, Target)
+
+colnames(ret_edge_with_id) <- c("sourceID", "targetID", "Weights", "sourceCountry", "targetCountry")
+
+write.csv(ret_edge_with_id, "acna_knn_edges.csv", row.names = FALSE)
+```
+
+### Create Feature Space for ANCA nodes
+
+```{r}
+country <- init_country[!init_country %in% remove]
+
+opanal <- c("Antigua and Barbuda", "Argentina", "Bahamas", "Barbados", "Bolivia", "Brazil", "Chile", "Colombia", "Costa Rica", "Cuba", "Dominica", "Ecuador", "El Salvador", "Grenada", "Guatemala", "Guyana", "Haiti", "Honduras", "Jamaica", "Mexico", "Nicaragua", "Panama", "Paraguay", "Peru", "Dominican Republic", "Saint Christopher and Nevis", "Suriname", "Uruguay", "Venezuela")
+
+eu <- c("Albania", "Austria", "Belgium", "Bulgaria", "Canada", "Croatia", "Cyprus", "Czechia", "Denmark", "Estonia", "Finland", "France", "Germany", 'Greece', "Hungary", "Iceland", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Montenegro", "Netherlands", "Norway", "Poland", "Portugal", 'Romania', "Slovakia", "Slovenia", "Spain", "Sweden", "Turkey", "United Kingdom", "United States")
+
+armtreaty <- c("African Union**","Bahrain", "Belarus", "China", "Egypt", "India", "Iran", "Iraq", "Israel", "Kuwait", "Laos", "Libya GNC", "Libya HoR", "Marshall Islands", "Nepal", "Oman", "Pakistan", "Qatar", "Russia"," Saudi Arabia", "Sudan", "Syria", "UAE", "Venezuela", "Yemen", "Zimbabwe", "United States", "NATO**", "Unknown recipient(s)", "Unknown supplier(s)")
+
+UNRCPD <- c("Afghanistan", "Australia", "Bangladesh", "Bhutan", "Brunei Darussalam", "Cambodia", "China", "Democratic People's Republic of Korea", "Fiji", "India", "Indonesia", "Japan", "Kazakhstan", "Kiribati", "Kyrgyzstan", "Laos", "Malaysia", "Maldives", "Marshall Islands", "Micronesia", "Mongolia", "Myanmar", "Nauru", "Nepal", "New Zealand", "Pakistan", "Palau", "Papua New Guinea", "Philippines", "Republic of Korea", "Samoa", "Singapore", "Solomon Islands", "Sri Lanka", "Tajikistan", "Thailand", "Timor-Leste", "Tonga","Turkmenistan", "Tuvalu", "Uzbekistan", "Vanuatu", "Viet Nam")
+
+p1noAction=c('Andorra','Azerbaijan','Bhutan','Eritrea','India','Indonesia','Israel','Kiribati','Malaysia','Marshall Islands','Myanmar','Nepal','Papua New Guinea','Singapore','Somalia','Sri Lanka','Thailand','Turkey','Tuvalu')
+p1OnlySign=c('United States','Pakistan','Iran')
+
+p2noAction=c('Andorra','Angola','Azerbaijan','Bhutan','Eritrea','India','Indonesia','Iraq','Israel','Kiribati','North Korea','Malaysia','Marshall Islands','Mexico','Myanmar','Nepal','Papua New Guinea','Singapore','Somalia','Sri Lanka','Syria','Thailand','Turkey','Tuvalu','Vietnam')
+p2OnlySign=c('Iran','Pakistan','United States')
+
+p3noAction=c('Afghanistan','Algeria','Andorra','Azerbaijan','Bahamas','Bahrain','Bangladesh','Barbados','Benin','Bhutan','Botswana','Brunei','Cambodia','Cameroon','Central African Republic','Chad','China','Comoros','Democratic Republic of the Congo',"Cote d'Ivoire",'Cuba','Djibouti','Dominica','Egypt','Equatorial Guinea','Eritrea','Gabon','The Gambia','Grenada','Guinea','Guinea-Bissau','Holy See','India','Indonesia','Iran','Iraq','Japan','Jordan','Kiribati',"Democratic People's Republic of Korea",'Kuwait','Kyrgyzstan','Laos','Lebanon','Lesotho','Liberia','Libya','Malawi','Malaysia','Maldives','Mali','Marshall Islands','Mauritania','Mauritius','Federated States of Micronesia','Mongolia','Montenegro','Morocco','Mozambique','Myanmar','Namibia','Niger','Nigeria','Oman','Pakistan','Palau','Papua New Guinea','Qatar','Rwanda','Saint Kitts and Nevis','Saint Lucia','Saint Vincent and the Grenadines','Samoa','Sao Tome and Principe','Saudi Arabia','Senegal','Seychelles','Solomon Islands','Somalia','South Africa','Sri Lanka','Sudan','Swaziland','Syria','Tajikistan','Thailand','Tonga','Trinidad and Tobago','Tunisia','Turkmenistan','Tuvalu','UAE','Uzbekistan','Vanuatu','Venezuela','Vietnam','Yemen','Zambia','Zimbabwe')
+
+p3OnlySign=c('Angola','Bolivia','Bosnia and Herzegovina','Burundi','Cape Verde','Colombia','Republic of the Congo','Ecuador','Ethiopia','Ghana','Haiti','Ireland','Jamaica','Republic of Korea','Malta','Nepal','Russia','Sierra Leone','Togo','Turkey')
+
+good <- ngo %>% 
+  mutate(OPANAL = ifelse(Country %in% opanal, 1, 0), 
+         EU = ifelse(Country %in% eu, 1, 0), 
+         ATT = ifelse(Country %in% armtreaty, 0, 1), 
+         UNRCPD = ifelse(Country %in% UNRCPD, 1, 0), 
+         protocal1 = ifelse(Country %in% p1noAction, 0, ifelse(Country %in% p1OnlySign, 0.6, 1)), 
+         protocal2 = ifelse(Country %in% p2noAction, 0, ifelse(Country %in% p2OnlySign, 0.6, 1)), 
+         protocal3 = ifelse(Country %in% p3noAction, 0, ifelse(Country %in% p3OnlySign, 0.6, 1)))
+```
+
+
+```{r}
+attributes <- read.csv("feature_space_combined.csv")
+ret_nodes_attributes <- good %>% mutate(military = attributes[match(Country, attributes$Country),]$military_expenditure, free = attributes[match(Country, attributes$Country),]$freedom_score)
+write.csv(ret_nodes_attributes, "acna_knn_nodes_space.csv", row.names = FALSE)
+```
+
+
