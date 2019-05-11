@@ -5,7 +5,7 @@ import math
 from sklearn.cluster import KMeans
 
 s='edges_with_id.csv'
-sn='attributes.csv'
+sn='acna_knn_nodes_space.csv'
 
 class ANCA:
     def __init__(self,edgeData,nodeData,upper,lower):
@@ -22,18 +22,13 @@ class ANCA:
         df = pd.read_csv(self.edgeData, sep=',')
         G = nx.from_pandas_edgelist(df, source='sourceID', target='targetID', edge_attr = ['weights'])
 
-        print("###############")
-        print(G.nodes())
-
         df2 = pd.read_csv(self.nodeData, sep=',')
-        #
 
         self.vcount=df2.shape[0]
         self.realName_dic=df2['Country']
 
         for i, attr in enumerate(list(df2.columns[2:])):
             nx.set_node_attributes(G, df2[attr], 'attr'+str(i))
-            print(attr)
 
         # G=nx.relabel_nodes(G,self.realName_dic)
         # print(G.nodes(data=True))
@@ -83,7 +78,6 @@ class ANCA:
         for i in self.G.nodes:
             row = []
             for j in self.G.nodes:
-                print(j)
                 row.append(self.euler(i, j))
             attri_m.append(row)
 
@@ -144,10 +138,11 @@ class ANCA:
         if k == None:  # recommended k for kMeans cluster
             k = int(math.sqrt(self.vcount/2))
 
-        # cluster = KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
+        cluster = KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
+        return cluster
         # print(cluster)
         # return cluster
-        return featureSpaceX
+        #return featureSpaceX
 
     def cluster(self, cluster):
         '''assign each node to a set'''
@@ -156,7 +151,6 @@ class ANCA:
             if cat not in ans:
                 ans[cat]=set()
             ans[cat].add(index)
-        print(ans)
         return ans
 
 
@@ -164,10 +158,6 @@ class ANCA:
         '''svd a given matrix, k = top k largest eigenvectors'''
         #print(M)
         u, z, v = np.linalg.svd(M, full_matrices=False)
-
-        # z=np.diag(z)
-        # v=np.dot(z,v)
-        # l=np.dot(u[:,:k],v[:k,:])
 
         return u[:,:k]
 
@@ -184,6 +174,13 @@ class ANCA:
 
 
 
-# a=ANCA(s,sn,0.2,0.1)
-# cluster=a.anca_calc()
-# print(cluster)
+a=ANCA(s,sn,0.3,0.2)
+cluster=a.anca_calc()
+
+out_anca_kmean='out_anca_kmean.csv'
+
+out = open(out_anca_kmean, 'w')
+out.write('Id, RealName, Community\n')
+for i,v in enumerate(cluster):
+    out.write(','.join([str(i), a.realName_dic[i], str(v)]))
+    out.write('\n')

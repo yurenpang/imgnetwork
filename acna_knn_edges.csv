@@ -1,4 +1,4 @@
-sourceID,targetID,weights,sourceCountry,targetCountry
+source,target,weights,sourceCountry,targetCountry
 45,22,2.814249456,France,Cameroon
 139,115,22.91287847,United States,Singapore
 61,17,2.449489743,Israel,Brazil

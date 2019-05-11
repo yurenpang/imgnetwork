@@ -159,27 +159,27 @@ k = 20
 # g.color()
 
 #################################This is the ANCA
-s='./acna_knn_edges.csv'
-sn='./acna_knn_nodes_space.csv'
-
-out='./kmeanstradeNode.csv'
-
-ss=pd.read_csv(sn)
-ss=pd.DataFrame(ss)
-
-print(len(ss))
-
-anca = ANCA(s, sn, 0.3, 0.15)
-featureSpace=anca.anca_calc()
-
-country_dic = anca.realName_dic
-
-nameDic = anca.get_realName()
-graph = build_knn_for_trade(featureSpace, 25, 20)  # k = 5 override
+# s='./acna_knn_edges.csv'
+# sn='./acna_knn_nodes_space.csv'
 #
-graph.HFSegmentation()
-
-test = graph.cluster_community(nameDic, out)
+# out='./kmeanstradeNode.csv'
+#
+# ss=pd.read_csv(sn)
+# ss=pd.DataFrame(ss)
+#
+# print(len(ss))
+#
+# anca = ANCA(s, sn, 0.3, 0.15)
+# featureSpace=anca.anca_calc()
+#
+# country_dic = anca.realName_dic
+#
+# nameDic = anca.get_realName()
+# graph = build_knn_for_trade(featureSpace, 25, 20)  # k = 5 override
+# #
+# graph.HFSegmentation()
+#
+# test = graph.cluster_community(nameDic, out)
 
 # out_node = open(out, 'w')
 # out_node.write('id,realName, kmeancommunity\n')
@@ -190,6 +190,7 @@ test = graph.cluster_community(nameDic, out)
 
 
 
+hf_geo_file='hf_segment_source.csv'
 
 
 
@@ -202,9 +203,6 @@ test = graph.cluster_community(nameDic, out)
 
 #nx.set_node_attributes(g,anca.realName_dic,'realName')
 
-
-
-print('finish')
 
 
 # print(featureSpace)
