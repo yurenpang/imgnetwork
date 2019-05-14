@@ -1,0 +1,148 @@
+Id, RealName, Community,latitude,longitude
+0,Afghanistan,1,34.53,69.17
+1,Albania,1,41.33,19.82
+2,Algeria,4,36.75,3.04
+3,Angola,1,-8.84,13.23
+4,Argentina,1,-34.61,-58.4
+5,Armenia,1,40.18,44.51
+6,Australia,1,-35.28,149.13
+7,Austria,1,48.21,16.37
+8,Azerbaijan,1,40.38,49.89
+9,Bahamas,1,25.06,-77.34
+10,Bahrain,1,26.22,50.58
+11,Bangladesh,7,23.71,90.41
+12,Belarus,1,53.9,27.57
+13,Belgium,1,50.85,4.35
+14,Bhutan,1,27.4728,89.6393
+15,Bolivia,1,-19.03,-65.26
+16,Botswana,1,-24.65,25.91
+17,Brazil,1,-15.78,-47.93
+18,Brunei,1,4.5352769,114.7276688
+19,Bulgaria,1,42.7,23.32
+20,Burkina Faso,1,12.36,-1.54
+21,Burundi,1,-3.38,29.36
+22,Cameroon,1,3.87,11.52
+23,Canada,1,45.42,-75.7
+24,Central African Republic,1,4.36,18.55
+25,Chad,1,12.11,15.04
+26,Chile,1,-33.46,-70.65
+27,China,1,39.91,116.4
+28,Colombia,7,4.61,-74.08
+29,Cote d'Ivoire,1,7.54,-4.01266
+30,Croatia,1,45.81,15.98
+31,Cyprus,1,35.16,33.37
+32,Czechia,1,49.8175,15.473
+33,Democratic Republic of the Congo,1,-4.33,15.31
+34,Denmark,1,55.68,12.57
+35,Djibouti,1,11.59,43.14
+36,Dominican Republic,1,18.49,-69.9
+37,Ecuador,7,-0.23,-78.52
+38,Egypt,7,30.04,31.24
+39,El Salvador,1,13.69,-89.19
+40,Equatorial Guinea,2,3.75,8.78
+41,Estonia,1,59.44,24.75
+42,Ethiopia,1,9.02,38.75
+43,Fiji,1,-18.14,178.44
+44,Finland,1,60.17,24.94
+45,France,1,48.85,2.35
+46,Gabon,1,0.39,9.45
+47,Georgia,4,41.69,44.83
+48,Germany,1,52.52,13.41
+49,Ghana,6,5.56,-0.2
+50,Greece,1,37.95,23.75
+51,Guatemala,1,14.61,-90.53
+52,Guinea,6,9.57,-13.65
+53,Guyana,1,6.8,-58.16
+54,Honduras,1,14.08,-87.21
+55,Hungary,1,47.5,19.04
+56,India,1,28.67,77.22
+57,Indonesia,1,-6.21,106.84
+58,Iran,7,35.69,51.42
+59,Iraq,6,33.34,44.4
+60,Ireland,1,53.33,-6.25
+61,Israel,1,31.77,35.22
+62,Italy,1,41.89,12.48
+63,Jamaica,7,18,-76.79
+64,Japan,1,35.69,139.69
+65,Jordan,1,31.96,35.95
+66,Kazakhstan,1,51.18,71.45
+67,Kenya,1,-1.28,36.82
+68,Kuwait,1,29.35,47.98
+69,Kyrgyzstan,7,42.87,74.59
+70,Laos,7,17.97,102.6
+71,Latvia,1,56.95,24.11
+72,Lebanon,4,33.9,35.48
+73,Lesotho,7,-29.32,27.48
+74,Libya,1,32.88,13.19
+75,Lithuania,1,54.69,25.28
+76,Luxembourg,1,49.61,6.13
+77,Macedonia,1,41.6086,21.7453
+78,Malawi,7,-13.97,33.79
+79,Malaysia,1,3.14,101.69
+80,Mali,1,12.65,-8
+81,Malta,5,35.9,14.51
+82,Mauritania,1,18.09,-15.98
+83,Mauritius,1,-20.16,57.5
+84,Mexico,1,19.43,-99.14
+85,Montenegro,1,42.44,19.26
+86,Morocco,6,34.01,-6.83
+87,Mozambique,6,-25.97,32.59
+88,Myanmar,1,19.75,96.13
+89,Namibia,3,-22.56,17.08
+90,Nepal,1,27.7,85.32
+91,Netherlands,1,52.08,4.3
+92,New Zealand,1,-41.29,174.78
+93,Nicaragua,1,12.13,-86.25
+94,Niger,7,13.51,2.11
+95,Nigeria,1,9.06,7.49
+96,Norway,1,59.91,10.75
+97,Oman,1,23.61,58.59
+98,Pakistan,1,33.7,73.06
+99,Panama,7,9,-79.52
+100,Papua New Guinea,6,-9.44,147.18
+101,Peru,1,-12.04,-77.03
+102,Philippines,6,14.6,120.98
+103,Poland,1,52.23,21.01
+104,Portugal,1,38.72,-9.14
+105,Qatar,1,25.27,51.52
+106,Republic of Korea,1,37.57,126.98
+107,Romania,1,44.43,26.1
+108,Russia,1,61.524,105.3188
+109,Rwanda,1,-1.95,30.06
+110,Saudi Arabia,1,24.69,46.71
+111,Senegal,1,14.69,-17.44
+112,Serbia,1,44.82,20.46
+113,Seychelles,1,-4.62,55.45
+114,Sierra Leone,0,8.48,-13.23
+115,Singapore,1,1.29,103.85
+116,Slovakia,1,48.15,17.11
+117,Slovenia,1,46.05,14.51
+118,Somalia,1,2.04,45.34
+119,South Africa,1,-25.74,28.19
+120,South Sudan,1,4.85,31.58
+121,Spain,1,40.42,-3.7
+122,Sri Lanka,6,6.9,79.91
+123,Sudan,1,15.55,32.53
+124,Sweden,1,59.33,18.06
+125,Switzerland,1,46.95,7.45
+126,Syria,1,33.51,36.31
+127,Taiwan,6,34.8020744,38.9968147
+128,Tajikistan,1,38.54,68.78
+129,Tanzania,6,-6.17,35.74
+130,Thailand,1,13.72,100.53
+131,Trinidad and Tobago,1,10.67,-61.52
+132,Tunisia,1,36.82,10.17
+133,Turkey,1,39.92,32.85
+134,Turkmenistan,1,37.95,58.38
+135,UAE,1,24.46,54.36
+136,Uganda,1,0.32,32.58
+137,Ukraine,1,50.45,30.52
+138,United Kingdom,1,51.51,-0.13
+139,United States,1,38.9,-77.04
+140,Uruguay,1,-34.83,-56.17
+141,Uzbekistan,1,41.26,69.22
+142,Venezuela,1,10.49,-66.88
+143,Viet Nam,7,21.02,105.84
+144,Western Sahara,1,24.2155,-12.8858
+145,Yemen,6,15.35,44.21
+146,Zambia,1,-15.41,28.28

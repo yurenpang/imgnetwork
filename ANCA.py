@@ -2,9 +2,10 @@ import numpy as np
 import networkx as nx
 import pandas as pd
 import math
+
 from sklearn.cluster import KMeans
 
-s='edges_with_id.csv'
+s='acna_knn_edges.csv'
 sn='acna_knn_nodes_space.csv'
 
 class ANCA:
@@ -20,8 +21,8 @@ class ANCA:
         '''take two data sets as input, set node attribute,
             return G'''
         df = pd.read_csv(self.edgeData, sep=',')
-        G = nx.from_pandas_edgelist(df, source='sourceID', target='targetID', edge_attr = ['weights'])
-
+        G = nx.from_pandas_edgelist(df, source='source', target='target', edge_attr = ['weights'],create_using=nx.DiGraph())
+        G2=nx.from_pandas_edgelist(df, source='source', target='target', edge_attr = ['weights'])
         df2 = pd.read_csv(self.nodeData, sep=',')
 
         self.vcount=df2.shape[0]
@@ -34,7 +35,7 @@ class ANCA:
         # print(G.nodes(data=True))
         # print(G.edges(data=True))
 
-        return G
+        return G,G2
 
     def get_realName(self):
         return self.realName_dic
@@ -63,9 +64,14 @@ class ANCA:
         for v in self.G.nodes:
             row = []
             for s in self.seeds:
-                row.append(nx.dijkstra_path_length(self.G, v, s, 'w'))
+                if nx.has_path(self.G,v,s):
+                    row.append(nx.dijkstra_path_length(self.G, v, s, 'weights'))
+                else:
+                    row.append(-nx.dijkstra_path_length(self.G2,v,s,'weights'))
             member_m.append(row)
         return np.array(member_m)
+
+
 
     def build_attriMaxtrix(self):
         """
@@ -122,7 +128,7 @@ class ANCA:
         :param k:
         :return:
         """
-        self.G = self.build_graph()  # build Graph
+        self.G,self.G2 = self.build_graph()  # build Graph
 
         self.seeds = self.detect_seed(self.G)  # build seeds set
 
@@ -177,7 +183,7 @@ class ANCA:
 a=ANCA(s,sn,0.3,0.2)
 cluster=a.anca_calc()
 
-out_anca_kmean='out_anca_kmean.csv'
+out_anca_kmean='correct_anca.csv'
 
 out = open(out_anca_kmean, 'w')
 out.write('Id, RealName, Community\n')
