@@ -1,35 +1,22 @@
 from Graph import *
 from ANCA import *
-# from MST import *
 from sklearn.neighbors import NearestNeighbors
 import cv2
-image = 'phot.png'
-import pandas as pd
 import numpy as np
-import networkx as nx
 
 
-def find_neighbors(image, k):
-    """
-    K-NN Algorithm
-    """
+def find_neighbors_for_image(image, k):
     img = cv2.imread(image, 1)
     feature_space = []
-    h = img.shape[0]
-    w = img.shape[1]
-
-    for i in range(h):
-        for j in range(w):
+    for i in range(img.shape[0]):
+        for j in range(img.shape[1]):
             R, G, B = img[i][j]
             feature_space.append([i, j, R, G, B])
 
-    nbrs = NearestNeighbors(n_neighbors=k, metric='cosine', algorithm='brute').fit(feature_space)
+    nbrs = NearestNeighbors(n_neighbors=k, algorithm='ball_tree').fit(feature_space)
     distances, indices = nbrs.kneighbors(feature_space)
 
     return [indices, distances]
-
-#print(find_neighbors(image, 3))
-
 
 def calc_euclidean(node_1, node_2):
     length = len(node_1)
@@ -39,7 +26,7 @@ def calc_euclidean(node_1, node_2):
     return math.sqrt(distance)
 
 
-def find_k_neighbors(vectors, node, k_nearest_neighbor_length):
+def __find_k_neighbors(vectors, node, k_nearest_neighbor_length):
     distances = []
     neighbors = []
     neighbors_dis = []
@@ -56,13 +43,7 @@ def find_k_neighbors(vectors, node, k_nearest_neighbor_length):
     return [neighbors, neighbors_dis]
 
 
-def find_neighbor_for_trade(feature_space, k):
-    # Remove -0.0
-    # for i in range(len(feature_space)):
-    #     for j in range(len(feature_space[i])):
-    #         if feature_space[i][j] == 0 and math.copysign(1, feature_space[i][j]) == -1.0:
-    #             feature_space[i][j] = 0.0
-
+def _find_neighbor_for_trade(feature_space, k):
     # Main function body
     dic_node_and_features = {}   # key is a node, value list of neighbors
     dic_node_and_distance = {}
@@ -70,13 +51,11 @@ def find_neighbor_for_trade(feature_space, k):
 
     # Find neighbors and distances for each node
     for x in range(feature_length):
-        neighbors_list_and_distance = find_k_neighbors(feature_space, x, k)  # k override
-        neighbors = neighbors_list_and_distance[0]
-        distances = neighbors_list_and_distance[1]
+        neighbors_list_and_distance = __find_k_neighbors(feature_space, x, k)  # k override
+        neighbors,distances = neighbors_list_and_distance
 
         dic_node_and_features[x] = neighbors
         dic_node_and_distance[x] = distances
-
 
     # Update the return values
     indices = []
@@ -90,36 +69,22 @@ def find_neighbor_for_trade(feature_space, k):
         indices.append(row_neighbors)
         distances.append(row_distances)
 
-
-    # nbrs = NearestNeighbors(n_neighbors=k).fit(feature_space)
-    # distances, indices = nbrs.kneighbors(np.array(feature_space))
-    #
-    # print(type(indices))
-    # print(distances)
-    #
-    # print(pd.DataFrame(feature_space))
-    #
-    # print(feature_space)
-
     return np.array(indices), np.array(distances)
 
-def build_knn_for_trade(featureSpace,c,k):
-    graph=Graph(c)
-    edges,weights=find_neighbor_for_trade(featureSpace,k)
+def build_graph_from_knn(featureSpace,c,k):
+    edges,weights=_find_neighbor_for_trade(featureSpace,k)
+    return __build_graph(edges,weights,c)
 
-    # print('edges', edges)
-    # print('117: ',len(edges))
-    # print('k+1: ',len(edges[0]))
-
-
+def __build_graph(edges,weights,c):
+    graph = Graph(c)
+    print('to for')
     for i in range(len(edges)):
+        print(i)
         graph.addNode(edges[i][0])
         for j in range(1, len(edges[i])):
             graph.addNode(edges[i][j])
             graph.addEdge(edges[i,0],edges[i,j],weights[i,j])
-
-    print("TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT")
-    print(len(edges))
+    print('after for')
 
     graph.edges.sort(key=lambda  x:x[2])
 
@@ -127,105 +92,53 @@ def build_knn_for_trade(featureSpace,c,k):
 
 
 def build_knn_graph(image,k,c):
-    knn_object=find_neighbors(image,k)
+    edges, weights=find_neighbors_for_image(image,k)
+    return __build_graph(edges,weights,c)
 
-    print('got knn')
-    graph = Graph(c, knn_object[5],knn_object[3],knn_object[4])
-    edges = knn_object[0]
-    weights = knn_object[1]
-    k = knn_object[2]
-    print('to for')
-    for i in range(len(edges)):
-        graph.addNode(edges[i][0])
-        for j in range(1, k):
-            graph.addNode(edges[i][j])
-            graph.addEdge(edges[i, 0], edges[i, j], weights[i, j])
-
-    print('after for')
-    graph.edges.sort(key=lambda x: x[2])
-    print('built graph')
-    return graph
-
-k = 20
+###################### Main Graph Segmentation
+image = 'phot.jpg'
+g=build_knn_graph(image,7,300)
+g.HFSegmentation()
+g.color(image)
+##############################################
 
 
-
-# g = Graph([1,2,3,4,5], [(1,2,5), (2,3,8), (4,5,12), (1,5,20), (2,5,25), (3,4,30)])
+###################### Main K-nearest neighbor cluster
+# attributeDate='hf_segment_source.csv'
+# outFile='knn_node_cluster.csv'
+# featureSpace=pd.read_csv(attributeDate, sep=',')
+# neighbors,distances=find_neighbor_for_trade(featureSpace,7) #k for knn is 7
 #
-
-
-# g=build_knn_graph(image,7,300)
-# g.HFSegmentation()
-# g.color()
-
-#################################This is the ANCA
-# s='./acna_knn_edges.csv'
-# sn='./acna_knn_nodes_space.csv'
-#
-# out='./kmeanstradeNode.csv'
-#
-# ss=pd.read_csv(sn)
-# ss=pd.DataFrame(ss)
-#
-# print(len(ss))
-#
-# anca = ANCA(s, sn, 0.3, 0.15)
-# featureSpace=anca.anca_calc()
-#
-# country_dic = anca.realName_dic
-#
-# nameDic = anca.get_realName()
-# graph = build_knn_for_trade(featureSpace, 25, 20)  # k = 5 override
-# #
-# graph.HFSegmentation()
-#
-# test = graph.cluster_community(nameDic, out)
-
-# out_node = open(out, 'w')
-# out_node.write('id,realName, kmeancommunity\n')
-# for index, cat in enumerate(featureSpace):
-#     out_node.write(','.join([str(index),str(anca.realName_dic[index]), str(cat)]))
-#     out_node.write('\n')
-################################################
-
-
-
-hf_geo_file='hf_segment_source.csv'
-
-
-
-# B,A=find_neighbor_for_trade(featureSpace,7)
-#
-# for i in range(len(B)):
-#     for j in range(len(B[0])):
-#         out_node.write(','.join([str(i), str(B[i][j]), str(A[i][j])]))
+# out_node = open(outFile, 'w')
+# out_node.write('Id, RealName, Community\n')
+# for i in range(len(neighbors)):
+#     for j in range(1,len(neighbors[0])):
+#         out_node.write(','.join([str(i), str(neighbors[i][j]), str(distances[i][j])]))
 #         out_node.write('\n')
-
-#nx.set_node_attributes(g,anca.realName_dic,'realName')
-
+# print('output pure knn cluster to '+outFile)
 
 
-# print(featureSpace)
-# country_dic = anca.realName_dic
-# print(len(featureSpace))
-# #
-# # for i in range(len(featureSpace)):
-# #     print("######################## Cluster ", i + 1)
-# #     str = ""
-# #     for j in (featureSpace[i]):
-# #         country = country_dic[j]
-# #         str += country + ", "
-# #     print(str)
+
+###################### Main - ANCA Kmean cluster
+# s='acna_knn_edges.csv'
+# sn='acna_knn_nodes_space.csv'
 #
-# print('# coun ',len(featureSpace))
-# print('feature', len(featureSpace[0]))
-# nameDic=anca.get_realName()
-# graph=build_knn_for_trade(featureSpace, 25, 10)  # k = 5 override
-# #
-# graph.HFSegmentation()
-# graph.cluster_community(nameDic,out)
+# out_anca_kmean='correct_anca.csv'
+#
+# a=ANCA(s,sn,0.3,0.2)
+# cluster=a.anca_calc_kMean_cluster_to_file(out_anca_kmean) # param K is optional
 
 
-
+##################### Main - combined cluster
+# s='acna_knn_edges.csv'
+# sn='acna_knn_nodes_space.csv'
+# c=15
+# k=20
+# out_combined='cluster_combined.csv'
+# ca=ANCA(s,sn,0.3,0.2)
+# featureSpace=ca.anca_calc()
+# g=build_graph_from_knn(featureSpace,c,k)
+# g.HFSegmentation()
+# g.cluster_community(ca.realName_dic,out_combined)
 
 

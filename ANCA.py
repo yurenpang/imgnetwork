@@ -5,9 +5,6 @@ import math
 
 from sklearn.cluster import KMeans
 
-s='acna_knn_edges.csv'
-sn='acna_knn_nodes_space.csv'
-
 class ANCA:
     def __init__(self,edgeData,nodeData,upper,lower):
         self.pairDic = {}
@@ -30,10 +27,6 @@ class ANCA:
 
         for i, attr in enumerate(list(df2.columns[2:])):
             nx.set_node_attributes(G, df2[attr], 'attr'+str(i))
-
-        # G=nx.relabel_nodes(G,self.realName_dic)
-        # print(G.nodes(data=True))
-        # print(G.edges(data=True))
 
         return G,G2
 
@@ -67,7 +60,7 @@ class ANCA:
                 if nx.has_path(self.G,v,s):
                     row.append(nx.dijkstra_path_length(self.G, v, s, 'weights'))
                 else:
-                    row.append(-nx.dijkstra_path_length(self.G2,v,s,'weights'))
+                    row.append(-nx.dijkstra_path_length(self.G2,s,v,'weights'))
             member_m.append(row)
         return np.array(member_m)
 
@@ -122,12 +115,8 @@ class ANCA:
         self.pairDic[pair] = diff
         return diff
 
-    def anca_calc(self,k=None):
-        """
-
-        :param k:
-        :return:
-        """
+    def anca_calc(self):
+        '''return an un-normalized featurespace'''
         self.G,self.G2 = self.build_graph()  # build Graph
 
         self.seeds = self.detect_seed(self.G)  # build seeds set
@@ -139,16 +128,25 @@ class ANCA:
         l2 = self.svd(attM, k=1)
 
         featureSpaceX = np.column_stack((l1,l2))  # stack the feature space together
-        featureSpaceY = self.featureY(featureSpaceX)
 
+        return featureSpaceX
+
+
+    def anca_calc_kMean_cluster_to_file(self,outfile,k=None):
+        '''return a list, index as node while value as community'''
+        featureSpaceX=self.anca_calc()
+        featureSpaceY=self.featureY(featureSpaceX)
         if k == None:  # recommended k for kMeans cluster
             k = int(math.sqrt(self.vcount/2))
+        cluster=KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
 
-        cluster = KMeans(n_clusters=k, random_state=0).fit_predict(featureSpaceY)
-        return cluster
-        # print(cluster)
-        # return cluster
-        #return featureSpaceX
+        out = open(outfile, 'w')
+        out.write('Id, RealName, Community\n')
+        for i, v in enumerate(cluster):
+            out.write(','.join([str(i), self.realName_dic[i], str(v)]))
+            out.write('\n')
+        print('wrote anca kmean cluster to ',outfile)
+
 
     def cluster(self, cluster):
         '''assign each node to a set'''
@@ -164,7 +162,6 @@ class ANCA:
         '''svd a given matrix, k = top k largest eigenvectors'''
         #print(M)
         u, z, v = np.linalg.svd(M, full_matrices=False)
-
         return u[:,:k]
 
     def featureY(self,featureSpaceX):
@@ -180,13 +177,3 @@ class ANCA:
 
 
 
-a=ANCA(s,sn,0.3,0.2)
-cluster=a.anca_calc()
-
-out_anca_kmean='correct_anca.csv'
-
-out = open(out_anca_kmean, 'w')
-out.write('Id, RealName, Community\n')
-for i,v in enumerate(cluster):
-    out.write(','.join([str(i), a.realName_dic[i], str(v)]))
-    out.write('\n')

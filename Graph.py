@@ -7,10 +7,7 @@ import cv2
 import networkx as nx
 
 class Graph:
-    def __init__(self,c,image=None, h=None,w=None):
-        self.image=image
-        self.h=h
-        self.w=w
+    def __init__(self,c):
         self.vertices = []
         self.c=c
         self.edges = []
@@ -68,8 +65,6 @@ class Graph:
         return c/size
 
     def HFSegmentation(self):
-        result = {}
-
         for edge in self.edges:
             v1, v2, weight = edge
 
@@ -80,37 +75,36 @@ class Graph:
                 if weight < min(self.threshold[x],self.threshold[y]):
                     xroot=self.union_tree_set(y, x)
                     self.threshold[xroot] = weight + self.calc_threshold(self.c,self.size[xroot])
-                   # result.setdefault(x, []).append(edge)
-        print('segmented')
+        print('segmented, check root for community.')
 
-    def create_network(self,nameDic):
-        g = nx.Graph()
-        #g.add_nodes_from(self.vertices)
+    def create_network(self,nameDic,node_file_name):
+        #        output_template = "./knn_graph.gexf"
+        g = nx.DiGraph()
         g.add_weighted_edges_from(self.edges)
-        print(nameDic.to_dict())
         nx.set_node_attributes(g, nameDic.to_dict(), 'realName')
-        output_template = "./knn_graph.gexf"
-        nx.write_gexf(g, output_template)
 
-    def color(self):
+        nx.write_gexf(g,node_file_name)
+        print('created output file to ',node_file_name)
+
+    def color(self,image):
+        img = cv2.imread(image, 1)
+        w = img.shape[1]
         c={}
         for v in self.vertices:
             root=self.find_root(v)
             if root not in c:
                 c[root]=(int(random.random()*255),int(random.random()*255),int(random.random()*255))
-            x=v%self.w
-            y=v//self.w
+            x=v%w
+            y=v//w
             theColor=c[root]
-            self.image[y,x]=theColor
+            img[y,x]=theColor
 
         print('color ended')
-        cv2.imshow('title', self.image)
+        cv2.imshow('title',img)
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
     def cluster_community(self, nameDic, node_file_name):
-        print('writing data')
-        test = {}
         out_node = open(node_file_name, 'w')
         out_node.write('Id, RealName, Community\n')
         self.vertices = sorted(self.vertices)
@@ -118,13 +112,9 @@ class Graph:
         print(self.vertices)
         for v in self.vertices:
             root = self.find_root(v)
-            if root not in test:
-                test[root] = []
-            test[root].append(v)
             out_node.write(','.join([str(v), nameDic[v], str(root)]))
             out_node.write('\n')
-        print('finish')
-        return test
+        print('output combined to '+node_file_name)
 
 
 
