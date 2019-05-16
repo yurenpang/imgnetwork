@@ -109,7 +109,6 @@ class Graph:
         out_node.write('Id, RealName, Community\n')
         self.vertices = sorted(self.vertices)
 
-        print(self.vertices)
         for v in self.vertices:
             root = self.find_root(v)
             out_node.write(','.join([str(v), nameDic[v], str(root)]))

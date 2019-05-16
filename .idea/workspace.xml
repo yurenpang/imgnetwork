@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a6702be-e6ef-4a20-9933-fe6e7e5d7692" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/final.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/479powerlaw.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ANCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANCA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/Outdegree.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/indegree.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/indegreelog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/mo-NetherLands.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/mo-all.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/mo-edurope-korea-malay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/mo-france.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/mo-germany.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/mo-russia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/mo-us.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PureModularity_graph/outdegreelog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/combinedkmean.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/correct_anca.csv" beforeDir="false" afterPath="$PROJECT_DIR$/correct_anca.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edges_with_id.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hf_segment_source.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_segmentation_method/Graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/indegree.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out_anca_kmean.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outdegree.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/me.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/me.gexf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/sample.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/sampleNode.CSV" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tradeNode.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,8 +15,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/imgnetwork$ANCA.coverage" NAME="ANCA Coverage Results" MODIFIED="1557856925213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/imgnetwork$main.coverage" NAME="main Coverage Results" MODIFIED="1557989874816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imgnetwork$ANCA.coverage" NAME="ANCA Coverage Results" MODIFIED="1557996084715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imgnetwork$main.coverage" NAME="main Coverage Results" MODIFIED="1557998115351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/imgnetwork$479powerlaw.coverage" NAME="479powerlaw Coverage Results" MODIFIED="1557635787794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -51,10 +24,34 @@
       <file leaf-file-name="ANCA.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ANCA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="103">
+              <caret line="59" column="67" lean-forward="true" selection-start-line="59" selection-start-column="67" selection-end-line="59" selection-end-column="67" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="127" column="22" lean-forward="true" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageGraph.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image_segmentation_method/ImageGraph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#20#66#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,34 +60,10 @@
       <file leaf-file-name="Graph.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Graph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="205">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
               <folding>
                 <element signature="e#139#152#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2134">
-              <caret line="97" column="46" lean-forward="true" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageGraph.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/image_segmentation_method/ImageGraph.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#20#66#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,11 +91,11 @@
       <list>
         <option value="$PROJECT_DIR$/479powerlaw.py" />
         <option value="$PROJECT_DIR$/copy.py" />
-        <option value="$PROJECT_DIR$/ANCA.py" />
         <option value="$PROJECT_DIR$/image_segmentation_method/ImageGraph.py" />
-        <option value="$PROJECT_DIR$/Graph.py" />
         <option value="$PROJECT_DIR$/image_segmentation_method/Graph.py" />
+        <option value="$PROJECT_DIR$/Graph.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/ANCA.py" />
       </list>
     </option>
   </component>
@@ -279,13 +252,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3516949" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41666666" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23087248" />
       <window_info anchor="right" id="R Packages" order="3" />
@@ -361,10 +335,30 @@
     <entry file="file://$PROJECT_DIR$/479powerlaw.py" />
     <entry file="file://$PROJECT_DIR$/experiement.py" />
     <entry file="file://$PROJECT_DIR$/image_segmentation_method/Graph.py" />
+    <entry file="file://$PROJECT_DIR$/image_segmentation_method/ImageGraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#20#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#139#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ANCA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="103">
+          <caret line="59" column="67" lean-forward="true" selection-start-line="59" selection-start-column="67" selection-end-line="59" selection-end-column="67" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -373,30 +367,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2134">
-          <caret line="97" column="46" lean-forward="true" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="46" />
+        <state relative-caret-position="154">
+          <caret line="127" column="22" lean-forward="true" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="e#139#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image_segmentation_method/ImageGraph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#20#66#0" expanded="true" />
           </folding>
         </state>
       </provider>

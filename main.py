@@ -79,7 +79,6 @@ def __build_graph(edges,weights,c):
     graph = Graph(c)
     print('to for')
     for i in range(len(edges)):
-        print(i)
         graph.addNode(edges[i][0])
         for j in range(1, len(edges[i])):
             graph.addNode(edges[i][j])
@@ -96,24 +95,25 @@ def build_knn_graph(image,k,c):
     return __build_graph(edges,weights,c)
 
 ###################### Main Graph Segmentation
-image = 'phot.jpg'
-g=build_knn_graph(image,7,300)
-g.HFSegmentation()
-g.color(image)
+# image = 'phot.jpg'
+# g=build_knn_graph(image,7,300)
+# g.HFSegmentation()
+# g.color(image)
 ##############################################
 
 
 ###################### Main K-nearest neighbor cluster
-# attributeDate='hf_segment_source.csv'
+# attributeData='acna_knn_nodes_space.csv'
 # outFile='knn_node_cluster.csv'
-# featureSpace=pd.read_csv(attributeDate, sep=',')
-# neighbors,distances=find_neighbor_for_trade(featureSpace,7) #k for knn is 7
-#
+# featureSpace=pd.read_csv(attributeData, sep=',')
+# featureSpace=np.array(featureSpace[featureSpace.columns[2:]])
+# neighbors,distances=_find_neighbor_for_trade(featureSpace,7) #k for knn is 7
+# #radius
 # out_node = open(outFile, 'w')
 # out_node.write('Id, RealName, Community\n')
 # for i in range(len(neighbors)):
 #     for j in range(1,len(neighbors[0])):
-#         out_node.write(','.join([str(i), str(neighbors[i][j]), str(distances[i][j])]))
+#         out_node.write(','.join([str(i), str(neighbors[i][j]), str(distances[i][j])])) #需要改
 #         out_node.write('\n')
 # print('output pure knn cluster to '+outFile)
 
@@ -130,15 +130,16 @@ g.color(image)
 
 
 ##################### Main - combined cluster
-# s='acna_knn_edges.csv'
-# sn='acna_knn_nodes_space.csv'
-# c=15
-# k=20
-# out_combined='cluster_combined.csv'
-# ca=ANCA(s,sn,0.3,0.2)
-# featureSpace=ca.anca_calc()
-# g=build_graph_from_knn(featureSpace,c,k)
-# g.HFSegmentation()
-# g.cluster_community(ca.realName_dic,out_combined)
+s='acna_knn_edges.csv'
+sn='acna_knn_nodes_space.csv'
+c=20
+k=5
+out_combined='cluster_combined.csv'
+ca=ANCA(s,sn,0.3,0.2)
+featureSpace=ca.anca_calc()
+print(featureSpace)
+g=build_graph_from_knn(featureSpace,c,k)
+g.HFSegmentation()
+g.cluster_community(ca.realName_dic,out_combined)
 
 

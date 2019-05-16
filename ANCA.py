@@ -18,7 +18,7 @@ class ANCA:
         '''take two data sets as input, set node attribute,
             return G'''
         df = pd.read_csv(self.edgeData, sep=',')
-        G = nx.from_pandas_edgelist(df, source='source', target='target', edge_attr = ['weights'],create_using=nx.DiGraph())
+        G = nx.from_pandas_edgelist(df, source='source', target='target', edge_attr = ['weights'])
         G2=nx.from_pandas_edgelist(df, source='source', target='target', edge_attr = ['weights'])
         df2 = pd.read_csv(self.nodeData, sep=',')
 
@@ -57,10 +57,11 @@ class ANCA:
         for v in self.G.nodes:
             row = []
             for s in self.seeds:
-                if nx.has_path(self.G,v,s):
-                    row.append(nx.dijkstra_path_length(self.G, v, s, 'weights'))
-                else:
-                    row.append(-nx.dijkstra_path_length(self.G2,s,v,'weights'))
+                row.append(nx.dijkstra_path_length(self.G, v, s, 'weights'))
+                # if nx.has_path(self.G,v,s):
+                #     row.append(nx.dijkstra_path_length(self.G, v, s, 'weights'))
+                # else:
+                #     row.append(-nx.dijkstra_path_length(self.G2,s,v,'weights'))
             member_m.append(row)
         return np.array(member_m)
 
@@ -158,7 +159,7 @@ class ANCA:
         return ans
 
 
-    def svd(self,M,k=7):
+    def svd(self,M,k=1):
         '''svd a given matrix, k = top k largest eigenvectors'''
         #print(M)
         u, z, v = np.linalg.svd(M, full_matrices=False)
