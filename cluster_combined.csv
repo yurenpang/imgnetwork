@@ -1,148 +1,148 @@
 Id, RealName, Community
-0,Afghanistan,79
-1,Albania,79
-2,Algeria,79
-3,Angola,79
-4,Argentina,79
-5,Armenia,79
-6,Australia,79
-7,Austria,79
-8,Azerbaijan,79
-9,Bahamas,79
-10,Bahrain,79
-11,Bangladesh,79
-12,Belarus,79
-13,Belgium,79
-14,Bhutan,79
-15,Bolivia,79
-16,Botswana,79
-17,Brazil,79
-18,Brunei,79
-19,Bulgaria,79
-20,Burkina Faso,79
-21,Burundi,79
-22,Cameroon,79
-23,Canada,79
-24,Central African Republic,79
-25,Chad,79
-26,Chile,79
+0,Afghanistan,94
+1,Albania,94
+2,Algeria,94
+3,Angola,94
+4,Argentina,94
+5,Armenia,94
+6,Australia,32
+7,Austria,32
+8,Azerbaijan,94
+9,Bahamas,94
+10,Bahrain,94
+11,Bangladesh,94
+12,Belarus,32
+13,Belgium,32
+14,Bhutan,94
+15,Bolivia,94
+16,Botswana,94
+17,Brazil,32
+18,Brunei,94
+19,Bulgaria,32
+20,Burkina Faso,94
+21,Burundi,94
+22,Cameroon,94
+23,Canada,32
+24,Central African Republic,94
+25,Chad,94
+26,Chile,94
 27,China,27
-28,Colombia,79
-29,Cote d'Ivoire,79
-30,Croatia,79
-31,Cyprus,79
-32,Czechia,79
-33,Democratic Republic of the Congo,79
-34,Denmark,79
-35,Djibouti,79
-36,Dominican Republic,79
-37,Ecuador,79
-38,Egypt,79
-39,El Salvador,79
-40,Equatorial Guinea,79
-41,Estonia,79
-42,Ethiopia,79
-43,Fiji,79
-44,Finland,79
-45,France,79
-46,Gabon,79
-47,Georgia,79
-48,Germany,79
-49,Ghana,79
-50,Greece,79
-51,Guatemala,79
-52,Guinea,79
-53,Guyana,79
-54,Honduras,79
-55,Hungary,79
-56,India,79
-57,Indonesia,79
-58,Iran,79
-59,Iraq,79
-60,Ireland,79
-61,Israel,79
-62,Italy,79
-63,Jamaica,79
-64,Japan,79
-65,Jordan,79
-66,Kazakhstan,79
-67,Kenya,79
-68,Kuwait,79
-69,Kyrgyzstan,79
-70,Laos,79
-71,Latvia,79
-72,Lebanon,79
-73,Lesotho,79
-74,Libya,79
-75,Lithuania,79
-76,Luxembourg,79
-77,Macedonia,79
-78,Malawi,79
-79,Malaysia,79
-80,Mali,79
-81,Malta,79
-82,Mauritania,79
-83,Mauritius,79
-84,Mexico,79
-85,Montenegro,79
-86,Morocco,79
-87,Mozambique,79
-88,Myanmar,79
-89,Namibia,79
-90,Nepal,79
-91,Netherlands,79
-92,New Zealand,79
-93,Nicaragua,79
-94,Niger,79
-95,Nigeria,79
-96,Norway,79
-97,Oman,79
-98,Pakistan,79
-99,Panama,79
-100,Papua New Guinea,79
-101,Peru,79
-102,Philippines,79
-103,Poland,79
-104,Portugal,79
-105,Qatar,79
-106,Republic of Korea,79
-107,Romania,79
-108,Russia,79
-109,Rwanda,79
-110,Saudi Arabia,79
-111,Senegal,79
-112,Serbia,79
-113,Seychelles,79
-114,Sierra Leone,79
-115,Singapore,79
-116,Slovakia,79
-117,Slovenia,79
-118,Somalia,79
-119,South Africa,79
-120,South Sudan,79
-121,Spain,79
-122,Sri Lanka,79
-123,Sudan,79
-124,Sweden,79
-125,Switzerland,79
-126,Syria,79
-127,Taiwan,79
-128,Tajikistan,79
-129,Tanzania,79
-130,Thailand,79
-131,Trinidad and Tobago,79
-132,Tunisia,79
-133,Turkey,79
-134,Turkmenistan,79
-135,UAE,79
-136,Uganda,79
-137,Ukraine,79
-138,United Kingdom,79
+28,Colombia,94
+29,Cote d'Ivoire,32
+30,Croatia,32
+31,Cyprus,94
+32,Czechia,32
+33,Democratic Republic of the Congo,131
+34,Denmark,32
+35,Djibouti,94
+36,Dominican Republic,94
+37,Ecuador,94
+38,Egypt,94
+39,El Salvador,94
+40,Equatorial Guinea,94
+41,Estonia,94
+42,Ethiopia,94
+43,Fiji,94
+44,Finland,32
+45,France,32
+46,Gabon,94
+47,Georgia,94
+48,Germany,32
+49,Ghana,94
+50,Greece,32
+51,Guatemala,94
+52,Guinea,94
+53,Guyana,94
+54,Honduras,94
+55,Hungary,94
+56,India,94
+57,Indonesia,94
+58,Iran,94
+59,Iraq,94
+60,Ireland,94
+61,Israel,32
+62,Italy,32
+63,Jamaica,94
+64,Japan,94
+65,Jordan,32
+66,Kazakhstan,94
+67,Kenya,94
+68,Kuwait,94
+69,Kyrgyzstan,94
+70,Laos,94
+71,Latvia,94
+72,Lebanon,94
+73,Lesotho,94
+74,Libya,94
+75,Lithuania,94
+76,Luxembourg,94
+77,Macedonia,94
+78,Malawi,94
+79,Malaysia,94
+80,Mali,94
+81,Malta,94
+82,Mauritania,94
+83,Mauritius,94
+84,Mexico,94
+85,Montenegro,94
+86,Morocco,94
+87,Mozambique,94
+88,Myanmar,94
+89,Namibia,94
+90,Nepal,94
+91,Netherlands,32
+92,New Zealand,94
+93,Nicaragua,131
+94,Niger,94
+95,Nigeria,94
+96,Norway,32
+97,Oman,94
+98,Pakistan,94
+99,Panama,94
+100,Papua New Guinea,94
+101,Peru,94
+102,Philippines,94
+103,Poland,32
+104,Portugal,94
+105,Qatar,94
+106,Republic of Korea,32
+107,Romania,94
+108,Russia,32
+109,Rwanda,94
+110,Saudi Arabia,94
+111,Senegal,94
+112,Serbia,94
+113,Seychelles,94
+114,Sierra Leone,94
+115,Singapore,32
+116,Slovakia,94
+117,Slovenia,94
+118,Somalia,94
+119,South Africa,32
+120,South Sudan,94
+121,Spain,32
+122,Sri Lanka,94
+123,Sudan,94
+124,Sweden,32
+125,Switzerland,32
+126,Syria,94
+127,Taiwan,94
+128,Tajikistan,94
+129,Tanzania,94
+130,Thailand,94
+131,Trinidad and Tobago,131
+132,Tunisia,94
+133,Turkey,32
+134,Turkmenistan,94
+135,UAE,32
+136,Uganda,94
+137,Ukraine,32
+138,United Kingdom,32
 139,United States,27
-140,Uruguay,79
-141,Uzbekistan,79
-142,Venezuela,79
-143,Viet Nam,79
-144,Western Sahara,79
-145,Yemen,79
-146,Zambia,79
+140,Uruguay,94
+141,Uzbekistan,32
+142,Venezuela,131
+143,Viet Nam,94
+144,Western Sahara,94
+145,Yemen,94
+146,Zambia,94

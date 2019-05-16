@@ -73,6 +73,7 @@ def _find_neighbor_for_trade(feature_space, k):
 
 def build_graph_from_knn(featureSpace,c,k):
     edges,weights=_find_neighbor_for_trade(featureSpace,k)
+    print(weights)
     return __build_graph(edges,weights,c)
 
 def __build_graph(edges,weights,c):
@@ -132,12 +133,12 @@ def build_knn_graph(image,k,c):
 ##################### Main - combined cluster
 s='acna_knn_edges.csv'
 sn='acna_knn_nodes_space.csv'
-c=20
+c=1
 k=5
 out_combined='cluster_combined.csv'
 ca=ANCA(s,sn,0.3,0.2)
 featureSpace=ca.anca_calc()
-print(featureSpace)
+
 g=build_graph_from_knn(featureSpace,c,k)
 g.HFSegmentation()
 g.cluster_community(ca.realName_dic,out_combined)
